@@ -1,0 +1,4024 @@
+Date Time,Event,Actual
+1/3/12,FOMC Meeting Minutes,--
+1/3/12,Construction Spending MoM,1.20%
+1/3/12,ISM Prices Paid,47.5
+1/3/12,ISM Manufacturing,53.9
+1/4/12,MBA Mortgage Applications,-4.10%
+1/4/12,Factory Orders,1.80%
+1/4/12,Wards Total Vehicle Sales,13.48
+1/5/12,Challenger Job Cuts YoY,30.60%
+1/5/12,ADP Employment Change,325
+1/5/12,Initial Jobless Claims,372
+1/5/12,Continuing Claims,3595
+1/5/12,Langer Consumer Comfort,-44.8
+1/5/12,ISM Services Index,52.6
+1/6/12,Change in Nonfarm Payrolls,200
+1/6/12,Change in Private Payrolls,212
+1/6/12,Change in Manufact. Payrolls,23
+1/6/12,Unemployment Rate,8.50%
+1/6/12,Underemployment Rate,15.20%
+1/6/12,Average Hourly Earnings MoM,0.20%
+1/6/12,Average Hourly Earnings YoY,2.10%
+1/6/12,Average Weekly Hours All Employees,34.4
+1/9/12,Consumer Credit,$20.37 
+1/10/12,NFIB Small Business Optimism,93.8
+1/10/12,Wholesale Inventories MoM,0.10%
+1/10/12,JOLTS Job Openings,3161
+1/11/12,MBA Mortgage Applications,4.50%
+1/12/12,Retail Sales Advance MoM,0.10%
+1/12/12,Retail Sales Ex Auto MoM,-0.20%
+1/12/12,Retail Sales Ex Auto and Gas,0.00%
+1/12/12,Retail Sales Control Group,-0.20%
+1/12/12,Initial Jobless Claims,399
+1/12/12,Continuing Claims,3628
+1/12/12,Langer Consumer Comfort,-44.7
+1/12/12,Business Inventories,0.30%
+1/12/12,Monthly Budget Statement,($86.00)
+1/13/12,Import Price Index MoM,-0.10%
+1/13/12,Import Price Index YoY,8.50%
+1/13/12,Trade Balance,($47.80)
+1/13/12,U. of Mich. Sentiment,74
+1/17/12,Empire Manufacturing,13.5
+1/18/12,MBA Mortgage Applications,23.10%
+1/18/12,Total Net TIC Flows,$48.60 
+1/18/12,Net Long-term TIC Flows,$59.80 
+1/18/12,Industrial Production MoM,0.40%
+1/18/12,Capacity Utilization,78.10%
+1/18/12,NAHB Housing Market Index,25
+1/19/12,CPI MoM,0.00%
+1/19/12,CPI Ex Food and Energy MoM,0.10%
+1/19/12,CPI YoY,3.00%
+1/19/12,CPI Ex Food and Energy YoY,2.20%
+1/19/12,CPI Index NSA,225.672
+1/19/12,CPI Core Index SA,227.166
+1/19/12,Housing Starts,657
+1/19/12,Housing Starts MoM,-4.10%
+1/19/12,Building Permits,679
+1/19/12,Initial Jobless Claims,352
+1/19/12,Continuing Claims,3432
+1/19/12,Langer Consumer Comfort,-47.4
+1/19/12,Philadelphia Fed Business Outlook,7.3
+1/20/12,Existing Home Sales,4.61
+1/20/12,Existing Home Sales MoM,5.00%
+1/24/12,Richmond Fed Manufact. Index,12
+1/25/12,MBA Mortgage Applications,-5.00%
+1/25/12,FHFA House Price Index MoM,1.00%
+1/25/12,Pending Home Sales MoM,-3.50%
+1/25/12,Pending Home Sales NSA YoY,4.40%
+1/25/12,FOMC Rate Decision (Upper Bound),0.25%
+1/26/12,Chicago Fed Nat Activity Index,0.17
+1/26/12,Durable Goods Orders,3.00%
+1/26/12,Durables Ex Transportation,2.10%
+1/26/12,Cap Goods Orders Nondef Ex Air,2.90%
+1/26/12,Cap Goods Ship Nondef Ex Air,2.90%
+1/26/12,Initial Jobless Claims,377
+1/26/12,Continuing Claims,3554
+1/26/12,Langer Consumer Comfort,-46.4
+1/26/12,Leading Index,0.40%
+1/26/12,New Home Sales,307
+1/26/12,New Home Sales MoM,-2.20%
+1/26/12,Kansas City Fed Manf. Activity,7
+1/27/12,GDP Annualized QoQ,2.80%
+1/27/12,Personal Consumption,2.00%
+1/27/12,GDP Price Index,0.40%
+1/27/12,Core PCE QoQ,1.10%
+1/27/12,U. of Mich. Sentiment,75
+1/30/12,Personal Income,0.50%
+1/30/12,Personal Spending,0.00%
+1/30/12,PCE Deflator YoY,2.40%
+1/30/12,PCE Core Deflator MoM,0.20%
+1/30/12,PCE Core Deflator YoY,1.80%
+1/30/12,Dallas Fed Manf. Activity,15.3
+1/31/12,Employment Cost Index,0.40%
+1/31/12,MNI Chicago PMI,60.2
+1/31/12,Conf. Board Consumer Confidence,61.1
+2/1/12,MBA Mortgage Applications,-2.90%
+2/1/12,ADP Employment Change,170
+2/1/12,Construction Spending MoM,1.50%
+2/1/12,ISM Prices Paid,55.5
+2/1/12,ISM Manufacturing,54.1
+2/1/12,Wards Total Vehicle Sales,14.13
+2/2/12,Challenger Job Cuts YoY,38.90%
+2/2/12,Nonfarm Productivity,0.70%
+2/2/12,Unit Labor Costs,1.20%
+2/2/12,Initial Jobless Claims,367
+2/2/12,Continuing Claims,3437
+2/2/12,Langer Consumer Comfort,-44.8
+2/3/12,Change in Nonfarm Payrolls,243
+2/3/12,Change in Private Payrolls,257
+2/3/12,Change in Manufact. Payrolls,50
+2/3/12,Unemployment Rate,8.30%
+2/3/12,Average Hourly Earnings MoM,0.20%
+2/3/12,Average Hourly Earnings YoY,1.90%
+2/3/12,Average Weekly Hours All Employees,34.5
+2/3/12,Underemployment Rate,15.10%
+2/3/12,Factory Orders,1.10%
+2/3/12,ISM Services Index,56.8
+2/7/12,JOLTS Job Openings,3376
+2/7/12,Consumer Credit,$19.31 
+2/8/12,MBA Mortgage Applications,7.50%
+2/9/12,Initial Jobless Claims,358
+2/9/12,Continuing Claims,3515
+2/9/12,Langer Consumer Comfort,-41.7
+2/9/12,Wholesale Inventories MoM,1.00%
+2/10/12,Trade Balance,($48.80)
+2/10/12,U. of Mich. Sentiment,72.5
+2/10/12,Monthly Budget Statement,($27.40)
+2/14/12,NFIB Small Business Optimism,93.9
+2/14/12,Import Price Index MoM,0.30%
+2/14/12,Import Price Index YoY,7.10%
+2/14/12,Retail Sales Advance MoM,0.40%
+2/14/12,Retail Sales Ex Auto MoM,0.70%
+2/14/12,Retail Sales Ex Auto and Gas,0.60%
+2/14/12,Retail Sales Control Group,0.70%
+2/14/12,Business Inventories,0.40%
+2/15/12,MBA Mortgage Applications,-1.00%
+2/15/12,Empire Manufacturing,19.5
+2/15/12,Total Net TIC Flows,$87.10 
+2/15/12,Net Long-term TIC Flows,$17.90 
+2/15/12,Industrial Production MoM,0.00%
+2/15/12,Capacity Utilization,78.50%
+2/15/12,NAHB Housing Market Index,29
+2/15/12,FOMC Meeting Minutes,--
+2/16/12,Initial Jobless Claims,348
+2/16/12,Continuing Claims,3426
+2/16/12,Housing Starts,699
+2/16/12,Housing Starts MoM,1.50%
+2/16/12,Building Permits,676
+2/16/12,Langer Consumer Comfort,-39.8
+2/16/12,Mortgage Delinquencies,7.58%
+2/16/12,MBA Mortgage Foreclosures,4.38%
+2/16/12,Philadelphia Fed Business Outlook,10.2
+2/17/12,CPI MoM,0.20%
+2/17/12,CPI Ex Food and Energy MoM,0.20%
+2/17/12,CPI YoY,2.90%
+2/17/12,CPI Ex Food and Energy YoY,2.30%
+2/17/12,CPI Index NSA,226.665
+2/17/12,CPI Core Index SA,227.684
+2/17/12,Leading Index,0.40%
+2/21/12,Chicago Fed Nat Activity Index,0.22
+2/22/12,MBA Mortgage Applications,-4.50%
+2/22/12,Existing Home Sales,4.57
+2/22/12,Existing Home Sales MoM,4.30%
+2/23/12,Initial Jobless Claims,351
+2/23/12,Continuing Claims,3392
+2/23/12,Langer Consumer Comfort,-38.4
+2/23/12,FHFA House Price Index MoM,0.70%
+2/23/12,House Price Purchase Index QoQ,-0.10%
+2/23/12,Kansas City Fed Manf. Activity,13
+2/24/12,U. of Mich. Sentiment,75.3
+2/24/12,New Home Sales,321
+2/24/12,New Home Sales MoM,-0.90%
+2/27/12,Pending Home Sales MoM,2.00%
+2/27/12,Pending Home Sales NSA YoY,10.30%
+2/27/12,Dallas Fed Manf. Activity,17.8
+2/28/12,Durable Goods Orders,-4.00%
+2/28/12,Durables Ex Transportation,-3.20%
+2/28/12,Cap Goods Orders Nondef Ex Air,-4.50%
+2/28/12,Cap Goods Ship Nondef Ex Air,-3.10%
+2/28/12,Richmond Fed Manufact. Index,20
+2/28/12,Conf. Board Consumer Confidence,70.8
+2/29/12,MBA Mortgage Applications,-0.30%
+2/29/12,GDP Annualized QoQ,3.00%
+2/29/12,Personal Consumption,2.10%
+2/29/12,GDP Price Index,0.90%
+2/29/12,Core PCE QoQ,1.30%
+2/29/12,MNI Chicago PMI,64
+3/1/12,Personal Income,0.30%
+3/1/12,Personal Spending,0.20%
+3/1/12,PCE Deflator YoY,2.40%
+3/1/12,PCE Core Deflator MoM,0.20%
+3/1/12,PCE Core Deflator YoY,1.90%
+3/1/12,Initial Jobless Claims,351
+3/1/12,Continuing Claims,3402
+3/1/12,Langer Consumer Comfort,-38.8
+3/1/12,Construction Spending MoM,-0.10%
+3/1/12,ISM Prices Paid,61.5
+3/1/12,ISM Manufacturing,52.4
+3/1/12,Wards Total Vehicle Sales,15.03
+3/5/12,Factory Orders,-1.00%
+3/5/12,ISM Services Index,57.3
+3/7/12,MBA Mortgage Applications,-1.20%
+3/7/12,ADP Employment Change,216
+3/7/12,Nonfarm Productivity,0.90%
+3/7/12,Unit Labor Costs,2.80%
+3/7/12,Consumer Credit,$17.78 
+3/8/12,Challenger Job Cuts YoY,2.00%
+3/8/12,Initial Jobless Claims,362
+3/8/12,Continuing Claims,3416
+3/8/12,Langer Consumer Comfort,-36.7
+3/9/12,Trade Balance,($52.60)
+3/9/12,Change in Nonfarm Payrolls,227
+3/9/12,Change in Private Payrolls,233
+3/9/12,Change in Manufact. Payrolls,31
+3/9/12,Unemployment Rate,8.30%
+3/9/12,Average Hourly Earnings MoM,0.10%
+3/9/12,Average Hourly Earnings YoY,1.90%
+3/9/12,Average Weekly Hours All Employees,34.5
+3/9/12,Underemployment Rate,14.90%
+3/9/12,Wholesale Inventories MoM,0.40%
+3/12/12,Monthly Budget Statement,($231.70)
+3/13/12,NFIB Small Business Optimism,94.3
+3/13/12,Retail Sales Advance MoM,1.10%
+3/13/12,Retail Sales Ex Auto MoM,0.90%
+3/13/12,Retail Sales Ex Auto and Gas,0.60%
+3/13/12,Retail Sales Control Group,0.50%
+3/13/12,Business Inventories,0.70%
+3/13/12,JOLTS Job Openings,3459
+3/13/12,FOMC Rate Decision (Upper Bound),0.25%
+3/14/12,MBA Mortgage Applications,-2.40%
+3/14/12,Current Account Balance,($124.10)
+3/14/12,Import Price Index MoM,0.40%
+3/14/12,Import Price Index YoY,5.50%
+3/15/12,Empire Manufacturing,20.2
+3/15/12,Initial Jobless Claims,351
+3/15/12,Continuing Claims,3343
+3/15/12,Total Net TIC Flows,$18.80 
+3/15/12,Net Long-term TIC Flows,$101.00 
+3/15/12,Langer Consumer Comfort,-33.7
+3/15/12,Philadelphia Fed Business Outlook,12.5
+3/16/12,CPI MoM,0.40%
+3/16/12,CPI Ex Food and Energy MoM,0.10%
+3/16/12,CPI YoY,2.90%
+3/16/12,CPI Ex Food and Energy YoY,2.20%
+3/16/12,CPI Index NSA,227.663
+3/16/12,CPI Core Index SA,227.907
+3/16/12,Industrial Production MoM,0.00%
+3/16/12,Capacity Utilization,78.70%
+3/16/12,U. of Mich. Sentiment,74.3
+3/19/12,NAHB Housing Market Index,28
+3/20/12,Housing Starts,698
+3/20/12,Housing Starts MoM,-1.10%
+3/20/12,Building Permits,717
+3/21/12,MBA Mortgage Applications,-7.40%
+3/21/12,Existing Home Sales,4.59
+3/21/12,Existing Home Sales MoM,-0.90%
+3/22/12,Initial Jobless Claims,348
+3/22/12,Continuing Claims,3352
+3/22/12,Langer Consumer Comfort,-34.9
+3/22/12,FHFA House Price Index MoM,0.00%
+3/22/12,Leading Index,0.70%
+3/23/12,New Home Sales,313
+3/23/12,New Home Sales MoM,-1.60%
+3/26/12,Chicago Fed Nat Activity Index,-0.09
+3/26/12,Pending Home Sales MoM,-0.50%
+3/26/12,Pending Home Sales NSA YoY,13.90%
+3/26/12,Dallas Fed Manf. Activity,10.8
+3/27/12,Richmond Fed Manufact. Index,7
+3/27/12,Conf. Board Consumer Confidence,70.2
+3/28/12,MBA Mortgage Applications,-2.70%
+3/28/12,Durable Goods Orders,2.20%
+3/28/12,Durables Ex Transportation,1.60%
+3/28/12,Cap Goods Orders Nondef Ex Air,1.20%
+3/28/12,Cap Goods Ship Nondef Ex Air,1.40%
+3/29/12,GDP Annualized QoQ,3.00%
+3/29/12,Personal Consumption,2.10%
+3/29/12,GDP Price Index,0.90%
+3/29/12,Core PCE QoQ,1.30%
+3/29/12,Initial Jobless Claims,359
+3/29/12,Continuing Claims,3340
+3/29/12,Langer Consumer Comfort,-34.7
+3/29/12,Kansas City Fed Manf. Activity,9
+3/30/12,Personal Income,0.20%
+3/30/12,Personal Spending,0.80%
+3/30/12,PCE Deflator MoM,0.30%
+3/30/12,PCE Deflator YoY,2.30%
+3/30/12,PCE Core Deflator MoM,0.10%
+3/30/12,PCE Core Deflator YoY,1.90%
+3/30/12,MNI Chicago PMI,62.2
+3/30/12,U. of Mich. Sentiment,76.2
+4/2/12,Construction Spending MoM,-1.10%
+4/2/12,ISM Prices Paid,61
+4/2/12,ISM Manufacturing,53.4
+4/3/12,Factory Orders,1.30%
+4/3/12,FOMC Meeting Minutes,--
+4/3/12,Wards Total Vehicle Sales,14.32
+4/4/12,MBA Mortgage Applications,4.80%
+4/4/12,ADP Employment Change,209
+4/4/12,ISM Services Index,56
+4/5/12,Challenger Job Cuts YoY,-8.80%
+4/5/12,Initial Jobless Claims,357
+4/5/12,Continuing Claims,3338
+4/5/12,Langer Consumer Comfort,-31.4
+4/6/12,Change in Nonfarm Payrolls,120
+4/6/12,Change in Private Payrolls,121
+4/6/12,Change in Manufact. Payrolls,37
+4/6/12,Unemployment Rate,8.20%
+4/6/12,Average Hourly Earnings MoM,0.20%
+4/6/12,Average Hourly Earnings YoY,2.10%
+4/6/12,Average Weekly Hours All Employees,34.5
+4/6/12,Underemployment Rate,14.50%
+4/6/12,Consumer Credit,$8.74 
+4/10/12,NFIB Small Business Optimism,92.5
+4/10/12,Wholesale Inventories MoM,0.90%
+4/10/12,JOLTS Job Openings,3498
+4/11/12,MBA Mortgage Applications,-2.40%
+4/11/12,Import Price Index MoM,1.30%
+4/11/12,Import Price Index YoY,3.40%
+4/11/12,Monthly Budget Statement,($198.20)
+4/12/12,Trade Balance,($46.00)
+4/12/12,Initial Jobless Claims,380
+4/12/12,Continuing Claims,3251
+4/12/12,Langer Consumer Comfort,-32.8
+4/13/12,CPI MoM,0.30%
+4/13/12,CPI Ex Food and Energy MoM,0.20%
+4/13/12,CPI YoY,2.70%
+4/13/12,CPI Ex Food and Energy YoY,2.30%
+4/13/12,CPI Index NSA,229.392
+4/13/12,CPI Core Index SA,228.432
+4/13/12,U. of Mich. Sentiment,75.7
+4/16/12,Retail Sales Advance MoM,0.80%
+4/16/12,Empire Manufacturing,6.6
+4/16/12,Retail Sales Ex Auto MoM,0.80%
+4/16/12,Retail Sales Ex Auto and Gas,0.70%
+4/16/12,Retail Sales Control Group,0.40%
+4/16/12,Total Net TIC Flows,$107.70 
+4/16/12,Net Long-term TIC Flows,$10.10 
+4/16/12,Business Inventories,0.60%
+4/16/12,NAHB Housing Market Index,25
+4/17/12,Housing Starts,654
+4/17/12,Housing Starts MoM,-5.80%
+4/17/12,Building Permits,747
+4/17/12,Industrial Production MoM,0.00%
+4/17/12,Capacity Utilization,78.60%
+4/17/12,Manufacturing (SIC) Production,-0.20%
+4/18/12,MBA Mortgage Applications,6.90%
+4/19/12,Initial Jobless Claims,386
+4/19/12,Continuing Claims,3297
+4/19/12,Langer Consumer Comfort,-31.4
+4/19/12,Philadelphia Fed Business Outlook,8.5
+4/19/12,Existing Home Sales,4.48
+4/19/12,Existing Home Sales MoM,-2.60%
+4/19/12,Leading Index,0.30%
+4/24/12,Richmond Fed Manufact. Index,14
+4/24/12,Conf. Board Consumer Confidence,69.2
+4/24/12,FHFA House Price Index MoM,0.30%
+4/24/12,New Home Sales,328
+4/24/12,New Home Sales MoM,-7.10%
+4/25/12,MBA Mortgage Applications,-3.80%
+4/25/12,Durable Goods Orders,-4.20%
+4/25/12,Durables Ex Transportation,-1.10%
+4/25/12,Cap Goods Orders Nondef Ex Air,-0.80%
+4/25/12,Cap Goods Ship Nondef Ex Air,2.60%
+4/25/12,FOMC Rate Decision (Upper Bound),0.25%
+4/26/12,Chicago Fed Nat Activity Index,-0.29
+4/26/12,Initial Jobless Claims,388
+4/26/12,Continuing Claims,3315
+4/26/12,Langer Consumer Comfort,-35.8
+4/26/12,Pending Home Sales MoM,4.10%
+4/26/12,Pending Home Sales NSA YoY,10.80%
+4/26/12,Kansas City Fed Manf. Activity,3
+4/27/12,Employment Cost Index,0.40%
+4/27/12,GDP Annualized QoQ,2.20%
+4/27/12,Personal Consumption,2.90%
+4/27/12,GDP Price Index,1.50%
+4/27/12,Core PCE QoQ,2.10%
+4/27/12,U. of Mich. Sentiment,76.4
+4/30/12,Personal Income,0.40%
+4/30/12,Personal Spending,0.30%
+4/30/12,PCE Deflator MoM,0.20%
+4/30/12,PCE Deflator YoY,2.10%
+4/30/12,PCE Core Deflator MoM,0.20%
+4/30/12,PCE Core Deflator YoY,2.00%
+4/30/12,MNI Chicago PMI,56.2
+4/30/12,Dallas Fed Manf. Activity,-3.4
+5/1/12,Construction Spending MoM,0.10%
+5/1/12,ISM Prices Paid,61
+5/1/12,ISM Manufacturing,54.8
+5/1/12,Wards Total Vehicle Sales,14.38
+5/2/12,MBA Mortgage Applications,0.10%
+5/2/12,ADP Employment Change,119
+5/2/12,Factory Orders,-1.50%
+5/3/12,Challenger Job Cuts YoY,11.20%
+5/3/12,Nonfarm Productivity,-0.50%
+5/3/12,Unit Labor Costs,2.00%
+5/3/12,Initial Jobless Claims,365
+5/3/12,Continuing Claims,3276
+5/3/12,Langer Consumer Comfort,-37.6
+5/3/12,ISM Services Index,53.5
+5/4/12,Change in Nonfarm Payrolls,115
+5/4/12,Change in Private Payrolls,130
+5/4/12,Change in Manufact. Payrolls,16
+5/4/12,Unemployment Rate,8.10%
+5/4/12,Average Hourly Earnings MoM,0.00%
+5/4/12,Average Hourly Earnings YoY,1.80%
+5/4/12,Average Weekly Hours All Employees,34.5
+5/4/12,Underemployment Rate,14.50%
+5/7/12,Consumer Credit,$21.36 
+5/8/12,NFIB Small Business Optimism,94.5
+5/8/12,JOLTS Job Openings,3737
+5/9/12,MBA Mortgage Applications,1.70%
+5/9/12,Wholesale Inventories MoM,0.30%
+5/10/12,Import Price Index MoM,-0.50%
+5/10/12,Import Price Index YoY,0.50%
+5/10/12,Trade Balance,($51.80)
+5/10/12,Initial Jobless Claims,367
+5/10/12,Continuing Claims,3229
+5/10/12,Langer Consumer Comfort,-40.4
+5/10/12,Monthly Budget Statement,$59.10 
+5/11/12,U. of Mich. Sentiment,77.8
+5/15/12,CPI MoM,0.00%
+5/15/12,CPI Ex Food and Energy MoM,0.20%
+5/15/12,CPI YoY,2.30%
+5/15/12,CPI Ex Food and Energy YoY,2.30%
+5/15/12,CPI Index NSA,230.085
+5/15/12,CPI Core Index SA,228.984
+5/15/12,Empire Manufacturing,17.1
+5/15/12,Retail Sales Advance MoM,0.10%
+5/15/12,Retail Sales Ex Auto MoM,0.10%
+5/15/12,Retail Sales Ex Auto and Gas,0.10%
+5/15/12,Retail Sales Control Group,0.40%
+5/15/12,Total Net TIC Flows,($49.90)
+5/15/12,Net Long-term TIC Flows,$36.20 
+5/15/12,Business Inventories,0.30%
+5/15/12,NAHB Housing Market Index,29
+5/16/12,MBA Mortgage Applications,9.20%
+5/16/12,Housing Starts,717
+5/16/12,Housing Starts MoM,2.60%
+5/16/12,Building Permits,715
+5/16/12,Industrial Production MoM,1.10%
+5/16/12,Capacity Utilization,79.20%
+5/16/12,Manufacturing (SIC) Production,0.60%
+5/16/12,Mortgage Delinquencies,7.40%
+5/16/12,MBA Mortgage Foreclosures,4.39%
+5/16/12,FOMC Meeting Minutes,--
+5/17/12,Initial Jobless Claims,370
+5/17/12,Continuing Claims,3265
+5/17/12,Langer Consumer Comfort,-43.6
+5/17/12,Philadelphia Fed Business Outlook,-5.8
+5/17/12,Leading Index,-0.10%
+5/21/12,Chicago Fed Nat Activity Index,0.11
+5/22/12,Richmond Fed Manufact. Index,4
+5/22/12,Existing Home Sales,4.62
+5/22/12,Existing Home Sales MoM,3.40%
+5/23/12,MBA Mortgage Applications,3.80%
+5/23/12,FHFA House Price Index MoM,1.80%
+5/23/12,House Price Purchase Index QoQ,0.60%
+5/23/12,New Home Sales,343
+5/23/12,New Home Sales MoM,3.30%
+5/24/12,Durable Goods Orders,0.20%
+5/24/12,Durables Ex Transportation,-0.60%
+5/24/12,Cap Goods Orders Nondef Ex Air,-1.90%
+5/24/12,Cap Goods Ship Nondef Ex Air,-1.40%
+5/24/12,Initial Jobless Claims,370
+5/24/12,Continuing Claims,3260
+5/24/12,Langer Consumer Comfort,-42
+5/24/12,Kansas City Fed Manf. Activity,9
+5/25/12,U. of Mich. Sentiment,79.3
+5/29/12,Conf. Board Consumer Confidence,64.9
+5/29/12,Dallas Fed Manf. Activity,-5.1
+5/30/12,MBA Mortgage Applications,-1.30%
+5/30/12,Pending Home Sales MoM,-5.50%
+5/30/12,Pending Home Sales NSA YoY,14.70%
+5/31/12,Challenger Job Cuts YoY,66.70%
+5/31/12,ADP Employment Change,133
+5/31/12,GDP Annualized QoQ,1.90%
+5/31/12,Personal Consumption,2.70%
+5/31/12,GDP Price Index,1.70%
+5/31/12,Core PCE QoQ,2.10%
+5/31/12,Initial Jobless Claims,383
+5/31/12,Continuing Claims,3242
+5/31/12,MNI Chicago PMI,52.7
+5/31/12,Langer Consumer Comfort,-39.3
+6/1/12,Change in Nonfarm Payrolls,69
+6/1/12,Change in Private Payrolls,82
+6/1/12,Change in Manufact. Payrolls,12
+6/1/12,Unemployment Rate,8.20%
+6/1/12,Average Hourly Earnings MoM,0.10%
+6/1/12,Average Hourly Earnings YoY,1.70%
+6/1/12,Average Weekly Hours All Employees,34.4
+6/1/12,Underemployment Rate,14.80%
+6/1/12,Personal Income,0.20%
+6/1/12,Personal Spending,0.30%
+6/1/12,PCE Deflator MoM,0.00%
+6/1/12,PCE Deflator YoY,1.80%
+6/1/12,PCE Core Deflator MoM,0.10%
+6/1/12,PCE Core Deflator YoY,1.90%
+6/1/12,ISM Manufacturing,53.5
+6/1/12,ISM Prices Paid,47.5
+6/1/12,Construction Spending MoM,0.30%
+6/1/12,Wards Total Vehicle Sales,13.73
+6/4/12,Factory Orders,-0.60%
+6/5/12,ISM Services Index,53.7
+6/6/12,MBA Mortgage Applications,1.30%
+6/6/12,Nonfarm Productivity,-0.90%
+6/6/12,Unit Labor Costs,1.30%
+6/7/12,Initial Jobless Claims,377
+6/7/12,Continuing Claims,3293
+6/7/12,Langer Consumer Comfort,-37.6
+6/7/12,Consumer Credit,$6.52 
+6/8/12,Trade Balance,($50.10)
+6/8/12,Wholesale Inventories MoM,0.60%
+6/12/12,NFIB Small Business Optimism,94.4
+6/12/12,Import Price Index MoM,-1.00%
+6/12/12,Import Price Index YoY,-0.30%
+6/12/12,Monthly Budget Statement,($124.60)
+6/13/12,MBA Mortgage Applications,18.00%
+6/13/12,Retail Sales Advance MoM,-0.20%
+6/13/12,Retail Sales Ex Auto MoM,-0.40%
+6/13/12,Retail Sales Ex Auto and Gas,-0.10%
+6/13/12,Retail Sales Control Group,0.00%
+6/13/12,Business Inventories,0.40%
+6/14/12,Current Account Balance,($137.30)
+6/14/12,CPI MoM,-0.30%
+6/14/12,CPI Ex Food and Energy MoM,0.20%
+6/14/12,CPI YoY,1.70%
+6/14/12,CPI Ex Food and Energy YoY,2.30%
+6/14/12,CPI Index NSA,229.815
+6/14/12,CPI Core Index SA,229.446
+6/14/12,Initial Jobless Claims,386
+6/14/12,Continuing Claims,3278
+6/14/12,Langer Consumer Comfort,-36.4
+6/15/12,Empire Manufacturing,2.3
+6/15/12,Total Net TIC Flows,($20.50)
+6/15/12,Net Long-term TIC Flows,$25.60 
+6/15/12,Industrial Production MoM,-0.10%
+6/15/12,Capacity Utilization,79.00%
+6/15/12,Manufacturing (SIC) Production,-0.40%
+6/15/12,U. of Mich. Sentiment,74.1
+6/18/12,NAHB Housing Market Index,29
+6/19/12,Housing Starts,708
+6/19/12,Housing Starts MoM,-4.80%
+6/19/12,Building Permits,780
+6/19/12,JOLTS Job Openings,3416
+6/20/12,MBA Mortgage Applications,-0.80%
+6/20/12,FOMC Rate Decision (Upper Bound),0.25%
+6/21/12,Initial Jobless Claims,387
+6/21/12,Continuing Claims,3299
+6/21/12,Langer Consumer Comfort,-37.9
+6/21/12,Philadelphia Fed Business Outlook,-16.6
+6/21/12,Existing Home Sales,4.55
+6/21/12,Existing Home Sales MoM,-1.50%
+6/21/12,FHFA House Price Index MoM,0.80%
+6/21/12,Leading Index,0.30%
+6/25/12,Chicago Fed Nat Activity Index,-0.45
+6/25/12,New Home Sales,369
+6/25/12,New Home Sales MoM,7.60%
+6/25/12,Dallas Fed Manf. Activity,5.8
+6/26/12,Richmond Fed Manufact. Index,-3
+6/26/12,Conf. Board Consumer Confidence,62
+6/27/12,MBA Mortgage Applications,-7.10%
+6/27/12,Durable Goods Orders,1.10%
+6/27/12,Durables Ex Transportation,0.40%
+6/27/12,Cap Goods Orders Nondef Ex Air,1.60%
+6/27/12,Cap Goods Ship Nondef Ex Air,0.40%
+6/27/12,Pending Home Sales MoM,5.90%
+6/27/12,Pending Home Sales NSA YoY,15.30%
+6/28/12,GDP Annualized QoQ,1.90%
+6/28/12,Personal Consumption,2.50%
+6/28/12,GDP Price Index,2.00%
+6/28/12,Core PCE QoQ,2.30%
+6/28/12,Initial Jobless Claims,386
+6/28/12,Continuing Claims,3296
+6/28/12,Langer Consumer Comfort,-36.1
+6/28/12,Kansas City Fed Manf. Activity,3
+6/29/12,Personal Income,0.20%
+6/29/12,Personal Spending,0.00%
+6/29/12,PCE Deflator MoM,-0.20%
+6/29/12,PCE Deflator YoY,1.50%
+6/29/12,PCE Core Deflator MoM,0.10%
+6/29/12,PCE Core Deflator YoY,1.80%
+6/29/12,MNI Chicago PMI,52.9
+6/29/12,U. of Mich. Sentiment,73.2
+7/2/12,ISM Manufacturing,49.7
+7/2/12,ISM Prices Paid,37
+7/2/12,Construction Spending MoM,0.90%
+7/3/12,Factory Orders,0.70%
+7/3/12,Wards Total Vehicle Sales,14.05
+7/5/12,MBA Mortgage Applications,-6.70%
+7/5/12,Challenger Job Cuts YoY,-9.40%
+7/5/12,ADP Employment Change,176
+7/5/12,Initial Jobless Claims,374
+7/5/12,Continuing Claims,3306
+7/5/12,Langer Consumer Comfort,-37.5
+7/5/12,ISM Services Index,52.1
+7/6/12,Change in Nonfarm Payrolls,80
+7/6/12,Change in Private Payrolls,84
+7/6/12,Change in Manufact. Payrolls,11
+7/6/12,Unemployment Rate,8.20%
+7/6/12,Average Hourly Earnings MoM,0.30%
+7/6/12,Average Hourly Earnings YoY,2.00%
+7/6/12,Average Weekly Hours All Employees,34.5
+7/6/12,Underemployment Rate,14.90%
+7/9/12,Consumer Credit,$17.12 
+7/10/12,NFIB Small Business Optimism,91.4
+7/10/12,JOLTS Job Openings,3642
+7/11/12,MBA Mortgage Applications,-2.10%
+7/11/12,Trade Balance,($48.70)
+7/11/12,Wholesale Inventories MoM,0.30%
+7/11/12,FOMC Meeting Minutes,--
+7/12/12,Import Price Index MoM,-2.70%
+7/12/12,Import Price Index YoY,-2.60%
+7/12/12,Initial Jobless Claims,350
+7/12/12,Continuing Claims,3304
+7/12/12,Langer Consumer Comfort,-37.5
+7/12/12,Monthly Budget Statement,($59.70)
+7/13/12,U. of Mich. Sentiment,72
+7/16/12,Empire Manufacturing,7.4
+7/16/12,Retail Sales Advance MoM,-0.50%
+7/16/12,Retail Sales Ex Auto MoM,-0.40%
+7/16/12,Retail Sales Ex Auto and Gas,-0.20%
+7/16/12,Retail Sales Control Group,-0.10%
+7/16/12,Business Inventories,0.30%
+7/17/12,CPI MoM,0.00%
+7/17/12,CPI Ex Food and Energy MoM,0.20%
+7/17/12,CPI YoY,1.70%
+7/17/12,CPI Ex Food and Energy YoY,2.20%
+7/17/12,CPI Index NSA,229.478
+7/17/12,CPI Core Index SA,229.916
+7/17/12,Total Net TIC Flows,$101.70 
+7/17/12,Net Long-term TIC Flows,$55.00 
+7/17/12,Industrial Production MoM,0.40%
+7/17/12,Capacity Utilization,78.90%
+7/17/12,Manufacturing (SIC) Production,0.70%
+7/17/12,NAHB Housing Market Index,35
+7/18/12,MBA Mortgage Applications,16.90%
+7/18/12,Housing Starts,760
+7/18/12,Housing Starts MoM,6.90%
+7/18/12,Building Permits,755
+7/19/12,Initial Jobless Claims,386
+7/19/12,Continuing Claims,3314
+7/19/12,Langer Consumer Comfort,-37.9
+7/19/12,Philadelphia Fed Business Outlook,-12.9
+7/19/12,Existing Home Sales,4.37
+7/19/12,Existing Home Sales MoM,-5.40%
+7/19/12,Leading Index,-0.30%
+7/23/12,Chicago Fed Nat Activity Index,-0.15
+7/24/12,Richmond Fed Manufact. Index,-17
+7/24/12,FHFA House Price Index MoM,0.80%
+7/25/12,MBA Mortgage Applications,0.90%
+7/25/12,New Home Sales,350
+7/25/12,New Home Sales MoM,-8.40%
+7/26/12,Durable Goods Orders,1.60%
+7/26/12,Durables Ex Transportation,-1.10%
+7/26/12,Cap Goods Orders Nondef Ex Air,-1.40%
+7/26/12,Cap Goods Ship Nondef Ex Air,1.20%
+7/26/12,Initial Jobless Claims,353
+7/26/12,Continuing Claims,3287
+7/26/12,Langer Consumer Comfort,-38.5
+7/26/12,Pending Home Sales MoM,-1.40%
+7/26/12,Pending Home Sales NSA YoY,8.40%
+7/26/12,Kansas City Fed Manf. Activity,5
+7/27/12,GDP Annualized QoQ,1.50%
+7/27/12,Personal Consumption,1.50%
+7/27/12,GDP Price Index,1.60%
+7/27/12,Core PCE QoQ,1.80%
+7/27/12,U. of Mich. Sentiment,72.3
+7/30/12,Dallas Fed Manf. Activity,-13.2
+7/31/12,Personal Income,0.50%
+7/31/12,Personal Spending,0.00%
+7/31/12,PCE Deflator MoM,0.10%
+7/31/12,PCE Deflator YoY,1.50%
+7/31/12,PCE Core Deflator MoM,0.20%
+7/31/12,PCE Core Deflator YoY,1.80%
+7/31/12,Employment Cost Index,0.50%
+7/31/12,MNI Chicago PMI,53.7
+7/31/12,Conf. Board Consumer Confidence,65.9
+8/1/12,MBA Mortgage Applications,0.20%
+8/1/12,ADP Employment Change,163
+8/1/12,ISM Manufacturing,49.8
+8/1/12,ISM Prices Paid,39.5
+8/1/12,Construction Spending MoM,0.40%
+8/1/12,FOMC Rate Decision (Upper Bound),0.25%
+8/1/12,Wards Total Vehicle Sales,14.05
+8/2/12,Challenger Job Cuts YoY,-44.50%
+8/2/12,Initial Jobless Claims,365
+8/2/12,Continuing Claims,3272
+8/2/12,Langer Consumer Comfort,-39.7
+8/2/12,Factory Orders,-0.50%
+8/3/12,Change in Nonfarm Payrolls,163
+8/3/12,Change in Private Payrolls,172
+8/3/12,Change in Manufact. Payrolls,25
+8/3/12,Unemployment Rate,8.30%
+8/3/12,Average Hourly Earnings MoM,0.10%
+8/3/12,Average Hourly Earnings YoY,1.70%
+8/3/12,Average Weekly Hours All Employees,34.5
+8/3/12,Underemployment Rate,15.00%
+8/3/12,ISM Services Index,52.6
+8/7/12,JOLTS Job Openings,3762
+8/7/12,Consumer Credit,$6.46 
+8/8/12,MBA Mortgage Applications,-1.80%
+8/8/12,Nonfarm Productivity,1.60%
+8/8/12,Unit Labor Costs,1.70%
+8/9/12,Trade Balance,($42.90)
+8/9/12,Initial Jobless Claims,361
+8/9/12,Continuing Claims,3332
+8/9/12,Langer Consumer Comfort,-41.9
+8/9/12,Wholesale Inventories MoM,-0.20%
+8/9/12,Mortgage Delinquencies,7.58%
+8/9/12,MBA Mortgage Foreclosures,4.27%
+8/10/12,Import Price Index MoM,-0.60%
+8/10/12,Import Price Index YoY,-3.20%
+8/10/12,Monthly Budget Statement,($69.60)
+8/14/12,NFIB Small Business Optimism,91.2
+8/14/12,Retail Sales Advance MoM,0.80%
+8/14/12,Retail Sales Ex Auto MoM,0.80%
+8/14/12,Retail Sales Ex Auto and Gas,0.90%
+8/14/12,Retail Sales Control Group,0.90%
+8/14/12,Business Inventories,0.10%
+8/15/12,MBA Mortgage Applications,-4.50%
+8/15/12,CPI MoM,0.00%
+8/15/12,CPI Ex Food and Energy MoM,0.10%
+8/15/12,CPI YoY,1.40%
+8/15/12,CPI Ex Food and Energy YoY,2.10%
+8/15/12,CPI Index NSA,229.104
+8/15/12,CPI Core Index SA,230.124
+8/15/12,Empire Manufacturing,-5.9
+8/15/12,Total Net TIC Flows,$16.70 
+8/15/12,Net Long-term TIC Flows,$9.30 
+8/15/12,Industrial Production MoM,0.60%
+8/15/12,Capacity Utilization,79.30%
+8/15/12,Manufacturing (SIC) Production,0.50%
+8/15/12,NAHB Housing Market Index,37
+8/16/12,Initial Jobless Claims,366
+8/16/12,Housing Starts,746
+8/16/12,Continuing Claims,3305
+8/16/12,Housing Starts MoM,-1.10%
+8/16/12,Building Permits,812
+8/16/12,Langer Consumer Comfort,-44.4
+8/16/12,Philadelphia Fed Business Outlook,-7.1
+8/17/12,U. of Mich. Sentiment,73.6
+8/17/12,Leading Index,0.40%
+8/20/12,Chicago Fed Nat Activity Index,-0.13
+8/22/12,MBA Mortgage Applications,-7.40%
+8/22/12,Existing Home Sales,4.47
+8/22/12,Existing Home Sales MoM,2.30%
+8/22/12,FOMC Meeting Minutes,--
+8/23/12,Initial Jobless Claims,372
+8/23/12,Continuing Claims,3317
+8/23/12,Langer Consumer Comfort,-47.4
+8/23/12,New Home Sales,372
+8/23/12,New Home Sales MoM,3.60%
+8/23/12,FHFA House Price Index MoM,0.70%
+8/23/12,House Price Purchase Index QoQ,1.80%
+8/24/12,Durable Goods Orders,4.20%
+8/24/12,Durables Ex Transportation,-0.40%
+8/24/12,Cap Goods Orders Nondef Ex Air,-3.40%
+8/24/12,Cap Goods Ship Nondef Ex Air,0.00%
+8/27/12,Dallas Fed Manf. Activity,-1.6
+8/28/12,Richmond Fed Manufact. Index,-9
+8/28/12,Conf. Board Consumer Confidence,60.6
+8/29/12,MBA Mortgage Applications,-4.30%
+8/29/12,GDP Annualized QoQ,1.70%
+8/29/12,Personal Consumption,1.70%
+8/29/12,GDP Price Index,1.60%
+8/29/12,Core PCE QoQ,1.80%
+8/29/12,Pending Home Sales MoM,2.40%
+8/29/12,Pending Home Sales NSA YoY,15.00%
+8/30/12,Personal Income,0.30%
+8/30/12,Personal Spending,0.40%
+8/30/12,PCE Deflator MoM,0.00%
+8/30/12,PCE Deflator YoY,1.30%
+8/30/12,PCE Core Deflator MoM,0.00%
+8/30/12,PCE Core Deflator YoY,1.60%
+8/30/12,Initial Jobless Claims,374
+8/30/12,Continuing Claims,3316
+8/30/12,Langer Consumer Comfort,-47.3
+8/30/12,Kansas City Fed Manf. Activity,8
+8/31/12,MNI Chicago PMI,53
+8/31/12,U. of Mich. Sentiment,74.3
+8/31/12,Factory Orders,2.80%
+9/4/12,ISM Manufacturing,49.6
+9/4/12,ISM Prices Paid,54
+9/4/12,Construction Spending MoM,-0.90%
+9/4/12,Wards Total Vehicle Sales,14.46
+9/5/12,MBA Mortgage Applications,-2.50%
+9/5/12,Nonfarm Productivity,2.20%
+9/5/12,Unit Labor Costs,1.50%
+9/6/12,Challenger Job Cuts YoY,-36.90%
+9/6/12,ADP Employment Change,201
+9/6/12,Initial Jobless Claims,365
+9/6/12,Continuing Claims,3322
+9/6/12,Langer Consumer Comfort,-46.5
+9/6/12,ISM Services Index,53.7
+9/7/12,Change in Nonfarm Payrolls,96
+9/7/12,Change in Private Payrolls,103
+9/7/12,Change in Manufact. Payrolls,-15
+9/7/12,Unemployment Rate,8.10%
+9/7/12,Average Hourly Earnings MoM,0.00%
+9/7/12,Average Hourly Earnings YoY,1.70%
+9/7/12,Average Weekly Hours All Employees,34.4
+9/7/12,Underemployment Rate,14.70%
+9/10/12,Consumer Credit,($3.28)
+9/11/12,NFIB Small Business Optimism,92.9
+9/11/12,Trade Balance,($42.00)
+9/11/12,JOLTS Job Openings,3664
+9/12/12,MBA Mortgage Applications,11.10%
+9/12/12,Import Price Index MoM,0.70%
+9/12/12,Import Price Index YoY,-2.20%
+9/12/12,Wholesale Inventories MoM,0.70%
+9/13/12,Initial Jobless Claims,382
+9/13/12,Continuing Claims,3283
+9/13/12,Langer Consumer Comfort,-42.2
+9/13/12,FOMC Rate Decision (Upper Bound),0.25%
+9/13/12,Monthly Budget Statement,($190.50)
+9/14/12,CPI MoM,0.60%
+9/14/12,CPI Ex Food and Energy MoM,0.10%
+9/14/12,CPI YoY,1.70%
+9/14/12,CPI Ex Food and Energy YoY,1.90%
+9/14/12,CPI Index NSA,230.379
+9/14/12,CPI Core Index SA,230.244
+9/14/12,Retail Sales Advance MoM,0.90%
+9/14/12,Retail Sales Ex Auto MoM,0.80%
+9/14/12,Retail Sales Ex Auto and Gas,0.10%
+9/14/12,Retail Sales Control Group,-0.10%
+9/14/12,Industrial Production MoM,-1.20%
+9/14/12,Capacity Utilization,78.20%
+9/14/12,Manufacturing (SIC) Production,-0.70%
+9/14/12,U. of Mich. Sentiment,79.2
+9/14/12,Business Inventories,0.80%
+9/17/12,Empire Manufacturing,-10.4
+9/18/12,Current Account Balance,($117.40)
+9/18/12,Total Net TIC Flows,$73.70 
+9/18/12,Net Long-term TIC Flows,$67.00 
+9/18/12,NAHB Housing Market Index,40
+9/19/12,MBA Mortgage Applications,-0.20%
+9/19/12,Housing Starts,750
+9/19/12,Housing Starts MoM,2.30%
+9/19/12,Building Permits,803
+9/19/12,Existing Home Sales,4.82
+9/19/12,Existing Home Sales MoM,7.80%
+9/20/12,Initial Jobless Claims,382
+9/20/12,Continuing Claims,3272
+9/20/12,Langer Consumer Comfort,-40.8
+9/20/12,Philadelphia Fed Business Outlook,-1.9
+9/20/12,Leading Index,-0.10%
+9/20/12,Household Change in Net Worth,($322)
+9/24/12,Chicago Fed Nat Activity Index,-0.87
+9/24/12,Dallas Fed Manf. Activity,-0.9
+9/25/12,Richmond Fed Manufact. Index,4
+9/25/12,Conf. Board Consumer Confidence,70.3
+9/25/12,FHFA House Price Index MoM,0.20%
+9/26/12,MBA Mortgage Applications,2.80%
+9/26/12,New Home Sales,373
+9/26/12,New Home Sales MoM,-0.30%
+9/27/12,GDP Annualized QoQ,1.30%
+9/27/12,Personal Consumption,1.50%
+9/27/12,GDP Price Index,1.60%
+9/27/12,Core PCE QoQ,1.70%
+9/27/12,Durable Goods Orders,-13.20%
+9/27/12,Durables Ex Transportation,-1.60%
+9/27/12,Cap Goods Orders Nondef Ex Air,1.10%
+9/27/12,Cap Goods Ship Nondef Ex Air,-0.90%
+9/27/12,Initial Jobless Claims,359
+9/27/12,Continuing Claims,3271
+9/27/12,Langer Consumer Comfort,-39.6
+9/27/12,Pending Home Sales MoM,-2.60%
+9/27/12,Pending Home Sales NSA YoY,9.60%
+9/27/12,Kansas City Fed Manf. Activity,2
+9/28/12,Personal Income,0.10%
+9/28/12,Personal Spending,0.50%
+9/28/12,PCE Deflator MoM,0.40%
+9/28/12,PCE Deflator YoY,1.50%
+9/28/12,PCE Core Deflator MoM,0.10%
+9/28/12,PCE Core Deflator YoY,1.60%
+9/28/12,MNI Chicago PMI,49.7
+9/28/12,U. of Mich. Sentiment,78.3
+10/1/12,ISM Manufacturing,51.5
+10/1/12,ISM Prices Paid,58
+10/1/12,Construction Spending MoM,-0.60%
+10/2/12,Wards Total Vehicle Sales,14.88
+10/3/12,MBA Mortgage Applications,16.60%
+10/3/12,ADP Employment Change,162
+10/3/12,ISM Services Index,55.1
+10/4/12,Challenger Job Cuts YoY,-70.80%
+10/4/12,Initial Jobless Claims,367
+10/4/12,Continuing Claims,3281
+10/4/12,Langer Consumer Comfort,-36.9
+10/4/12,Factory Orders,-5.20%
+10/4/12,FOMC Meeting Minutes,--
+10/5/12,Change in Nonfarm Payrolls,114
+10/5/12,Change in Private Payrolls,104
+10/5/12,Change in Manufact. Payrolls,-16
+10/5/12,Unemployment Rate,7.80%
+10/5/12,Average Hourly Earnings MoM,0.30%
+10/5/12,Average Hourly Earnings YoY,1.80%
+10/5/12,Average Weekly Hours All Employees,34.5
+10/5/12,Underemployment Rate,14.70%
+10/5/12,Consumer Credit,$18.12 
+10/9/12,NFIB Small Business Optimism,92.8
+10/10/12,MBA Mortgage Applications,-1.20%
+10/10/12,Wholesale Inventories MoM,0.50%
+10/10/12,JOLTS Job Openings,3561
+10/11/12,Import Price Index MoM,1.10%
+10/11/12,Import Price Index YoY,-0.60%
+10/11/12,Trade Balance,($44.20)
+10/11/12,Initial Jobless Claims,339
+10/11/12,Continuing Claims,3273
+10/11/12,Langer Consumer Comfort,-38.5
+10/12/12,U. of Mich. Sentiment,83.1
+10/12/12,Monthly Budget Statement,$75.00 
+10/15/12,Empire Manufacturing,-6.2
+10/15/12,Retail Sales Advance MoM,1.10%
+10/15/12,Retail Sales Ex Auto MoM,1.10%
+10/15/12,Retail Sales Ex Auto and Gas,0.90%
+10/15/12,Retail Sales Control Group,0.90%
+10/15/12,Business Inventories,0.60%
+10/16/12,CPI MoM,0.60%
+10/16/12,CPI Ex Food and Energy MoM,0.10%
+10/16/12,CPI YoY,2.00%
+10/16/12,CPI Ex Food and Energy YoY,2.00%
+10/16/12,CPI Index NSA,231.407
+10/16/12,CPI Core Index SA,230.58
+10/16/12,Total Net TIC Flows,$91.40 
+10/16/12,Net Long-term TIC Flows,$90.00 
+10/16/12,Industrial Production MoM,0.40%
+10/16/12,Capacity Utilization,78.30%
+10/16/12,Manufacturing (SIC) Production,0.20%
+10/16/12,NAHB Housing Market Index,41
+10/17/12,MBA Mortgage Applications,-4.20%
+10/17/12,Housing Starts,872
+10/17/12,Housing Starts MoM,15.00%
+10/17/12,Building Permits,894
+10/18/12,Initial Jobless Claims,388
+10/18/12,Continuing Claims,3252
+10/18/12,Langer Consumer Comfort,-34.8
+10/18/12,Philadelphia Fed Business Outlook,5.7
+10/18/12,Leading Index,0.60%
+10/19/12,Existing Home Sales,4.75
+10/19/12,Existing Home Sales MoM,-1.70%
+10/23/12,Richmond Fed Manufact. Index,-7
+10/23/12,FHFA House Price Index MoM,0.70%
+10/24/12,MBA Mortgage Applications,-12.00%
+10/24/12,New Home Sales,389
+10/24/12,New Home Sales MoM,5.70%
+10/24/12,FOMC Rate Decision (Upper Bound),0.25%
+10/25/12,Chicago Fed Nat Activity Index,0
+10/25/12,Durable Goods Orders,9.90%
+10/25/12,Durables Ex Transportation,2.00%
+10/25/12,Cap Goods Orders Nondef Ex Air,0.00%
+10/25/12,Cap Goods Ship Nondef Ex Air,-0.30%
+10/25/12,Initial Jobless Claims,369
+10/25/12,Continuing Claims,3254
+10/25/12,Langer Consumer Comfort,-34.6
+10/25/12,Pending Home Sales MoM,0.30%
+10/25/12,Pending Home Sales NSA YoY,8.50%
+10/25/12,Kansas City Fed Manf. Activity,-4
+10/26/12,GDP Annualized QoQ,2.00%
+10/26/12,Personal Consumption,2.00%
+10/26/12,GDP Price Index,2.80%
+10/26/12,Core PCE QoQ,1.30%
+10/26/12,U. of Mich. Sentiment,82.6
+10/29/12,Personal Income,0.40%
+10/29/12,Personal Spending,0.80%
+10/29/12,PCE Deflator MoM,0.40%
+10/29/12,PCE Deflator YoY,1.70%
+10/29/12,PCE Core Deflator MoM,0.10%
+10/29/12,PCE Core Deflator YoY,1.70%
+10/29/12,Dallas Fed Manf. Activity,1.8
+10/31/12,MBA Mortgage Applications,-4.80%
+10/31/12,Employment Cost Index,0.40%
+10/31/12,MNI Chicago PMI,49.9
+11/1/12,Challenger Job Cuts YoY,11.60%
+11/1/12,ADP Employment Change,158
+11/1/12,Nonfarm Productivity,1.90%
+11/1/12,Unit Labor Costs,-0.10%
+11/1/12,Initial Jobless Claims,363
+11/1/12,Continuing Claims,3263
+11/1/12,Langer Consumer Comfort,-34.7
+11/1/12,Conf. Board Consumer Confidence,72.2
+11/1/12,ISM Manufacturing,51.7
+11/1/12,ISM Prices Paid,55
+11/1/12,Construction Spending MoM,0.60%
+11/1/12,Wards Total Vehicle Sales,14.22
+11/2/12,Change in Nonfarm Payrolls,171
+11/2/12,Change in Private Payrolls,184
+11/2/12,Change in Manufact. Payrolls,13
+11/2/12,Unemployment Rate,7.90%
+11/2/12,Average Hourly Earnings MoM,0.00%
+11/2/12,Average Hourly Earnings YoY,1.60%
+11/2/12,Average Weekly Hours All Employees,34.4
+11/2/12,Underemployment Rate,14.60%
+11/2/12,Factory Orders,4.80%
+11/5/12,ISM Services Index,54.2
+11/6/12,JOLTS Job Openings,3561
+11/7/12,MBA Mortgage Applications,-5.00%
+11/7/12,Consumer Credit,$11.37 
+11/8/12,Trade Balance,($41.50)
+11/8/12,Initial Jobless Claims,355
+11/8/12,Continuing Claims,3127
+11/8/12,Langer Consumer Comfort,-34.4
+11/9/12,Import Price Index MoM,0.50%
+11/9/12,Import Price Index YoY,0.40%
+11/9/12,U. of Mich. Sentiment,84.9
+11/9/12,Wholesale Inventories MoM,1.10%
+11/13/12,NFIB Small Business Optimism,93.1
+11/13/12,Monthly Budget Statement,($120.00)
+11/14/12,MBA Mortgage Applications,12.60%
+11/14/12,Retail Sales Advance MoM,-0.30%
+11/14/12,Retail Sales Ex Auto MoM,0.00%
+11/14/12,Retail Sales Ex Auto and Gas,-0.30%
+11/14/12,Retail Sales Control Group,-0.10%
+11/14/12,Business Inventories,0.70%
+11/14/12,FOMC Meeting Minutes,--
+11/15/12,CPI MoM,0.10%
+11/15/12,CPI Ex Food and Energy MoM,0.20%
+11/15/12,CPI YoY,2.20%
+11/15/12,CPI Ex Food and Energy YoY,2.00%
+11/15/12,CPI Index NSA,231.317
+11/15/12,CPI Core Index SA,230.994
+11/15/12,Empire Manufacturing,-5.2
+11/15/12,Initial Jobless Claims,439
+11/15/12,Continuing Claims,3334
+11/15/12,Langer Consumer Comfort,-33.1
+11/15/12,Mortgage Delinquencies,7.40%
+11/15/12,MBA Mortgage Foreclosures,4.07%
+11/15/12,Philadelphia Fed Business Outlook,-10.7
+11/16/12,Total Net TIC Flows,$4.70 
+11/16/12,Net Long-term TIC Flows,$3.30 
+11/16/12,Industrial Production MoM,-0.40%
+11/16/12,Capacity Utilization,77.80%
+11/16/12,Manufacturing (SIC) Production,-0.90%
+11/19/12,NAHB Housing Market Index,46
+11/19/12,Existing Home Sales,4.79
+11/19/12,Existing Home Sales MoM,2.10%
+11/20/12,Housing Starts,894
+11/20/12,Housing Starts MoM,3.60%
+11/20/12,Building Permits,866
+11/21/12,MBA Mortgage Applications,-2.20%
+11/21/12,Initial Jobless Claims,410
+11/21/12,Continuing Claims,3337
+11/21/12,Langer Consumer Comfort,-33.9
+11/21/12,U. of Mich. Sentiment,82.7
+11/21/12,Leading Index,0.20%
+11/26/12,Chicago Fed Nat Activity Index,-0.56
+11/26/12,Dallas Fed Manf. Activity,-2.8
+11/27/12,Durable Goods Orders,0.00%
+11/27/12,Durables Ex Transportation,1.50%
+11/27/12,Cap Goods Orders Nondef Ex Air,1.70%
+11/27/12,Cap Goods Ship Nondef Ex Air,-0.40%
+11/27/12,Richmond Fed Manufact. Index,9
+11/27/12,Conf. Board Consumer Confidence,73.7
+11/27/12,FHFA House Price Index MoM,0.20%
+11/27/12,House Price Purchase Index QoQ,1.10%
+11/28/12,MBA Mortgage Applications,-0.90%
+11/28/12,New Home Sales,368
+11/28/12,New Home Sales MoM,-0.30%
+11/29/12,GDP Annualized QoQ,2.70%
+11/29/12,Personal Consumption,1.40%
+11/29/12,GDP Price Index,2.70%
+11/29/12,Core PCE QoQ,1.10%
+11/29/12,Initial Jobless Claims,393
+11/29/12,Continuing Claims,3287
+11/29/12,Langer Consumer Comfort,-33
+11/29/12,Pending Home Sales MoM,5.20%
+11/29/12,Pending Home Sales NSA YoY,18.00%
+11/29/12,Kansas City Fed Manf. Activity,-6
+11/30/12,Personal Income,0.00%
+11/30/12,Personal Spending,-0.20%
+11/30/12,PCE Deflator MoM,0.10%
+11/30/12,PCE Deflator YoY,1.70%
+11/30/12,PCE Core Deflator MoM,0.10%
+11/30/12,PCE Core Deflator YoY,1.60%
+11/30/12,MNI Chicago PMI,50.4
+12/3/12,ISM Manufacturing,49.5
+12/3/12,ISM Prices Paid,52.5
+12/3/12,Construction Spending MoM,1.40%
+12/3/12,Wards Total Vehicle Sales,15.46
+12/5/12,MBA Mortgage Applications,4.50%
+12/5/12,ADP Employment Change,118
+12/5/12,Nonfarm Productivity,2.90%
+12/5/12,Unit Labor Costs,-1.90%
+12/5/12,Factory Orders,0.80%
+12/5/12,ISM Services Index,54.7
+12/6/12,Challenger Job Cuts YoY,34.40%
+12/6/12,Initial Jobless Claims,370
+12/6/12,Continuing Claims,3205
+12/6/12,Langer Consumer Comfort,-33.8
+12/6/12,Household Change in Net Worth,"$1,722 "
+12/7/12,Change in Nonfarm Payrolls,146
+12/7/12,Change in Private Payrolls,147
+12/7/12,Change in Manufact. Payrolls,-7
+12/7/12,Unemployment Rate,7.70%
+12/7/12,Average Hourly Earnings MoM,0.20%
+12/7/12,Average Hourly Earnings YoY,1.70%
+12/7/12,Average Weekly Hours All Employees,34.4
+12/7/12,Underemployment Rate,14.40%
+12/7/12,U. of Mich. Sentiment,74.5
+12/7/12,Consumer Credit,$14.16 
+12/11/12,NFIB Small Business Optimism,87.5
+12/11/12,Trade Balance,($42.20)
+12/11/12,Wholesale Inventories MoM,0.60%
+12/11/12,JOLTS Job Openings,3675
+12/12/12,MBA Mortgage Applications,6.20%
+12/12/12,Import Price Index MoM,-0.90%
+12/12/12,Import Price Index YoY,-1.60%
+12/12/12,FOMC Rate Decision (Upper Bound),0.25%
+12/12/12,Monthly Budget Statement,($172.10)
+12/13/12,Retail Sales Advance MoM,0.30%
+12/13/12,Retail Sales Ex Auto MoM,0.00%
+12/13/12,Retail Sales Ex Auto and Gas,0.70%
+12/13/12,Retail Sales Control Group,0.50%
+12/13/12,Initial Jobless Claims,343
+12/13/12,Continuing Claims,3198
+12/13/12,Langer Consumer Comfort,-34.5
+12/13/12,Business Inventories,0.40%
+12/14/12,CPI MoM,-0.30%
+12/14/12,CPI Ex Food and Energy MoM,0.10%
+12/14/12,CPI YoY,1.80%
+12/14/12,CPI Ex Food and Energy YoY,1.90%
+12/14/12,CPI Index NSA,230.221
+12/14/12,CPI Core Index SA,231.254
+12/14/12,Industrial Production MoM,1.10%
+12/14/12,Capacity Utilization,78.40%
+12/14/12,Manufacturing (SIC) Production,1.10%
+12/17/12,Empire Manufacturing,-8.1
+12/17/12,Total Net TIC Flows,($56.70)
+12/17/12,Net Long-term TIC Flows,$1.30 
+12/18/12,Current Account Balance,($107.50)
+12/18/12,NAHB Housing Market Index,47
+12/19/12,MBA Mortgage Applications,-12.30%
+12/19/12,Housing Starts,861
+12/19/12,Housing Starts MoM,-3.00%
+12/19/12,Building Permits,899
+12/20/12,GDP Annualized QoQ,3.10%
+12/20/12,Personal Consumption,1.60%
+12/20/12,GDP Price Index,2.70%
+12/20/12,Core PCE QoQ,1.10%
+12/20/12,Initial Jobless Claims,361
+12/20/12,Continuing Claims,3225
+12/20/12,Langer Consumer Comfort,-31.9
+12/20/12,Philadelphia Fed Business Outlook,8.1
+12/20/12,Existing Home Sales,5.04
+12/20/12,Existing Home Sales MoM,5.90%
+12/20/12,Leading Index,-0.20%
+12/20/12,FHFA House Price Index MoM,0.50%
+12/21/12,Chicago Fed Nat Activity Index,0.1
+12/21/12,Personal Income,0.60%
+12/21/12,Personal Spending,0.40%
+12/21/12,PCE Deflator MoM,-0.20%
+12/21/12,PCE Deflator YoY,1.40%
+12/21/12,PCE Core Deflator MoM,0.00%
+12/21/12,PCE Core Deflator YoY,1.50%
+12/21/12,Durable Goods Orders,0.70%
+12/21/12,Durables Ex Transportation,1.60%
+12/21/12,Cap Goods Orders Nondef Ex Air,2.70%
+12/21/12,Cap Goods Ship Nondef Ex Air,1.80%
+12/21/12,U. of Mich. Sentiment,72.9
+12/21/12,Kansas City Fed Manf. Activity,-2
+12/26/12,Richmond Fed Manufact. Index,5
+12/27/12,Initial Jobless Claims,350
+12/27/12,Continuing Claims,3206
+12/27/12,Langer Consumer Comfort,-32.1
+12/27/12,Conf. Board Consumer Confidence,65.1
+12/27/12,New Home Sales,377
+12/27/12,New Home Sales MoM,4.40%
+12/28/12,MNI Chicago PMI,51.6
+12/28/12,Pending Home Sales MoM,1.70%
+12/28/12,Pending Home Sales NSA YoY,8.90%
+12/31/12,Dallas Fed Manf. Activity,6.8
+1/2/13,Construction Spending MoM,-0.30%
+1/2/13,ISM Manufacturing,50.7
+1/2/13,ISM Prices Paid,55.5
+1/3/13,MBA Mortgage Applications,-10.40%
+1/3/13,Challenger Job Cuts YoY,-22.10%
+1/3/13,ADP Employment Change,215
+1/3/13,Initial Jobless Claims,372
+1/3/13,Continuing Claims,3245
+1/3/13,Langer Consumer Comfort,-31.8
+1/3/13,FOMC Meeting Minutes,--
+1/3/13,Wards Total Vehicle Sales,15.3
+1/4/13,Change in Nonfarm Payrolls,155
+1/4/13,Change in Private Payrolls,168
+1/4/13,Change in Manufact. Payrolls,25
+1/4/13,Unemployment Rate,7.80%
+1/4/13,Average Hourly Earnings MoM,0.30%
+1/4/13,Average Hourly Earnings YoY,2.10%
+1/4/13,Average Weekly Hours All Employees,34.5
+1/4/13,Underemployment Rate,14.40%
+1/4/13,Factory Orders,0.00%
+1/4/13,ISM Services Index,56.1
+1/8/13,NFIB Small Business Optimism,88
+1/8/13,Consumer Credit,$16.05 
+1/9/13,MBA Mortgage Applications,11.70%
+1/10/13,Initial Jobless Claims,371
+1/10/13,Continuing Claims,3109
+1/10/13,Langer Consumer Comfort,-34.4
+1/10/13,Wholesale Inventories MoM,0.60%
+1/10/13,JOLTS Job Openings,3676
+1/11/13,Import Price Index MoM,-0.10%
+1/11/13,Import Price Index YoY,-1.50%
+1/11/13,Trade Balance,($48.70)
+1/11/13,Monthly Budget Statement,($0.30)
+1/15/13,Empire Manufacturing,-7.8
+1/15/13,Retail Sales Advance MoM,0.50%
+1/15/13,Retail Sales Ex Auto MoM,0.30%
+1/15/13,Retail Sales Ex Auto and Gas,0.60%
+1/15/13,Retail Sales Control Group,0.60%
+1/15/13,Business Inventories,0.30%
+1/16/13,MBA Mortgage Applications,15.20%
+1/16/13,CPI MoM,0.00%
+1/16/13,CPI Ex Food and Energy MoM,0.10%
+1/16/13,CPI YoY,1.70%
+1/16/13,CPI Ex Food and Energy YoY,1.90%
+1/16/13,CPI Core Index SA,231.475
+1/16/13,CPI Index NSA,229.601
+1/16/13,Total Net TIC Flows,$27.80 
+1/16/13,Net Long-term TIC Flows,$52.30 
+1/16/13,Industrial Production MoM,0.30%
+1/16/13,Capacity Utilization,78.80%
+1/16/13,Manufacturing (SIC) Production,0.80%
+1/16/13,NAHB Housing Market Index,47
+1/17/13,Housing Starts,954
+1/17/13,Housing Starts MoM,12.10%
+1/17/13,Building Permits,903
+1/17/13,Initial Jobless Claims,335
+1/17/13,Continuing Claims,3214
+1/17/13,Langer Consumer Comfort,-35.5
+1/17/13,Philadelphia Fed Business Outlook,-5.8
+1/18/13,U. of Mich. Sentiment,71.3
+1/22/13,Chicago Fed Nat Activity Index,0.02
+1/22/13,Richmond Fed Manufact. Index,-12
+1/22/13,Existing Home Sales,4.94
+1/22/13,Existing Home Sales MoM,-1.00%
+1/23/13,MBA Mortgage Applications,7.00%
+1/23/13,FHFA House Price Index MoM,0.60%
+1/24/13,Initial Jobless Claims,330
+1/24/13,Continuing Claims,3157
+1/24/13,Langer Consumer Comfort,-36.4
+1/24/13,Leading Index,0.50%
+1/24/13,Kansas City Fed Manf. Activity,-2
+1/25/13,New Home Sales,369
+1/25/13,New Home Sales MoM,-7.30%
+1/28/13,Durable Goods Orders,4.60%
+1/28/13,Durables Ex Transportation,1.30%
+1/28/13,Cap Goods Orders Nondef Ex Air,0.20%
+1/28/13,Cap Goods Ship Nondef Ex Air,0.30%
+1/28/13,Pending Home Sales MoM,-4.30%
+1/28/13,Pending Home Sales NSA YoY,4.90%
+1/28/13,Dallas Fed Manf. Activity,5.5
+1/29/13,Conf. Board Consumer Confidence,58.6
+1/30/13,MBA Mortgage Applications,-8.10%
+1/30/13,ADP Employment Change,192
+1/30/13,GDP Annualized QoQ,-0.10%
+1/30/13,Personal Consumption,2.20%
+1/30/13,GDP Price Index,0.60%
+1/30/13,Core PCE QoQ,0.90%
+1/30/13,FOMC Rate Decision (Upper Bound),0.25%
+1/31/13,Challenger Job Cuts YoY,-24.40%
+1/31/13,Employment Cost Index,0.50%
+1/31/13,Personal Income,2.60%
+1/31/13,Personal Spending,0.20%
+1/31/13,PCE Deflator MoM,0.00%
+1/31/13,PCE Deflator YoY,1.30%
+1/31/13,PCE Core Deflator MoM,0.00%
+1/31/13,PCE Core Deflator YoY,1.40%
+1/31/13,Initial Jobless Claims,368
+1/31/13,Continuing Claims,3197
+1/31/13,MNI Chicago PMI,55.6
+1/31/13,Langer Consumer Comfort,-37.5
+2/1/13,Change in Nonfarm Payrolls,157
+2/1/13,Change in Private Payrolls,166
+2/1/13,Change in Manufact. Payrolls,4
+2/1/13,Unemployment Rate,7.90%
+2/1/13,Average Hourly Earnings MoM,0.20%
+2/1/13,Average Hourly Earnings YoY,2.10%
+2/1/13,Average Weekly Hours All Employees,34.4
+2/1/13,Underemployment Rate,14.40%
+2/1/13,U. of Mich. Sentiment,73.8
+2/1/13,Construction Spending MoM,0.90%
+2/1/13,ISM Manufacturing,53.1
+2/1/13,ISM Prices Paid,56.5
+2/1/13,Wards Total Vehicle Sales,15.23
+2/4/13,Factory Orders,1.80%
+2/5/13,ISM Services Index,55.2
+2/6/13,MBA Mortgage Applications,3.40%
+2/7/13,Nonfarm Productivity,-2.00%
+2/7/13,Unit Labor Costs,4.50%
+2/7/13,Initial Jobless Claims,366
+2/7/13,Continuing Claims,3224
+2/7/13,Langer Consumer Comfort,-36.3
+2/7/13,Consumer Credit,$14.60 
+2/8/13,Trade Balance,($38.50)
+2/8/13,Wholesale Inventories MoM,-0.10%
+2/12/13,NFIB Small Business Optimism,88.9
+2/12/13,JOLTS Job Openings,3617
+2/12/13,Monthly Budget Statement,$2.90 
+2/13/13,MBA Mortgage Applications,-6.40%
+2/13/13,Import Price Index MoM,0.60%
+2/13/13,Import Price Index YoY,-1.30%
+2/13/13,Retail Sales Advance MoM,0.10%
+2/13/13,Retail Sales Ex Auto MoM,0.20%
+2/13/13,Retail Sales Ex Auto and Gas,0.20%
+2/13/13,Retail Sales Control Group,0.10%
+2/13/13,Business Inventories,0.10%
+2/14/13,Initial Jobless Claims,341
+2/14/13,Continuing Claims,3114
+2/14/13,Langer Consumer Comfort,-35.9
+2/15/13,Empire Manufacturing,10
+2/15/13,Total Net TIC Flows,$25.20 
+2/15/13,Net Long-term TIC Flows,$64.20 
+2/15/13,Industrial Production MoM,-0.10%
+2/15/13,Capacity Utilization,79.10%
+2/15/13,Manufacturing (SIC) Production,-0.40%
+2/15/13,U. of Mich. Sentiment,76.3
+2/19/13,NAHB Housing Market Index,46
+2/20/13,MBA Mortgage Applications,-1.70%
+2/20/13,Housing Starts,890
+2/20/13,Housing Starts MoM,-8.50%
+2/20/13,Building Permits,925
+2/20/13,FOMC Meeting Minutes,--
+2/21/13,CPI MoM,0.00%
+2/21/13,CPI Ex Food and Energy MoM,0.30%
+2/21/13,CPI YoY,1.60%
+2/21/13,CPI Ex Food and Energy YoY,1.90%
+2/21/13,CPI Core Index SA,232.108
+2/21/13,CPI Index NSA,230.28
+2/21/13,Initial Jobless Claims,362
+2/21/13,Continuing Claims,3148
+2/21/13,Langer Consumer Comfort,-33.4
+2/21/13,Mortgage Delinquencies,7.09%
+2/21/13,MBA Mortgage Foreclosures,3.74%
+2/21/13,Philadelphia Fed Business Outlook,-12.5
+2/21/13,Existing Home Sales,4.92
+2/21/13,Existing Home Sales MoM,0.40%
+2/21/13,Leading Index,0.20%
+2/25/13,Chicago Fed Nat Activity Index,-0.32
+2/25/13,Dallas Fed Manf. Activity,2.2
+2/26/13,FHFA House Price Index MoM,0.60%
+2/26/13,House Price Purchase Index QoQ,1.40%
+2/26/13,Richmond Fed Manufact. Index,6
+2/26/13,Conf. Board Consumer Confidence,69.6
+2/26/13,New Home Sales,437
+2/26/13,New Home Sales MoM,15.60%
+2/27/13,MBA Mortgage Applications,-3.80%
+2/27/13,Durable Goods Orders,-5.20%
+2/27/13,Durables Ex Transportation,1.90%
+2/27/13,Cap Goods Orders Nondef Ex Air,6.30%
+2/27/13,Cap Goods Ship Nondef Ex Air,-1.00%
+2/27/13,Pending Home Sales MoM,4.50%
+2/27/13,Pending Home Sales NSA YoY,10.40%
+2/28/13,GDP Annualized QoQ,0.10%
+2/28/13,Personal Consumption,2.10%
+2/28/13,GDP Price Index,0.90%
+2/28/13,Core PCE QoQ,0.90%
+2/28/13,Initial Jobless Claims,344
+2/28/13,Continuing Claims,3074
+2/28/13,MNI Chicago PMI,56.8
+2/28/13,Langer Consumer Comfort,-32.8
+2/28/13,Kansas City Fed Manf. Activity,-10
+3/1/13,Personal Income,-3.60%
+3/1/13,Personal Spending,0.20%
+3/1/13,PCE Deflator MoM,0.00%
+3/1/13,PCE Deflator YoY,1.20%
+3/1/13,PCE Core Deflator MoM,0.10%
+3/1/13,PCE Core Deflator YoY,1.30%
+3/1/13,U. of Mich. Sentiment,77.6
+3/1/13,Construction Spending MoM,-2.10%
+3/1/13,ISM Manufacturing,54.2
+3/1/13,ISM Prices Paid,61.5
+3/1/13,Wards Total Vehicle Sales,15.33
+3/5/13,ISM Services Index,56
+3/6/13,MBA Mortgage Applications,14.80%
+3/6/13,ADP Employment Change,198
+3/6/13,Factory Orders,-2.00%
+3/7/13,Challenger Job Cuts YoY,7.00%
+3/7/13,Trade Balance,($44.40)
+3/7/13,Nonfarm Productivity,-1.90%
+3/7/13,Unit Labor Costs,4.60%
+3/7/13,Initial Jobless Claims,340
+3/7/13,Continuing Claims,3094
+3/7/13,Langer Consumer Comfort,-32.4
+3/7/13,Household Change in Net Worth,"$1,174 "
+3/7/13,Consumer Credit,$16.15 
+3/8/13,Change in Nonfarm Payrolls,236
+3/8/13,Change in Private Payrolls,246
+3/8/13,Change in Manufact. Payrolls,14
+3/8/13,Unemployment Rate,7.70%
+3/8/13,Average Hourly Earnings MoM,0.20%
+3/8/13,Average Hourly Earnings YoY,2.10%
+3/8/13,Average Weekly Hours All Employees,34.5
+3/8/13,Underemployment Rate,14.30%
+3/8/13,Wholesale Inventories MoM,1.20%
+3/8/13,Wholesale Trade Sales MoM,-0.80%
+3/12/13,NFIB Small Business Optimism,90.8
+3/12/13,JOLTS Job Openings,3693
+3/13/13,MBA Mortgage Applications,-4.70%
+3/13/13,Import Price Index MoM,1.10%
+3/13/13,Import Price Index YoY,-0.30%
+3/13/13,Retail Sales Advance MoM,1.10%
+3/13/13,Retail Sales Ex Auto MoM,1.00%
+3/13/13,Retail Sales Ex Auto and Gas,0.40%
+3/13/13,Retail Sales Control Group,0.40%
+3/13/13,Business Inventories,1.00%
+3/13/13,Monthly Budget Statement,($203.50)
+3/14/13,Initial Jobless Claims,332
+3/14/13,Continuing Claims,3024
+3/14/13,Current Account Balance,($110.40)
+3/14/13,Langer Consumer Comfort,-31.6
+3/15/13,Empire Manufacturing,9.2
+3/15/13,CPI MoM,0.70%
+3/15/13,CPI Ex Food and Energy MoM,0.20%
+3/15/13,CPI YoY,2.00%
+3/15/13,CPI Ex Food and Energy YoY,2.00%
+3/15/13,CPI Core Index SA,232.512
+3/15/13,CPI Index NSA,232.166
+3/15/13,Total Net TIC Flows,$110.90 
+3/15/13,Net Long-term TIC Flows,$25.70 
+3/15/13,Industrial Production MoM,0.70%
+3/15/13,Capacity Utilization,79.60%
+3/15/13,Manufacturing (SIC) Production,0.80%
+3/15/13,U. of Mich. Sentiment,71.8
+3/18/13,NAHB Housing Market Index,44
+3/19/13,Housing Starts,917
+3/19/13,Housing Starts MoM,0.80%
+3/19/13,Building Permits,946
+3/20/13,MBA Mortgage Applications,-7.10%
+3/20/13,FOMC Rate Decision (Upper Bound),0.25%
+3/21/13,Initial Jobless Claims,336
+3/21/13,Continuing Claims,3053
+3/21/13,FHFA House Price Index MoM,0.60%
+3/21/13,Langer Consumer Comfort,-33.9
+3/21/13,Philadelphia Fed Business Outlook,2
+3/21/13,Existing Home Sales,4.98
+3/21/13,Existing Home Sales MoM,0.80%
+3/21/13,Leading Index,0.50%
+3/25/13,Chicago Fed Nat Activity Index,0.44
+3/25/13,Dallas Fed Manf. Activity,7.4
+3/26/13,Durable Goods Orders,5.70%
+3/26/13,Durables Ex Transportation,-0.50%
+3/26/13,Cap Goods Orders Nondef Ex Air,-2.70%
+3/26/13,Cap Goods Ship Nondef Ex Air,1.90%
+3/26/13,Richmond Fed Manufact. Index,3
+3/26/13,Conf. Board Consumer Confidence,59.7
+3/26/13,New Home Sales,411
+3/26/13,New Home Sales MoM,-4.60%
+3/27/13,MBA Mortgage Applications,7.70%
+3/27/13,Pending Home Sales MoM,-0.40%
+3/27/13,Pending Home Sales NSA YoY,5.00%
+3/28/13,GDP Annualized QoQ,0.40%
+3/28/13,Personal Consumption,1.80%
+3/28/13,GDP Price Index,1.00%
+3/28/13,Core PCE QoQ,1.00%
+3/28/13,Initial Jobless Claims,357
+3/28/13,Continuing Claims,3050
+3/28/13,MNI Chicago PMI,52.4
+3/28/13,Langer Consumer Comfort,-34.4
+3/28/13,Kansas City Fed Manf. Activity,-5
+3/29/13,Personal Income,1.10%
+3/29/13,Personal Spending,0.70%
+3/29/13,PCE Deflator MoM,0.40%
+3/29/13,PCE Deflator YoY,1.30%
+3/29/13,PCE Core Deflator MoM,0.10%
+3/29/13,PCE Core Deflator YoY,1.30%
+3/29/13,U. of Mich. Sentiment,78.6
+4/1/13,Construction Spending MoM,1.20%
+4/1/13,ISM Manufacturing,51.3
+4/1/13,ISM Prices Paid,54.5
+4/2/13,Factory Orders,3.00%
+4/2/13,Wards Total Vehicle Sales,15.22
+4/3/13,MBA Mortgage Applications,-4.00%
+4/3/13,ADP Employment Change,158
+4/3/13,ISM Services Index,54.4
+4/4/13,Challenger Job Cuts YoY,30.00%
+4/4/13,Initial Jobless Claims,385
+4/4/13,Continuing Claims,3063
+4/4/13,Langer Consumer Comfort,-34.1
+4/5/13,Trade Balance,($43.00)
+4/5/13,Change in Nonfarm Payrolls,88
+4/5/13,Two-Month Payroll Net Revision,61
+4/5/13,Change in Private Payrolls,95
+4/5/13,Change in Manufact. Payrolls,-3
+4/5/13,Unemployment Rate,7.60%
+4/5/13,Average Hourly Earnings MoM,0.00%
+4/5/13,Average Hourly Earnings YoY,1.80%
+4/5/13,Average Weekly Hours All Employees,34.6
+4/5/13,Underemployment Rate,13.80%
+4/5/13,Consumer Credit,$18.14 
+4/9/13,NFIB Small Business Optimism,89.5
+4/9/13,Wholesale Inventories MoM,-0.30%
+4/9/13,Wholesale Trade Sales MoM,1.70%
+4/9/13,JOLTS Job Openings,3925
+4/10/13,MBA Mortgage Applications,4.50%
+4/10/13,FOMC Meeting Minutes,--
+4/10/13,Monthly Budget Statement,($106.50)
+4/11/13,Import Price Index MoM,-0.50%
+4/11/13,Import Price Index YoY,-2.70%
+4/11/13,Initial Jobless Claims,346
+4/11/13,Continuing Claims,3079
+4/11/13,Langer Consumer Comfort,-34
+4/12/13,Retail Sales Advance MoM,-0.40%
+4/12/13,Retail Sales Ex Auto MoM,-0.40%
+4/12/13,Retail Sales Ex Auto and Gas,-0.10%
+4/12/13,Retail Sales Control Group,-0.20%
+4/12/13,U. of Mich. Sentiment,72.3
+4/12/13,Business Inventories,0.10%
+4/15/13,Empire Manufacturing,3.1
+4/15/13,Total Net TIC Flows,$53.60 
+4/15/13,Net Long-term TIC Flows,($17.80)
+4/15/13,NAHB Housing Market Index,42
+4/16/13,CPI MoM,-0.20%
+4/16/13,CPI Ex Food and Energy MoM,0.10%
+4/16/13,CPI YoY,1.50%
+4/16/13,CPI Ex Food and Energy YoY,1.90%
+4/16/13,CPI Core Index SA,232.758
+4/16/13,CPI Index NSA,232.773
+4/16/13,Housing Starts,1036
+4/16/13,Housing Starts MoM,7.00%
+4/16/13,Building Permits,902
+4/16/13,Industrial Production MoM,0.40%
+4/16/13,Capacity Utilization,78.50%
+4/16/13,Manufacturing (SIC) Production,-0.10%
+4/17/13,MBA Mortgage Applications,4.80%
+4/18/13,Initial Jobless Claims,352
+4/18/13,Continuing Claims,3068
+4/18/13,Langer Consumer Comfort,-29.2
+4/18/13,Philadelphia Fed Business Outlook,1.3
+4/18/13,Leading Index,-0.10%
+4/22/13,Chicago Fed Nat Activity Index,-0.23
+4/22/13,Existing Home Sales,4.92
+4/22/13,Existing Home Sales MoM,-0.60%
+4/23/13,FHFA House Price Index MoM,0.70%
+4/23/13,Richmond Fed Manufact. Index,-6
+4/23/13,New Home Sales,417
+4/23/13,New Home Sales MoM,1.50%
+4/24/13,MBA Mortgage Applications,0.20%
+4/24/13,Durable Goods Orders,-5.70%
+4/24/13,Durables Ex Transportation,-1.40%
+4/24/13,Cap Goods Orders Nondef Ex Air,0.20%
+4/24/13,Cap Goods Ship Nondef Ex Air,0.30%
+4/25/13,Initial Jobless Claims,339
+4/25/13,Continuing Claims,3000
+4/25/13,Langer Consumer Comfort,-29.9
+4/25/13,Kansas City Fed Manf. Activity,-5
+4/26/13,GDP Annualized QoQ,2.50%
+4/26/13,Personal Consumption,3.20%
+4/26/13,GDP Price Index,1.20%
+4/26/13,Core PCE QoQ,1.20%
+4/26/13,U. of Mich. Sentiment,76.4
+4/29/13,Personal Income,0.20%
+4/29/13,Personal Spending,0.20%
+4/29/13,PCE Deflator MoM,-0.10%
+4/29/13,PCE Deflator YoY,1.00%
+4/29/13,PCE Core Deflator MoM,0.00%
+4/29/13,PCE Core Deflator YoY,1.10%
+4/29/13,Pending Home Sales MoM,1.50%
+4/29/13,Pending Home Sales NSA YoY,5.80%
+4/29/13,Dallas Fed Manf. Activity,-15.6
+4/30/13,Employment Cost Index,0.30%
+4/30/13,MNI Chicago PMI,49
+4/30/13,Conf. Board Consumer Confidence,68.1
+5/1/13,MBA Mortgage Applications,1.80%
+5/1/13,ADP Employment Change,119
+5/1/13,Construction Spending MoM,-1.70%
+5/1/13,ISM Manufacturing,50.7
+5/1/13,ISM Prices Paid,50
+5/1/13,FOMC Rate Decision (Upper Bound),0.25%
+5/1/13,Wards Total Vehicle Sales,14.88
+5/2/13,Challenger Job Cuts YoY,-6.00%
+5/2/13,Trade Balance,($38.80)
+5/2/13,Nonfarm Productivity,0.70%
+5/2/13,Unit Labor Costs,0.50%
+5/2/13,Initial Jobless Claims,324
+5/2/13,Continuing Claims,3019
+5/2/13,Langer Consumer Comfort,-28.9
+5/3/13,Change in Nonfarm Payrolls,165
+5/3/13,Two-Month Payroll Net Revision,114
+5/3/13,Change in Private Payrolls,176
+5/3/13,Change in Manufact. Payrolls,0
+5/3/13,Unemployment Rate,7.50%
+5/3/13,Average Hourly Earnings MoM,0.20%
+5/3/13,Average Hourly Earnings YoY,1.90%
+5/3/13,Average Weekly Hours All Employees,34.4
+5/3/13,Underemployment Rate,13.90%
+5/3/13,Factory Orders,-4.00%
+5/3/13,ISM Services Index,53.1
+5/7/13,JOLTS Job Openings,3844
+5/7/13,Consumer Credit,$7.97 
+5/8/13,MBA Mortgage Applications,7.00%
+5/9/13,Initial Jobless Claims,323
+5/9/13,Continuing Claims,3005
+5/9/13,Langer Consumer Comfort,-29.5
+5/9/13,Mortgage Delinquencies,7.25%
+5/9/13,MBA Mortgage Foreclosures,3.55%
+5/9/13,Wholesale Inventories MoM,0.40%
+5/9/13,Wholesale Trade Sales MoM,-1.60%
+5/10/13,Monthly Budget Statement,$112.90 
+5/13/13,Retail Sales Advance MoM,0.10%
+5/13/13,Retail Sales Ex Auto MoM,-0.10%
+5/13/13,Retail Sales Ex Auto and Gas,0.60%
+5/13/13,Retail Sales Control Group,0.50%
+5/13/13,Business Inventories,0.00%
+5/14/13,NFIB Small Business Optimism,92.1
+5/14/13,Import Price Index MoM,-0.50%
+5/14/13,Import Price Index YoY,-2.60%
+5/15/13,MBA Mortgage Applications,-7.30%
+5/15/13,Empire Manufacturing,-1.4
+5/15/13,Total Net TIC Flows,$2.10 
+5/15/13,Net Long-term TIC Flows,($13.50)
+5/15/13,Industrial Production MoM,-0.50%
+5/15/13,Capacity Utilization,77.80%
+5/15/13,Manufacturing (SIC) Production,-0.40%
+5/15/13,NAHB Housing Market Index,44
+5/16/13,CPI MoM,-0.40%
+5/16/13,CPI Ex Food and Energy MoM,0.10%
+5/16/13,CPI YoY,1.10%
+5/16/13,CPI Ex Food and Energy YoY,1.70%
+5/16/13,CPI Core Index SA,232.879
+5/16/13,CPI Index NSA,232.531
+5/16/13,Initial Jobless Claims,360
+5/16/13,Continuing Claims,3009
+5/16/13,Housing Starts,853
+5/16/13,Housing Starts MoM,-16.50%
+5/16/13,Building Permits,1017
+5/16/13,Langer Consumer Comfort,-30.2
+5/16/13,Philadelphia Fed Business Outlook,-5.2
+5/17/13,U. of Mich. Sentiment,83.7
+5/17/13,Leading Index,0.60%
+5/20/13,Chicago Fed Nat Activity Index,-0.53
+5/22/13,MBA Mortgage Applications,-9.80%
+5/22/13,Existing Home Sales,4.97
+5/22/13,Existing Home Sales MoM,0.60%
+5/22/13,FOMC Meeting Minutes,--
+5/23/13,Initial Jobless Claims,340
+5/23/13,Continuing Claims,2912
+5/23/13,FHFA House Price Index MoM,1.30%
+5/23/13,House Price Purchase Index QoQ,2.00%
+5/23/13,Langer Consumer Comfort,-29.4
+5/23/13,New Home Sales,454
+5/23/13,New Home Sales MoM,2.30%
+5/23/13,Kansas City Fed Manf. Activity,2
+5/24/13,Durable Goods Orders,3.30%
+5/24/13,Durables Ex Transportation,1.30%
+5/24/13,Cap Goods Orders Nondef Ex Air,1.20%
+5/24/13,Cap Goods Ship Nondef Ex Air,-1.50%
+5/28/13,Richmond Fed Manufact. Index,-2
+5/28/13,Conf. Board Consumer Confidence,76.2
+5/28/13,Dallas Fed Manf. Activity,-10.5
+5/29/13,MBA Mortgage Applications,-8.80%
+5/30/13,GDP Annualized QoQ,2.40%
+5/30/13,Personal Consumption,3.40%
+5/30/13,GDP Price Index,1.10%
+5/30/13,Core PCE QoQ,1.30%
+5/30/13,Initial Jobless Claims,354
+5/30/13,Continuing Claims,2986
+5/30/13,Langer Consumer Comfort,-29.7
+5/30/13,Pending Home Sales MoM,0.30%
+5/30/13,Pending Home Sales NSA YoY,13.90%
+5/31/13,Personal Income,0.00%
+5/31/13,Personal Spending,-0.20%
+5/31/13,PCE Deflator MoM,-0.30%
+5/31/13,PCE Deflator YoY,0.70%
+5/31/13,PCE Core Deflator MoM,0.00%
+5/31/13,PCE Core Deflator YoY,1.10%
+5/31/13,MNI Chicago PMI,58.7
+5/31/13,U. of Mich. Sentiment,84.5
+6/3/13,Construction Spending MoM,0.40%
+6/3/13,ISM Manufacturing,49
+6/3/13,ISM Prices Paid,49.5
+6/3/13,Wards Total Vehicle Sales,15.24
+6/4/13,Trade Balance,($40.30)
+6/5/13,MBA Mortgage Applications,-11.50%
+6/5/13,ADP Employment Change,135
+6/5/13,Nonfarm Productivity,0.50%
+6/5/13,Unit Labor Costs,-4.30%
+6/5/13,Factory Orders,1.00%
+6/5/13,ISM Services Index,53.7
+6/6/13,Challenger Job Cuts YoY,-41.20%
+6/6/13,Initial Jobless Claims,346
+6/6/13,Continuing Claims,2952
+6/6/13,Langer Consumer Comfort,-29.7
+6/6/13,Household Change in Net Worth,"$3,003 "
+6/7/13,Change in Nonfarm Payrolls,175
+6/7/13,Two-Month Payroll Net Revision,-12
+6/7/13,Change in Private Payrolls,178
+6/7/13,Change in Manufact. Payrolls,-8
+6/7/13,Unemployment Rate,7.60%
+6/7/13,Average Hourly Earnings MoM,0.00%
+6/7/13,Average Hourly Earnings YoY,2.00%
+6/7/13,Average Weekly Hours All Employees,34.5
+6/7/13,Underemployment Rate,13.80%
+6/7/13,Consumer Credit,$11.06 
+6/11/13,NFIB Small Business Optimism,94.4
+6/11/13,Wholesale Inventories MoM,0.20%
+6/11/13,Wholesale Trade Sales MoM,0.50%
+6/11/13,JOLTS Job Openings,3757
+6/12/13,MBA Mortgage Applications,5.00%
+6/12/13,Monthly Budget Statement,($138.70)
+6/13/13,Retail Sales Advance MoM,0.60%
+6/13/13,Retail Sales Ex Auto MoM,0.30%
+6/13/13,Retail Sales Ex Auto and Gas,0.30%
+6/13/13,Retail Sales Control Group,0.30%
+6/13/13,Initial Jobless Claims,334
+6/13/13,Continuing Claims,2973
+6/13/13,Import Price Index MoM,-0.60%
+6/13/13,Import Price Index YoY,-1.90%
+6/13/13,Langer Consumer Comfort,-31.3
+6/13/13,Business Inventories,0.30%
+6/14/13,Current Account Balance,($106.10)
+6/14/13,Total Net TIC Flows,$12.70 
+6/14/13,Net Long-term TIC Flows,($37.30)
+6/14/13,Industrial Production MoM,0.00%
+6/14/13,Capacity Utilization,77.60%
+6/14/13,Manufacturing (SIC) Production,0.10%
+6/14/13,U. of Mich. Sentiment,82.7
+6/17/13,Empire Manufacturing,7.8
+6/17/13,NAHB Housing Market Index,52
+6/18/13,CPI MoM,0.10%
+6/18/13,CPI Ex Food and Energy MoM,0.20%
+6/18/13,CPI YoY,1.40%
+6/18/13,CPI Ex Food and Energy YoY,1.70%
+6/18/13,CPI Core Index SA,233.267
+6/18/13,CPI Index NSA,232.945
+6/18/13,Housing Starts,914
+6/18/13,Housing Starts MoM,6.80%
+6/18/13,Building Permits,974
+6/19/13,MBA Mortgage Applications,-3.30%
+6/19/13,FOMC Rate Decision (Upper Bound),0.25%
+6/20/13,Initial Jobless Claims,354
+6/20/13,Continuing Claims,2951
+6/20/13,Langer Consumer Comfort,-29.4
+6/20/13,Philadelphia Fed Business Outlook,12.5
+6/20/13,Existing Home Sales,5.18
+6/20/13,Existing Home Sales MoM,4.20%
+6/20/13,Leading Index,0.10%
+6/24/13,Chicago Fed Nat Activity Index,-0.3
+6/24/13,Dallas Fed Manf. Activity,6.5
+6/25/13,Durable Goods Orders,3.60%
+6/25/13,Durables Ex Transportation,0.70%
+6/25/13,Cap Goods Orders Nondef Ex Air,1.10%
+6/25/13,Cap Goods Ship Nondef Ex Air,1.70%
+6/25/13,FHFA House Price Index MoM,0.70%
+6/25/13,Richmond Fed Manufact. Index,8
+6/25/13,Conf. Board Consumer Confidence,81.4
+6/25/13,New Home Sales,476
+6/25/13,New Home Sales MoM,2.10%
+6/26/13,MBA Mortgage Applications,-3.00%
+6/26/13,GDP Annualized QoQ,1.80%
+6/26/13,Personal Consumption,2.60%
+6/26/13,GDP Price Index,1.20%
+6/26/13,Core PCE QoQ,1.30%
+6/27/13,Personal Income,0.50%
+6/27/13,Personal Spending,0.30%
+6/27/13,PCE Deflator MoM,0.10%
+6/27/13,PCE Deflator YoY,1.00%
+6/27/13,PCE Core Deflator MoM,0.10%
+6/27/13,PCE Core Deflator YoY,1.10%
+6/27/13,Initial Jobless Claims,346
+6/27/13,Continuing Claims,2965
+6/27/13,Langer Consumer Comfort,-28.3
+6/27/13,Pending Home Sales MoM,6.70%
+6/27/13,Pending Home Sales NSA YoY,12.50%
+6/27/13,Kansas City Fed Manf. Activity,-5
+6/28/13,MNI Chicago PMI,51.6
+6/28/13,U. of Mich. Sentiment,84.1
+7/1/13,Construction Spending MoM,0.50%
+7/1/13,ISM Manufacturing,50.9
+7/1/13,ISM Prices Paid,52.5
+7/2/13,Factory Orders,2.10%
+7/2/13,Wards Total Vehicle Sales,15.89
+7/3/13,MBA Mortgage Applications,-11.70%
+7/3/13,Challenger Job Cuts YoY,4.80%
+7/3/13,ADP Employment Change,188
+7/3/13,Trade Balance,($45.00)
+7/3/13,Initial Jobless Claims,343
+7/3/13,Continuing Claims,2933
+7/3/13,Langer Consumer Comfort,-27.5
+7/3/13,ISM Services Index,52.2
+7/5/13,Change in Nonfarm Payrolls,195
+7/5/13,Two-Month Payroll Net Revision,70
+7/5/13,Change in Private Payrolls,202
+7/5/13,Change in Manufact. Payrolls,-6
+7/5/13,Unemployment Rate,7.60%
+7/5/13,Average Hourly Earnings MoM,0.40%
+7/5/13,Average Hourly Earnings YoY,2.20%
+7/5/13,Average Weekly Hours All Employees,34.5
+7/5/13,Underemployment Rate,14.30%
+7/8/13,Consumer Credit,$19.62 
+7/9/13,NFIB Small Business Optimism,93.5
+7/9/13,JOLTS Job Openings,3828
+7/10/13,MBA Mortgage Applications,-4.00%
+7/10/13,Wholesale Inventories MoM,-0.50%
+7/10/13,Wholesale Trade Sales MoM,1.60%
+7/10/13,FOMC Meeting Minutes,--
+7/11/13,Import Price Index MoM,-0.20%
+7/11/13,Import Price Index YoY,0.20%
+7/11/13,Initial Jobless Claims,360
+7/11/13,Continuing Claims,2977
+7/11/13,Langer Consumer Comfort,-27.3
+7/11/13,Monthly Budget Statement,$116.50 
+7/12/13,U. of Mich. Sentiment,83.9
+7/15/13,Empire Manufacturing,9.5
+7/15/13,Retail Sales Advance MoM,0.40%
+7/15/13,Retail Sales Ex Auto MoM,0.00%
+7/15/13,Retail Sales Ex Auto and Gas,-0.10%
+7/15/13,Retail Sales Control Group,0.10%
+7/15/13,Business Inventories,0.10%
+7/16/13,CPI MoM,0.50%
+7/16/13,CPI Ex Food and Energy MoM,0.20%
+7/16/13,CPI YoY,1.80%
+7/16/13,CPI Ex Food and Energy YoY,1.60%
+7/16/13,CPI Core Index SA,233.643
+7/16/13,CPI Index NSA,233.504
+7/16/13,Total Net TIC Flows,$56.40 
+7/16/13,Net Long-term TIC Flows,($27.20)
+7/16/13,Industrial Production MoM,0.30%
+7/16/13,Capacity Utilization,77.80%
+7/16/13,Manufacturing (SIC) Production,0.30%
+7/16/13,NAHB Housing Market Index,57
+7/17/13,MBA Mortgage Applications,-2.60%
+7/17/13,Housing Starts,836
+7/17/13,Housing Starts MoM,-9.90%
+7/17/13,Building Permits,911
+7/18/13,Initial Jobless Claims,334
+7/18/13,Continuing Claims,3114
+7/18/13,Langer Consumer Comfort,-28.4
+7/18/13,Philadelphia Fed Business Outlook,19.8
+7/18/13,Leading Index,0.00%
+7/22/13,Chicago Fed Nat Activity Index,-0.13
+7/22/13,Existing Home Sales,5.08
+7/22/13,Existing Home Sales MoM,-1.20%
+7/23/13,FHFA House Price Index MoM,0.70%
+7/23/13,Richmond Fed Manufact. Index,-11
+7/24/13,MBA Mortgage Applications,-1.20%
+7/24/13,New Home Sales,497
+7/24/13,New Home Sales MoM,8.30%
+7/25/13,Initial Jobless Claims,343
+7/25/13,Continuing Claims,2997
+7/25/13,Durable Goods Orders,4.20%
+7/25/13,Durables Ex Transportation,0.00%
+7/25/13,Cap Goods Orders Nondef Ex Air,0.70%
+7/25/13,Cap Goods Ship Nondef Ex Air,-0.90%
+7/25/13,Langer Consumer Comfort,-27.3
+7/25/13,Kansas City Fed Manf. Activity,6
+7/26/13,U. of Mich. Sentiment,85.1
+7/29/13,Pending Home Sales MoM,-0.40%
+7/29/13,Pending Home Sales NSA YoY,9.10%
+7/29/13,Dallas Fed Manf. Activity,4.4
+7/30/13,Conf. Board Consumer Confidence,80.3
+7/31/13,MBA Mortgage Applications,-3.70%
+7/31/13,ADP Employment Change,200
+7/31/13,Employment Cost Index,0.50%
+7/31/13,GDP Annualized QoQ,1.70%
+7/31/13,Personal Consumption,1.80%
+7/31/13,GDP Price Index,0.70%
+7/31/13,Core PCE QoQ,0.80%
+7/31/13,MNI Chicago PMI,52.3
+7/31/13,FOMC Rate Decision (Upper Bound),0.25%
+8/1/13,Challenger Job Cuts YoY,2.30%
+8/1/13,Initial Jobless Claims,326
+8/1/13,Continuing Claims,2951
+8/1/13,Langer Consumer Comfort,-27
+8/1/13,Construction Spending MoM,-0.60%
+8/1/13,ISM Manufacturing,55.4
+8/1/13,ISM Prices Paid,49
+8/1/13,Wards Total Vehicle Sales,15.6
+8/2/13,Change in Nonfarm Payrolls,162
+8/2/13,Two-Month Payroll Net Revision,-26
+8/2/13,Change in Private Payrolls,161
+8/2/13,Change in Manufact. Payrolls,6
+8/2/13,Unemployment Rate,7.40%
+8/2/13,Average Hourly Earnings MoM,-0.10%
+8/2/13,Average Hourly Earnings YoY,1.90%
+8/2/13,Average Weekly Hours All Employees,34.4
+8/2/13,Underemployment Rate,14.00%
+8/2/13,Personal Income,0.30%
+8/2/13,Personal Spending,0.50%
+8/2/13,PCE Deflator MoM,0.40%
+8/2/13,PCE Deflator YoY,1.30%
+8/2/13,PCE Core Deflator MoM,0.20%
+8/2/13,PCE Core Deflator YoY,1.20%
+8/2/13,Factory Orders,1.50%
+8/5/13,ISM Services Index,56
+8/6/13,Trade Balance,($34.20)
+8/6/13,JOLTS Job Openings,3936
+8/7/13,MBA Mortgage Applications,0.20%
+8/7/13,Consumer Credit,$13.82 
+8/8/13,Initial Jobless Claims,333
+8/8/13,Continuing Claims,3018
+8/8/13,Langer Consumer Comfort,-23.5
+8/8/13,Mortgage Delinquencies,6.96%
+8/8/13,MBA Mortgage Foreclosures,3.33%
+8/9/13,Wholesale Inventories MoM,-0.20%
+8/9/13,Wholesale Trade Sales MoM,0.40%
+8/12/13,Monthly Budget Statement,($97.60)
+8/13/13,NFIB Small Business Optimism,94.1
+8/13/13,Import Price Index MoM,0.20%
+8/13/13,Import Price Index YoY,1.00%
+8/13/13,Retail Sales Advance MoM,0.20%
+8/13/13,Retail Sales Ex Auto MoM,0.50%
+8/13/13,Retail Sales Ex Auto and Gas,0.40%
+8/13/13,Retail Sales Control Group,0.50%
+8/13/13,Business Inventories,0.00%
+8/14/13,MBA Mortgage Applications,-4.70%
+8/15/13,Initial Jobless Claims,320
+8/15/13,Continuing Claims,2969
+8/15/13,Empire Manufacturing,8.2
+8/15/13,CPI MoM,0.20%
+8/15/13,CPI Ex Food and Energy MoM,0.20%
+8/15/13,CPI YoY,2.00%
+8/15/13,CPI Ex Food and Energy YoY,1.70%
+8/15/13,CPI Core Index SA,234.004
+8/15/13,CPI Index NSA,233.596
+8/15/13,Total Net TIC Flows,($19.00)
+8/15/13,Net Long-term TIC Flows,($66.90)
+8/15/13,Industrial Production MoM,0.00%
+8/15/13,Capacity Utilization,77.60%
+8/15/13,Manufacturing (SIC) Production,-0.10%
+8/15/13,Langer Consumer Comfort,-26.6
+8/15/13,NAHB Housing Market Index,59
+8/15/13,Philadelphia Fed Business Outlook,9.3
+8/16/13,Nonfarm Productivity,0.90%
+8/16/13,Unit Labor Costs,1.40%
+8/16/13,Housing Starts,896
+8/16/13,Housing Starts MoM,5.90%
+8/16/13,Building Permits,943
+8/16/13,U. of Mich. Sentiment,80
+8/20/13,Chicago Fed Nat Activity Index,-0.15
+8/21/13,MBA Mortgage Applications,-4.60%
+8/21/13,Existing Home Sales,5.39
+8/21/13,Existing Home Sales MoM,6.50%
+8/21/13,FOMC Meeting Minutes,--
+8/22/13,Initial Jobless Claims,336
+8/22/13,Continuing Claims,2999
+8/22/13,FHFA House Price Index MoM,0.70%
+8/22/13,House Price Purchase Index QoQ,2.10%
+8/22/13,Langer Consumer Comfort,-28.8
+8/22/13,Leading Index,0.60%
+8/22/13,Kansas City Fed Manf. Activity,8
+8/23/13,New Home Sales,394
+8/23/13,New Home Sales MoM,-13.40%
+8/26/13,Durable Goods Orders,-7.30%
+8/26/13,Durables Ex Transportation,-0.60%
+8/26/13,Cap Goods Orders Nondef Ex Air,-3.30%
+8/26/13,Cap Goods Ship Nondef Ex Air,-1.50%
+8/26/13,Dallas Fed Manf. Activity,5
+8/27/13,Richmond Fed Manufact. Index,14
+8/27/13,Conf. Board Consumer Confidence,81.5
+8/28/13,MBA Mortgage Applications,-2.50%
+8/28/13,Pending Home Sales MoM,-1.30%
+8/28/13,Pending Home Sales NSA YoY,8.60%
+8/29/13,Initial Jobless Claims,331
+8/29/13,Continuing Claims,2989
+8/29/13,GDP Annualized QoQ,2.50%
+8/29/13,Personal Consumption,1.80%
+8/29/13,GDP Price Index,0.80%
+8/29/13,Core PCE QoQ,0.80%
+8/29/13,Langer Consumer Comfort,-31.7
+8/30/13,Personal Income,0.10%
+8/30/13,Personal Spending,0.10%
+8/30/13,PCE Deflator MoM,0.10%
+8/30/13,PCE Deflator YoY,1.40%
+8/30/13,PCE Core Deflator MoM,0.10%
+8/30/13,PCE Core Deflator YoY,1.20%
+8/30/13,MNI Chicago PMI,53
+8/30/13,U. of Mich. Sentiment,82.1
+9/3/13,Construction Spending MoM,0.60%
+9/3/13,ISM Manufacturing,55.7
+9/3/13,ISM Prices Paid,54
+9/4/13,MBA Mortgage Applications,1.30%
+9/4/13,Trade Balance,($39.10)
+9/4/13,Wards Total Vehicle Sales,16.02
+9/5/13,Challenger Job Cuts YoY,56.50%
+9/5/13,ADP Employment Change,176
+9/5/13,Initial Jobless Claims,323
+9/5/13,Continuing Claims,2951
+9/5/13,Nonfarm Productivity,2.30%
+9/5/13,Unit Labor Costs,0.00%
+9/5/13,Langer Consumer Comfort,-32.3
+9/5/13,Factory Orders,-2.40%
+9/5/13,ISM Services Index,58.6
+9/6/13,Change in Nonfarm Payrolls,169
+9/6/13,Two-Month Payroll Net Revision,-74
+9/6/13,Change in Private Payrolls,152
+9/6/13,Change in Manufact. Payrolls,14
+9/6/13,Unemployment Rate,7.30%
+9/6/13,Average Hourly Earnings MoM,0.20%
+9/6/13,Average Hourly Earnings YoY,2.20%
+9/6/13,Average Weekly Hours All Employees,34.5
+9/6/13,Underemployment Rate,13.70%
+9/6/13,Labor Force Participation Rate,63.20%
+9/9/13,Consumer Credit,$10.44 
+9/10/13,NFIB Small Business Optimism,94
+9/10/13,JOLTS Job Openings,3689
+9/11/13,MBA Mortgage Applications,-13.50%
+9/11/13,Wholesale Inventories MoM,0.10%
+9/11/13,Wholesale Trade Sales MoM,0.10%
+9/12/13,Initial Jobless Claims,292
+9/12/13,Continuing Claims,2871
+9/12/13,Import Price Index MoM,0.00%
+9/12/13,Import Price Index YoY,-0.40%
+9/12/13,Langer Consumer Comfort,-32.1
+9/12/13,Monthly Budget Statement,($147.90)
+9/13/13,Retail Sales Advance MoM,0.20%
+9/13/13,Retail Sales Ex Auto MoM,0.10%
+9/13/13,Retail Sales Ex Auto and Gas,0.10%
+9/13/13,Retail Sales Control Group,0.20%
+9/13/13,U. of Mich. Sentiment,76.8
+9/13/13,Business Inventories,0.40%
+9/16/13,Empire Manufacturing,6.3
+9/16/13,Industrial Production MoM,0.40%
+9/16/13,Capacity Utilization,77.80%
+9/16/13,Manufacturing (SIC) Production,0.70%
+9/17/13,CPI MoM,0.10%
+9/17/13,CPI Ex Food and Energy MoM,0.10%
+9/17/13,CPI YoY,1.50%
+9/17/13,CPI Ex Food and Energy YoY,1.80%
+9/17/13,CPI Core Index SA,234.302
+9/17/13,CPI Index NSA,233.877
+9/17/13,Total Net TIC Flows,$56.70 
+9/17/13,Net Long-term TIC Flows,$31.10 
+9/17/13,NAHB Housing Market Index,58
+9/18/13,MBA Mortgage Applications,11.20%
+9/18/13,Housing Starts,891
+9/18/13,Housing Starts MoM,0.90%
+9/18/13,Building Permits,918
+9/18/13,FOMC Rate Decision (Upper Bound),0.25%
+9/19/13,Initial Jobless Claims,309
+9/19/13,Continuing Claims,2787
+9/19/13,Current Account Balance,($98.90)
+9/19/13,Langer Consumer Comfort,-29.4
+9/19/13,Philadelphia Fed Business Outlook,22.3
+9/19/13,Existing Home Sales,5.48
+9/19/13,Existing Home Sales MoM,1.70%
+9/19/13,Leading Index,0.70%
+9/23/13,Chicago Fed Nat Activity Index,0.14
+9/24/13,FHFA House Price Index MoM,1.00%
+9/24/13,Richmond Fed Manufact. Index,0
+9/24/13,Conf. Board Consumer Confidence,79.7
+9/25/13,MBA Mortgage Applications,5.50%
+9/25/13,Durable Goods Orders,0.10%
+9/25/13,Durables Ex Transportation,-0.10%
+9/25/13,Cap Goods Orders Nondef Ex Air,1.50%
+9/25/13,Cap Goods Ship Nondef Ex Air,1.30%
+9/25/13,New Home Sales,421
+9/25/13,New Home Sales MoM,7.90%
+9/25/13,Household Change in Net Worth,"$1,342 "
+9/26/13,Initial Jobless Claims,305
+9/26/13,Continuing Claims,2823
+9/26/13,GDP Annualized QoQ,2.50%
+9/26/13,Personal Consumption,1.80%
+9/26/13,GDP Price Index,0.60%
+9/26/13,Core PCE QoQ,0.60%
+9/26/13,Langer Consumer Comfort,-28.1
+9/26/13,Pending Home Sales MoM,-1.60%
+9/26/13,Pending Home Sales NSA YoY,2.90%
+9/26/13,Kansas City Fed Manf. Activity,2
+9/27/13,Personal Income,0.40%
+9/27/13,Personal Spending,0.30%
+9/27/13,PCE Deflator MoM,0.10%
+9/27/13,PCE Deflator YoY,1.20%
+9/27/13,PCE Core Deflator MoM,0.20%
+9/27/13,PCE Core Deflator YoY,1.20%
+9/27/13,U. of Mich. Sentiment,77.5
+9/30/13,MNI Chicago PMI,55.7
+9/30/13,Dallas Fed Manf. Activity,12.8
+10/1/13,ISM Manufacturing,56.2
+10/1/13,ISM Prices Paid,56.5
+10/1/13,Wards Total Vehicle Sales,15.21
+10/2/13,MBA Mortgage Applications,-0.40%
+10/2/13,ADP Employment Change,166
+10/3/13,Challenger Job Cuts YoY,19.10%
+10/3/13,Initial Jobless Claims,308
+10/3/13,Continuing Claims,2925
+10/3/13,Langer Consumer Comfort,-29.4
+10/3/13,ISM Services Index,54.4
+10/7/13,Consumer Credit,$13.63 
+10/8/13,NFIB Small Business Optimism,93.9
+10/9/13,MBA Mortgage Applications,1.30%
+10/9/13,FOMC Meeting Minutes,--
+10/10/13,Initial Jobless Claims,374
+10/10/13,Continuing Claims,2905
+10/10/13,Langer Consumer Comfort,-29.7
+10/11/13,U. of Mich. Sentiment,75.2
+10/15/13,Empire Manufacturing,1.5
+10/16/13,MBA Mortgage Applications,0.30%
+10/16/13,NAHB Housing Market Index,55
+10/17/13,Initial Jobless Claims,358
+10/17/13,Continuing Claims,2859
+10/17/13,Langer Consumer Comfort,-34.1
+10/17/13,Philadelphia Fed Business Outlook,19.8
+10/21/13,Existing Home Sales,5.29
+10/21/13,Existing Home Sales MoM,-1.90%
+10/22/13,Change in Nonfarm Payrolls,148
+10/22/13,Two-Month Payroll Net Revision,9
+10/22/13,Change in Private Payrolls,126
+10/22/13,Change in Manufact. Payrolls,2
+10/22/13,Unemployment Rate,7.20%
+10/22/13,Average Hourly Earnings MoM,0.10%
+10/22/13,Average Hourly Earnings YoY,2.10%
+10/22/13,Average Weekly Hours All Employees,34.5
+10/22/13,Underemployment Rate,13.60%
+10/22/13,Labor Force Participation Rate,63.20%
+10/22/13,Net Long-term TIC Flows,($8.90)
+10/22/13,Total Net TIC Flows,($2.90)
+10/22/13,Construction Spending MoM,0.60%
+10/22/13,Richmond Fed Manufact. Index,1
+10/23/13,MBA Mortgage Applications,-0.60%
+10/23/13,Import Price Index MoM,0.20%
+10/23/13,Import Price Index YoY,-1.00%
+10/23/13,FHFA House Price Index MoM,0.30%
+10/24/13,Trade Balance,($38.80)
+10/24/13,Initial Jobless Claims,350
+10/24/13,Continuing Claims,2874
+10/24/13,Langer Consumer Comfort,-36.1
+10/24/13,JOLTS Job Openings,3883
+10/24/13,Kansas City Fed Manf. Activity,6
+10/25/13,Durable Goods Orders,3.70%
+10/25/13,Durables Ex Transportation,-0.10%
+10/25/13,Cap Goods Orders Nondef Ex Air,-1.10%
+10/25/13,Cap Goods Ship Nondef Ex Air,-0.20%
+10/25/13,U. of Mich. Sentiment,73.2
+10/25/13,Wholesale Inventories MoM,0.50%
+10/25/13,Wholesale Trade Sales MoM,0.60%
+10/28/13,Industrial Production MoM,0.60%
+10/28/13,Capacity Utilization,78.30%
+10/28/13,Manufacturing (SIC) Production,0.10%
+10/28/13,Pending Home Sales MoM,-5.60%
+10/28/13,Pending Home Sales NSA YoY,1.10%
+10/28/13,Dallas Fed Manf. Activity,3.6
+10/29/13,Retail Sales Advance MoM,-0.10%
+10/29/13,Retail Sales Ex Auto MoM,0.40%
+10/29/13,Retail Sales Ex Auto and Gas,0.40%
+10/29/13,Retail Sales Control Group,0.50%
+10/29/13,Business Inventories,0.30%
+10/29/13,Conf. Board Consumer Confidence,71.2
+10/30/13,MBA Mortgage Applications,6.40%
+10/30/13,ADP Employment Change,130
+10/30/13,CPI MoM,0.20%
+10/30/13,CPI Ex Food and Energy MoM,0.10%
+10/30/13,CPI YoY,1.20%
+10/30/13,CPI Ex Food and Energy YoY,1.70%
+10/30/13,CPI Core Index SA,234.589
+10/30/13,CPI Index NSA,234.149
+10/30/13,FOMC Rate Decision (Upper Bound),0.25%
+10/30/13,Monthly Budget Statement,$75.10 
+10/31/13,Initial Jobless Claims,340
+10/31/13,Continuing Claims,2881
+10/31/13,MNI Chicago PMI,65.9
+10/31/13,Langer Consumer Comfort,-37.6
+11/1/13,ISM Manufacturing,56.4
+11/1/13,ISM Prices Paid,55.5
+11/1/13,Wards Total Vehicle Sales,15.15
+11/4/13,Factory Orders,-0.10%
+11/4/13,Factory Orders,1.70%
+11/5/13,ISM Services Index,55.4
+11/6/13,MBA Mortgage Applications,-7.00%
+11/6/13,Challenger Job Cuts YoY,-4.20%
+11/6/13,Leading Index,0.70%
+11/7/13,Initial Jobless Claims,336
+11/7/13,Continuing Claims,2868
+11/7/13,GDP Annualized QoQ,2.80%
+11/7/13,Personal Consumption,1.50%
+11/7/13,GDP Price Index,1.90%
+11/7/13,Core PCE QoQ,1.40%
+11/7/13,Langer Consumer Comfort,-37.9
+11/7/13,Mortgage Delinquencies,6.41%
+11/7/13,MBA Mortgage Foreclosures,3.08%
+11/7/13,Consumer Credit,$13.74 
+11/8/13,Change in Nonfarm Payrolls,204
+11/8/13,Two-Month Payroll Net Revision,60
+11/8/13,Change in Private Payrolls,212
+11/8/13,Change in Manufact. Payrolls,19
+11/8/13,Unemployment Rate,7.30%
+11/8/13,Average Hourly Earnings MoM,0.10%
+11/8/13,Average Hourly Earnings YoY,2.20%
+11/8/13,Average Weekly Hours All Employees,34.4
+11/8/13,Underemployment Rate,13.80%
+11/8/13,Labor Force Participation Rate,62.80%
+11/8/13,Personal Income,0.50%
+11/8/13,Personal Spending,0.20%
+11/8/13,PCE Deflator MoM,0.10%
+11/8/13,PCE Deflator YoY,0.90%
+11/8/13,PCE Core Deflator MoM,0.10%
+11/8/13,PCE Core Deflator YoY,1.20%
+11/8/13,U. of Mich. Sentiment,72
+11/12/13,NFIB Small Business Optimism,91.6
+11/12/13,Chicago Fed Nat Activity Index,0.14
+11/13/13,MBA Mortgage Applications,-1.80%
+11/13/13,Monthly Budget Statement,($91.60)
+11/14/13,Initial Jobless Claims,339
+11/14/13,Continuing Claims,2874
+11/14/13,Nonfarm Productivity,1.90%
+11/14/13,Unit Labor Costs,-0.60%
+11/14/13,Trade Balance,($41.80)
+11/14/13,Langer Consumer Comfort,-33.9
+11/15/13,Empire Manufacturing,-2.2
+11/15/13,Import Price Index MoM,-0.70%
+11/15/13,Import Price Index YoY,-2.00%
+11/15/13,Industrial Production MoM,-0.10%
+11/15/13,Capacity Utilization,78.10%
+11/15/13,Manufacturing (SIC) Production,0.30%
+11/15/13,Wholesale Inventories MoM,0.40%
+11/15/13,Wholesale Trade Sales MoM,0.60%
+11/18/13,Total Net TIC Flows,($106.80)
+11/18/13,Net Long-term TIC Flows,$25.50 
+11/18/13,NAHB Housing Market Index,54
+11/19/13,Employment Cost Index,0.40%
+11/20/13,MBA Mortgage Applications,-2.30%
+11/20/13,Retail Sales Advance MoM,0.40%
+11/20/13,Retail Sales Ex Auto MoM,0.20%
+11/20/13,Retail Sales Ex Auto and Gas,0.30%
+11/20/13,Retail Sales Control Group,0.40%
+11/20/13,CPI MoM,-0.10%
+11/20/13,CPI Ex Food and Energy MoM,0.10%
+11/20/13,CPI YoY,1.00%
+11/20/13,CPI Ex Food and Energy YoY,1.70%
+11/20/13,CPI Core Index SA,234.877
+11/20/13,CPI Index NSA,233.546
+11/20/13,Existing Home Sales,5.12
+11/20/13,Existing Home Sales MoM,-3.20%
+11/20/13,Business Inventories,0.60%
+11/20/13,FOMC Meeting Minutes,--
+11/21/13,Initial Jobless Claims,323
+11/21/13,Continuing Claims,2876
+11/21/13,Langer Consumer Comfort,-34.6
+11/21/13,Philadelphia Fed Business Outlook,6.5
+11/22/13,JOLTS Job Openings,3913
+11/22/13,Kansas City Fed Manf. Activity,7
+11/25/13,Pending Home Sales MoM,-0.60%
+11/25/13,Pending Home Sales NSA YoY,-2.20%
+11/25/13,Dallas Fed Manf. Activity,1.9
+11/26/13,Building Permits,974
+11/26/13,Building Permits,1034
+11/26/13,FHFA House Price Index MoM,0.30%
+11/26/13,House Price Purchase Index QoQ,2.00%
+11/26/13,Conf. Board Consumer Confidence,70.4
+11/26/13,Richmond Fed Manufact. Index,13
+11/27/13,MBA Mortgage Applications,-0.30%
+11/27/13,Initial Jobless Claims,316
+11/27/13,Continuing Claims,2776
+11/27/13,Durable Goods Orders,-2.00%
+11/27/13,Durables Ex Transportation,-0.10%
+11/27/13,Cap Goods Orders Nondef Ex Air,-1.20%
+11/27/13,Cap Goods Ship Nondef Ex Air,-0.20%
+11/27/13,Chicago Fed Nat Activity Index,-0.18
+11/27/13,MNI Chicago PMI,63
+11/27/13,Langer Consumer Comfort,-33.7
+11/27/13,U. of Mich. Sentiment,75.1
+11/27/13,Leading Index,0.20%
+12/2/13,ISM Manufacturing,57.3
+12/2/13,ISM Prices Paid,52.5
+12/2/13,Construction Spending MoM,-0.30%
+12/2/13,Construction Spending MoM,0.80%
+12/3/13,Wards Total Vehicle Sales,16.31
+12/4/13,MBA Mortgage Applications,-12.80%
+12/4/13,ADP Employment Change,215
+12/4/13,Trade Balance,($40.60)
+12/4/13,ISM Services Index,53.9
+12/4/13,New Home Sales,354
+12/4/13,New Home Sales MoM,-6.60%
+12/4/13,New Home Sales,444
+12/4/13,New Home Sales MoM,25.40%
+12/5/13,Challenger Job Cuts YoY,-20.60%
+12/5/13,Initial Jobless Claims,298
+12/5/13,Continuing Claims,2744
+12/5/13,GDP Annualized QoQ,3.60%
+12/5/13,Personal Consumption,1.40%
+12/5/13,GDP Price Index,2.00%
+12/5/13,Core PCE QoQ,1.50%
+12/5/13,Langer Consumer Comfort,-31.3
+12/5/13,Factory Orders,-0.90%
+12/6/13,Change in Nonfarm Payrolls,203
+12/6/13,Two-Month Payroll Net Revision,8
+12/6/13,Change in Private Payrolls,196
+12/6/13,Change in Manufact. Payrolls,27
+12/6/13,Unemployment Rate,7.00%
+12/6/13,Average Hourly Earnings MoM,0.20%
+12/6/13,Average Hourly Earnings YoY,2.00%
+12/6/13,Average Weekly Hours All Employees,34.5
+12/6/13,Underemployment Rate,13.20%
+12/6/13,Labor Force Participation Rate,63.00%
+12/6/13,Personal Income,-0.10%
+12/6/13,Personal Spending,0.30%
+12/6/13,PCE Deflator MoM,0.00%
+12/6/13,PCE Deflator YoY,0.70%
+12/6/13,PCE Core Deflator MoM,0.10%
+12/6/13,PCE Core Deflator YoY,1.10%
+12/6/13,U. of Mich. Sentiment,82.5
+12/6/13,Consumer Credit,$18.19 
+12/9/13,Household Change in Net Worth,"$1,922 "
+12/10/13,NFIB Small Business Optimism,92.5
+12/10/13,JOLTS Job Openings,3925
+12/10/13,Wholesale Inventories MoM,1.40%
+12/10/13,Wholesale Trade Sales MoM,1.00%
+12/11/13,MBA Mortgage Applications,1.00%
+12/11/13,Monthly Budget Statement,($135.20)
+12/12/13,Retail Sales Advance MoM,0.70%
+12/12/13,Retail Sales Ex Auto MoM,0.40%
+12/12/13,Retail Sales Ex Auto and Gas,0.60%
+12/12/13,Retail Sales Control Group,0.50%
+12/12/13,Initial Jobless Claims,368
+12/12/13,Continuing Claims,2791
+12/12/13,Import Price Index MoM,-0.60%
+12/12/13,Import Price Index YoY,-1.50%
+12/12/13,Langer Consumer Comfort,-30.9
+12/12/13,Business Inventories,0.70%
+12/16/13,Empire Manufacturing,1
+12/16/13,Nonfarm Productivity,3.00%
+12/16/13,Unit Labor Costs,-1.40%
+12/16/13,Total Net TIC Flows,$194.90 
+12/16/13,Net Long-term TIC Flows,$35.40 
+12/16/13,Industrial Production MoM,1.10%
+12/16/13,Capacity Utilization,79.00%
+12/16/13,Manufacturing (SIC) Production,0.60%
+12/17/13,CPI MoM,0.00%
+12/17/13,CPI Ex Food and Energy MoM,0.20%
+12/17/13,CPI YoY,1.20%
+12/17/13,CPI Ex Food and Energy YoY,1.70%
+12/17/13,CPI Core Index SA,235.24
+12/17/13,CPI Index NSA,233.069
+12/17/13,Current Account Balance,($94.80)
+12/17/13,NAHB Housing Market Index,58
+12/18/13,MBA Mortgage Applications,-5.50%
+12/18/13,Housing Starts,873
+12/18/13,Housing Starts MoM,-1.10%
+12/18/13,Housing Starts MoM,1.80%
+12/18/13,Housing Starts,889
+12/18/13,Housing Starts,1091
+12/18/13,Housing Starts MoM,22.70%
+12/18/13,Building Permits,1007
+12/18/13,FOMC Rate Decision (Upper Bound),0.25%
+12/19/13,Initial Jobless Claims,379
+12/19/13,Continuing Claims,2884
+12/19/13,Langer Consumer Comfort,-29.4
+12/19/13,Philadelphia Fed Business Outlook,7
+12/19/13,Existing Home Sales,4.9
+12/19/13,Existing Home Sales MoM,-4.30%
+12/19/13,Leading Index,0.80%
+12/20/13,GDP Annualized QoQ,4.10%
+12/20/13,Personal Consumption,2.00%
+12/20/13,GDP Price Index,2.00%
+12/20/13,Core PCE QoQ,1.40%
+12/20/13,Kansas City Fed Manf. Activity,-3
+12/23/13,Chicago Fed Nat Activity Index,0.6
+12/23/13,Personal Income,0.20%
+12/23/13,Personal Spending,0.50%
+12/23/13,PCE Deflator MoM,0.00%
+12/23/13,PCE Deflator YoY,0.90%
+12/23/13,PCE Core Deflator MoM,0.10%
+12/23/13,PCE Core Deflator YoY,1.10%
+12/23/13,U. of Mich. Sentiment,82.5
+12/24/13,MBA Mortgage Applications,-6.30%
+12/24/13,Durable Goods Orders,3.50%
+12/24/13,Durables Ex Transportation,1.20%
+12/24/13,Cap Goods Orders Nondef Ex Air,4.50%
+12/24/13,Cap Goods Ship Nondef Ex Air,2.80%
+12/24/13,FHFA House Price Index MoM,0.50%
+12/24/13,New Home Sales,464
+12/24/13,New Home Sales MoM,-2.10%
+12/24/13,Richmond Fed Manufact. Index,13
+12/26/13,Initial Jobless Claims,338
+12/26/13,Continuing Claims,2923
+12/26/13,Langer Consumer Comfort,-27.4
+12/30/13,Pending Home Sales MoM,0.20%
+12/30/13,Pending Home Sales NSA YoY,-4.00%
+12/30/13,Dallas Fed Manf. Activity,3.1
+12/31/13,MNI Chicago PMI,59.1
+12/31/13,Conf. Board Consumer Confidence,78.1
+1/2/14,Initial Jobless Claims,339
+1/2/14,Continuing Claims,2833
+1/2/14,Langer Consumer Comfort,-28.7
+1/2/14,ISM Manufacturing,57
+1/2/14,ISM Prices Paid,53.5
+1/2/14,Construction Spending MoM,1.00%
+1/3/14,Wards Total Vehicle Sales,15.3
+1/6/14,ISM Services Index,53
+1/6/14,Factory Orders,1.80%
+1/7/14,Trade Balance,($34.30)
+1/8/14,MBA Mortgage Applications,2.60%
+1/8/14,ADP Employment Change,238
+1/8/14,FOMC Meeting Minutes,--
+1/8/14,Consumer Credit,$12.32 
+1/9/14,Challenger Job Cuts YoY,-5.90%
+1/9/14,Initial Jobless Claims,330
+1/9/14,Continuing Claims,2865
+1/9/14,Langer Consumer Comfort,-28.4
+1/10/14,Change in Nonfarm Payrolls,74
+1/10/14,Two-Month Payroll Net Revision,38
+1/10/14,Change in Private Payrolls,87
+1/10/14,Change in Manufact. Payrolls,9
+1/10/14,Unemployment Rate,6.70%
+1/10/14,Average Hourly Earnings MoM,0.10%
+1/10/14,Average Hourly Earnings YoY,1.80%
+1/10/14,Average Weekly Hours All Employees,34.4
+1/10/14,Underemployment Rate,13.10%
+1/10/14,Labor Force Participation Rate,62.80%
+1/10/14,Wholesale Inventories MoM,0.50%
+1/10/14,Wholesale Trade Sales MoM,1.00%
+1/13/14,Monthly Budget Statement,$53.20 
+1/14/14,NFIB Small Business Optimism,93.9
+1/14/14,Retail Sales Advance MoM,0.20%
+1/14/14,Retail Sales Ex Auto MoM,0.70%
+1/14/14,Retail Sales Ex Auto and Gas,0.60%
+1/14/14,Retail Sales Control Group,0.70%
+1/14/14,Import Price Index MoM,0.00%
+1/14/14,Import Price Index YoY,-1.30%
+1/14/14,Business Inventories,0.40%
+1/15/14,MBA Mortgage Applications,11.90%
+1/15/14,Empire Manufacturing,12.5
+1/15/14,Total Net TIC Flows,($16.60)
+1/15/14,Net Long-term TIC Flows,($29.30)
+1/16/14,CPI MoM,0.30%
+1/16/14,CPI Ex Food and Energy MoM,0.10%
+1/16/14,CPI YoY,1.50%
+1/16/14,CPI Ex Food and Energy YoY,1.70%
+1/16/14,CPI Core Index SA,235.496
+1/16/14,CPI Index NSA,233.049
+1/16/14,Initial Jobless Claims,326
+1/16/14,Continuing Claims,3030
+1/16/14,Langer Consumer Comfort,-31
+1/16/14,Philadelphia Fed Business Outlook,9.4
+1/16/14,NAHB Housing Market Index,56
+1/17/14,Housing Starts,999
+1/17/14,Housing Starts MoM,-9.80%
+1/17/14,Building Permits,986
+1/17/14,Industrial Production MoM,0.30%
+1/17/14,Capacity Utilization,79.20%
+1/17/14,Manufacturing (SIC) Production,0.40%
+1/17/14,U. of Mich. Sentiment,80.4
+1/17/14,JOLTS Job Openings,4001
+1/22/14,MBA Mortgage Applications,4.70%
+1/23/14,Chicago Fed Nat Activity Index,0.16
+1/23/14,Initial Jobless Claims,326
+1/23/14,Continuing Claims,3056
+1/23/14,FHFA House Price Index MoM,0.10%
+1/23/14,Langer Consumer Comfort,-31
+1/23/14,Existing Home Sales,4.87
+1/23/14,Existing Home Sales MoM,1.00%
+1/23/14,Leading Index,0.10%
+1/23/14,Kansas City Fed Manf. Activity,5
+1/27/14,New Home Sales,414
+1/27/14,New Home Sales MoM,-7.00%
+1/27/14,Dallas Fed Manf. Activity,3.8
+1/28/14,Durable Goods Orders,-4.30%
+1/28/14,Durables Ex Transportation,-1.60%
+1/28/14,Cap Goods Orders Nondef Ex Air,-1.30%
+1/28/14,Cap Goods Ship Nondef Ex Air,-0.20%
+1/28/14,Conf. Board Consumer Confidence,80.7
+1/28/14,Richmond Fed Manufact. Index,12
+1/29/14,MBA Mortgage Applications,-0.20%
+1/29/14,FOMC Rate Decision (Upper Bound),0.25%
+1/30/14,GDP Annualized QoQ,3.20%
+1/30/14,Personal Consumption,3.30%
+1/30/14,GDP Price Index,1.30%
+1/30/14,Core PCE QoQ,1.10%
+1/30/14,Initial Jobless Claims,348
+1/30/14,Continuing Claims,2991
+1/30/14,Langer Consumer Comfort,-31.8
+1/30/14,Pending Home Sales MoM,-8.70%
+1/30/14,Pending Home Sales NSA YoY,-6.10%
+1/31/14,Employment Cost Index,0.50%
+1/31/14,Personal Income,0.00%
+1/31/14,Personal Spending,0.40%
+1/31/14,PCE Deflator MoM,0.20%
+1/31/14,PCE Deflator YoY,1.10%
+1/31/14,PCE Core Deflator MoM,0.10%
+1/31/14,PCE Core Deflator YoY,1.20%
+1/31/14,MNI Chicago PMI,59.6
+1/31/14,U. of Mich. Sentiment,81.2
+2/3/14,ISM Manufacturing,51.3
+2/3/14,ISM Prices Paid,60.5
+2/3/14,Construction Spending MoM,0.10%
+2/3/14,Wards Total Vehicle Sales,15.16
+2/4/14,Factory Orders,-1.50%
+2/5/14,MBA Mortgage Applications,0.40%
+2/5/14,ADP Employment Change,175
+2/5/14,ISM Services Index,54
+2/6/14,Challenger Job Cuts YoY,11.60%
+2/6/14,Trade Balance,($38.70)
+2/6/14,Nonfarm Productivity,3.20%
+2/6/14,Unit Labor Costs,-1.60%
+2/6/14,Initial Jobless Claims,331
+2/6/14,Continuing Claims,2964
+2/6/14,Langer Consumer Comfort,-33.1
+2/7/14,Change in Nonfarm Payrolls,113
+2/7/14,Two-Month Payroll Net Revision,34
+2/7/14,Change in Private Payrolls,142
+2/7/14,Change in Manufact. Payrolls,21
+2/7/14,Unemployment Rate,6.60%
+2/7/14,Average Hourly Earnings MoM,0.20%
+2/7/14,Average Hourly Earnings YoY,1.90%
+2/7/14,Average Weekly Hours All Employees,34.4
+2/7/14,Underemployment Rate,12.70%
+2/7/14,Labor Force Participation Rate,63.00%
+2/7/14,Consumer Credit,$18.76 
+2/11/14,NFIB Small Business Optimism,94.1
+2/11/14,JOLTS Job Openings,3990
+2/11/14,Wholesale Inventories MoM,0.30%
+2/11/14,Wholesale Trade Sales MoM,0.50%
+2/12/14,MBA Mortgage Applications,-2.00%
+2/12/14,Monthly Budget Statement,($10.40)
+2/13/14,Retail Sales Advance MoM,-0.40%
+2/13/14,Retail Sales Ex Auto MoM,0.00%
+2/13/14,Retail Sales Ex Auto and Gas,-0.20%
+2/13/14,Retail Sales Control Group,-0.30%
+2/13/14,Initial Jobless Claims,339
+2/13/14,Continuing Claims,2953
+2/13/14,Langer Consumer Comfort,-30.7
+2/13/14,Business Inventories,0.50%
+2/14/14,Import Price Index MoM,0.10%
+2/14/14,Import Price Index YoY,-1.50%
+2/14/14,Industrial Production MoM,-0.30%
+2/14/14,Capacity Utilization,78.50%
+2/14/14,Manufacturing (SIC) Production,-0.80%
+2/14/14,U. of Mich. Sentiment,81.2
+2/18/14,Empire Manufacturing,4.5
+2/18/14,Net Long-term TIC Flows,($45.90)
+2/18/14,Total Net TIC Flows,($119.60)
+2/18/14,NAHB Housing Market Index,46
+2/19/14,MBA Mortgage Applications,-4.10%
+2/19/14,PPI Final Demand MoM,0.20%
+2/19/14,PPI Final Demand YoY,1.20%
+2/19/14,Housing Starts,880
+2/19/14,Housing Starts MoM,-16.00%
+2/19/14,Building Permits,937
+2/19/14,FOMC Meeting Minutes,--
+2/20/14,CPI MoM,0.10%
+2/20/14,CPI Ex Food and Energy MoM,0.10%
+2/20/14,CPI YoY,1.60%
+2/20/14,CPI Ex Food and Energy YoY,1.60%
+2/20/14,CPI Core Index SA,235.843
+2/20/14,CPI Index NSA,233.916
+2/20/14,Initial Jobless Claims,336
+2/20/14,Continuing Claims,2981
+2/20/14,Langer Consumer Comfort,-30.6
+2/20/14,Philadelphia Fed Business Outlook,-6.3
+2/20/14,Mortgage Delinquencies,6.39%
+2/20/14,MBA Mortgage Foreclosures,2.86%
+2/20/14,Leading Index,0.30%
+2/21/14,Existing Home Sales,4.62
+2/21/14,Existing Home Sales MoM,-5.10%
+2/24/14,Chicago Fed Nat Activity Index,-0.39
+2/24/14,Dallas Fed Manf. Activity,0.3
+2/25/14,FHFA House Price Index MoM,0.80%
+2/25/14,House Price Purchase Index QoQ,1.20%
+2/25/14,Conf. Board Consumer Confidence,78.1
+2/25/14,Richmond Fed Manufact. Index,-6
+2/26/14,MBA Mortgage Applications,-8.50%
+2/26/14,New Home Sales,468
+2/26/14,New Home Sales MoM,9.60%
+2/27/14,Durable Goods Orders,-1.00%
+2/27/14,Durables Ex Transportation,1.10%
+2/27/14,Cap Goods Orders Nondef Ex Air,1.70%
+2/27/14,Cap Goods Ship Nondef Ex Air,-0.80%
+2/27/14,Initial Jobless Claims,348
+2/27/14,Continuing Claims,2964
+2/27/14,Langer Consumer Comfort,-28.6
+2/27/14,Kansas City Fed Manf. Activity,4
+2/28/14,GDP Annualized QoQ,2.40%
+2/28/14,Personal Consumption,2.60%
+2/28/14,GDP Price Index,1.60%
+2/28/14,Core PCE QoQ,1.30%
+2/28/14,MNI Chicago PMI,59.8
+2/28/14,U. of Mich. Sentiment,81.6
+2/28/14,Pending Home Sales MoM,0.10%
+2/28/14,Pending Home Sales NSA YoY,-9.10%
+3/3/14,Personal Income,0.30%
+3/3/14,Personal Spending,0.40%
+3/3/14,PCE Deflator MoM,0.10%
+3/3/14,PCE Deflator YoY,1.20%
+3/3/14,PCE Core Deflator MoM,0.10%
+3/3/14,PCE Core Deflator YoY,1.10%
+3/3/14,ISM Manufacturing,53.2
+3/3/14,ISM Prices Paid,60
+3/3/14,Construction Spending MoM,0.10%
+3/3/14,Wards Total Vehicle Sales,15.27
+3/5/14,MBA Mortgage Applications,9.40%
+3/5/14,ADP Employment Change,139
+3/5/14,ISM Services Index,51.6
+3/6/14,Challenger Job Cuts YoY,-24.40%
+3/6/14,Nonfarm Productivity,1.80%
+3/6/14,Unit Labor Costs,-0.10%
+3/6/14,Initial Jobless Claims,323
+3/6/14,Continuing Claims,2907
+3/6/14,Langer Consumer Comfort,-28.5
+3/6/14,Factory Orders,-0.70%
+3/6/14,Household Change in Net Worth,"$2,954 "
+3/7/14,Trade Balance,($39.10)
+3/7/14,Change in Nonfarm Payrolls,175
+3/7/14,Two-Month Payroll Net Revision,25
+3/7/14,Change in Private Payrolls,162
+3/7/14,Change in Manufact. Payrolls,6
+3/7/14,Unemployment Rate,6.70%
+3/7/14,Average Hourly Earnings MoM,0.40%
+3/7/14,Average Hourly Earnings YoY,2.20%
+3/7/14,Average Weekly Hours All Employees,34.2
+3/7/14,Underemployment Rate,12.60%
+3/7/14,Labor Force Participation Rate,63.00%
+3/7/14,Consumer Credit,$13.70 
+3/11/14,NFIB Small Business Optimism,91.4
+3/11/14,JOLTS Job Openings,3974
+3/11/14,Wholesale Inventories MoM,0.60%
+3/11/14,Wholesale Trade Sales MoM,-1.90%
+3/12/14,MBA Mortgage Applications,-2.10%
+3/13/14,Retail Sales Advance MoM,0.30%
+3/13/14,Retail Sales Ex Auto MoM,0.30%
+3/13/14,Retail Sales Ex Auto and Gas,0.30%
+3/13/14,Retail Sales Control Group,0.30%
+3/13/14,Initial Jobless Claims,315
+3/13/14,Continuing Claims,2855
+3/13/14,Import Price Index MoM,0.90%
+3/13/14,Import Price Index YoY,-1.10%
+3/13/14,Langer Consumer Comfort,-27.6
+3/13/14,Business Inventories,0.40%
+3/13/14,Monthly Budget Statement,($193.50)
+3/14/14,PPI Final Demand MoM,-0.10%
+3/14/14,PPI Final Demand YoY,0.90%
+3/14/14,U. of Mich. Sentiment,79.9
+3/17/14,Empire Manufacturing,5.6
+3/17/14,Industrial Production MoM,0.60%
+3/17/14,Capacity Utilization,78.80%
+3/17/14,Manufacturing (SIC) Production,0.80%
+3/17/14,NAHB Housing Market Index,47
+3/18/14,CPI MoM,0.10%
+3/18/14,CPI Ex Food and Energy MoM,0.10%
+3/18/14,CPI YoY,1.10%
+3/18/14,CPI Ex Food and Energy YoY,1.60%
+3/18/14,CPI Core Index SA,236.122
+3/18/14,CPI Index NSA,234.781
+3/18/14,Housing Starts,907
+3/18/14,Housing Starts MoM,-0.20%
+3/18/14,Building Permits,1018
+3/18/14,Net Long-term TIC Flows,$7.30 
+3/18/14,Total Net TIC Flows,$83.00 
+3/19/14,MBA Mortgage Applications,-1.20%
+3/19/14,Current Account Balance,($81.10)
+3/19/14,FOMC Rate Decision (Upper Bound),0.25%
+3/20/14,Initial Jobless Claims,320
+3/20/14,Continuing Claims,2889
+3/20/14,Langer Consumer Comfort,-29
+3/20/14,Philadelphia Fed Business Outlook,9
+3/20/14,Existing Home Sales,4.6
+3/20/14,Existing Home Sales MoM,-0.40%
+3/20/14,Leading Index,0.50%
+3/24/14,Chicago Fed Nat Activity Index,0.14
+3/25/14,FHFA House Price Index MoM,0.50%
+3/25/14,Conf. Board Consumer Confidence,82.3
+3/25/14,Richmond Fed Manufact. Index,-7
+3/25/14,New Home Sales,440
+3/25/14,New Home Sales MoM,-3.30%
+3/26/14,MBA Mortgage Applications,-3.50%
+3/26/14,Durable Goods Orders,2.20%
+3/26/14,Durables Ex Transportation,0.20%
+3/26/14,Cap Goods Orders Nondef Ex Air,-1.30%
+3/26/14,Cap Goods Ship Nondef Ex Air,0.50%
+3/27/14,GDP Annualized QoQ,2.60%
+3/27/14,Personal Consumption,3.30%
+3/27/14,GDP Price Index,1.60%
+3/27/14,Core PCE QoQ,1.30%
+3/27/14,Initial Jobless Claims,311
+3/27/14,Continuing Claims,2823
+3/27/14,Langer Consumer Comfort,-31.5
+3/27/14,Pending Home Sales MoM,-0.80%
+3/27/14,Pending Home Sales NSA YoY,-10.20%
+3/27/14,Kansas City Fed Manf. Activity,10
+3/28/14,Personal Income,0.30%
+3/28/14,Personal Spending,0.30%
+3/28/14,PCE Deflator MoM,0.10%
+3/28/14,PCE Deflator YoY,0.90%
+3/28/14,PCE Core Deflator MoM,0.10%
+3/28/14,PCE Core Deflator YoY,1.10%
+3/28/14,U. of Mich. Sentiment,80
+3/31/14,MNI Chicago PMI,55.9
+3/31/14,Dallas Fed Manf. Activity,4.9
+4/1/14,ISM Manufacturing,53.7
+4/1/14,ISM Prices Paid,59
+4/1/14,Construction Spending MoM,0.10%
+4/1/14,Wards Total Vehicle Sales,16.33
+4/2/14,MBA Mortgage Applications,-1.20%
+4/2/14,ADP Employment Change,191
+4/2/14,Factory Orders,1.60%
+4/3/14,Challenger Job Cuts YoY,-30.20%
+4/3/14,Trade Balance,($42.30)
+4/3/14,Initial Jobless Claims,326
+4/3/14,Continuing Claims,2836
+4/3/14,Langer Consumer Comfort,-30
+4/3/14,ISM Services Index,53.1
+4/4/14,Change in Nonfarm Payrolls,192
+4/4/14,Two-Month Payroll Net Revision,37
+4/4/14,Change in Private Payrolls,192
+4/4/14,Change in Manufact. Payrolls,-1
+4/4/14,Unemployment Rate,6.70%
+4/4/14,Average Hourly Earnings MoM,0.00%
+4/4/14,Average Hourly Earnings YoY,2.10%
+4/4/14,Average Weekly Hours All Employees,34.5
+4/4/14,Underemployment Rate,12.70%
+4/4/14,Labor Force Participation Rate,63.20%
+4/7/14,Consumer Credit,$16.49 
+4/8/14,NFIB Small Business Optimism,93.4
+4/8/14,JOLTS Job Openings,4173
+4/9/14,MBA Mortgage Applications,-1.60%
+4/9/14,Wholesale Inventories MoM,0.50%
+4/9/14,Wholesale Trade Sales MoM,0.70%
+4/9/14,FOMC Meeting Minutes,--
+4/10/14,Initial Jobless Claims,300
+4/10/14,Continuing Claims,2776
+4/10/14,Import Price Index MoM,0.60%
+4/10/14,Import Price Index YoY,-0.60%
+4/10/14,Langer Consumer Comfort,-31.9
+4/10/14,Monthly Budget Statement,($36.90)
+4/11/14,PPI Final Demand MoM,0.50%
+4/11/14,PPI Final Demand YoY,1.40%
+4/11/14,U. of Mich. Sentiment,82.6
+4/14/14,Retail Sales Advance MoM,1.10%
+4/14/14,Retail Sales Ex Auto MoM,0.70%
+4/14/14,Retail Sales Ex Auto and Gas,1.00%
+4/14/14,Retail Sales Control Group,0.80%
+4/14/14,Business Inventories,0.40%
+4/15/14,Empire Manufacturing,1.3
+4/15/14,CPI MoM,0.20%
+4/15/14,CPI Ex Food and Energy MoM,0.20%
+4/15/14,CPI YoY,1.50%
+4/15/14,CPI Ex Food and Energy YoY,1.70%
+4/15/14,CPI Core Index SA,236.604
+4/15/14,CPI Index NSA,236.293
+4/15/14,Net Long-term TIC Flows,$85.70 
+4/15/14,Total Net TIC Flows,$167.70 
+4/15/14,NAHB Housing Market Index,47
+4/16/14,MBA Mortgage Applications,4.30%
+4/16/14,Housing Starts,946
+4/16/14,Housing Starts MoM,2.80%
+4/16/14,Building Permits,990
+4/16/14,Industrial Production MoM,0.70%
+4/16/14,Capacity Utilization,79.20%
+4/16/14,Manufacturing (SIC) Production,0.50%
+4/17/14,Initial Jobless Claims,304
+4/17/14,Continuing Claims,2739
+4/17/14,Langer Consumer Comfort,-29.1
+4/17/14,Philadelphia Fed Business Outlook,16.6
+4/21/14,Chicago Fed Nat Activity Index,0.2
+4/21/14,Leading Index,0.80%
+4/22/14,FHFA House Price Index MoM,0.60%
+4/22/14,Richmond Fed Manufact. Index,7
+4/22/14,Existing Home Sales,4.59
+4/22/14,Existing Home Sales MoM,-0.20%
+4/23/14,MBA Mortgage Applications,-3.30%
+4/23/14,New Home Sales,384
+4/23/14,New Home Sales MoM,-14.50%
+4/24/14,Durable Goods Orders,2.60%
+4/24/14,Durables Ex Transportation,2.00%
+4/24/14,Cap Goods Orders Nondef Ex Air,2.20%
+4/24/14,Cap Goods Ship Nondef Ex Air,1.00%
+4/24/14,Initial Jobless Claims,329
+4/24/14,Continuing Claims,2680
+4/24/14,Langer Consumer Comfort,-25.4
+4/24/14,Kansas City Fed Manf. Activity,7
+4/25/14,U. of Mich. Sentiment,84.1
+4/28/14,Pending Home Sales MoM,3.40%
+4/28/14,Pending Home Sales NSA YoY,-7.40%
+4/28/14,Dallas Fed Manf. Activity,11.7
+4/29/14,Conf. Board Consumer Confidence,82.3
+4/30/14,MBA Mortgage Applications,-5.90%
+4/30/14,ADP Employment Change,220
+4/30/14,Employment Cost Index,0.30%
+4/30/14,GDP Annualized QoQ,0.10%
+4/30/14,Personal Consumption,3.00%
+4/30/14,GDP Price Index,1.30%
+4/30/14,Core PCE QoQ,1.30%
+4/30/14,MNI Chicago PMI,63
+4/30/14,FOMC Rate Decision (Upper Bound),0.25%
+5/1/14,Challenger Job Cuts YoY,5.70%
+5/1/14,Initial Jobless Claims,344
+5/1/14,Continuing Claims,2771
+5/1/14,Personal Income,0.50%
+5/1/14,Personal Spending,0.90%
+5/1/14,PCE Deflator MoM,0.20%
+5/1/14,PCE Deflator YoY,1.10%
+5/1/14,PCE Core Deflator MoM,0.20%
+5/1/14,PCE Core Deflator YoY,1.20%
+5/1/14,Langer Consumer Comfort,37.9
+5/1/14,ISM Manufacturing,54.9
+5/1/14,ISM Prices Paid,56.5
+5/1/14,Construction Spending MoM,0.20%
+5/1/14,Wards Total Vehicle Sales,15.98
+5/2/14,Change in Nonfarm Payrolls,288
+5/2/14,Two-Month Payroll Net Revision,36
+5/2/14,Change in Private Payrolls,273
+5/2/14,Change in Manufact. Payrolls,12
+5/2/14,Unemployment Rate,6.30%
+5/2/14,Average Hourly Earnings MoM,0.00%
+5/2/14,Average Hourly Earnings YoY,1.90%
+5/2/14,Average Weekly Hours All Employees,34.5
+5/2/14,Underemployment Rate,12.30%
+5/2/14,Labor Force Participation Rate,62.80%
+5/2/14,Factory Orders,1.10%
+5/5/14,ISM Services Index,55.2
+5/6/14,Trade Balance,($40.40)
+5/7/14,MBA Mortgage Applications,5.30%
+5/7/14,Nonfarm Productivity,-1.70%
+5/7/14,Unit Labor Costs,4.20%
+5/7/14,Consumer Credit,$17.53 
+5/8/14,Initial Jobless Claims,319
+5/8/14,Continuing Claims,2685
+5/8/14,Langer Consumer Comfort,37.1
+5/9/14,JOLTS Job Openings,4014
+5/9/14,Wholesale Inventories MoM,1.10%
+5/9/14,Wholesale Trade Sales MoM,1.40%
+5/12/14,Monthly Budget Statement,$106.90 
+5/13/14,NFIB Small Business Optimism,95.2
+5/13/14,Retail Sales Advance MoM,0.10%
+5/13/14,Retail Sales Ex Auto MoM,0.00%
+5/13/14,Retail Sales Ex Auto and Gas,-0.10%
+5/13/14,Retail Sales Control Group,-0.10%
+5/13/14,Import Price Index MoM,-0.40%
+5/13/14,Import Price Index YoY,-0.30%
+5/13/14,Business Inventories,0.40%
+5/14/14,MBA Mortgage Applications,3.60%
+5/14/14,PPI Final Demand MoM,0.60%
+5/14/14,PPI Final Demand YoY,2.10%
+5/15/14,Empire Manufacturing,19
+5/15/14,CPI MoM,0.30%
+5/15/14,CPI Ex Food and Energy MoM,0.20%
+5/15/14,CPI YoY,2.00%
+5/15/14,CPI Ex Food and Energy YoY,1.80%
+5/15/14,CPI Core Index SA,237.163
+5/15/14,CPI Index NSA,237.072
+5/15/14,Initial Jobless Claims,297
+5/15/14,Continuing Claims,2667
+5/15/14,Net Long-term TIC Flows,$4.00 
+5/15/14,Total Net TIC Flows,($126.10)
+5/15/14,Industrial Production MoM,-0.60%
+5/15/14,Capacity Utilization,78.60%
+5/15/14,Manufacturing (SIC) Production,-0.40%
+5/15/14,Langer Consumer Comfort,34.9
+5/15/14,Philadelphia Fed Business Outlook,15.4
+5/15/14,Mortgage Delinquencies,6.11%
+5/15/14,MBA Mortgage Foreclosures,2.65%
+5/15/14,NAHB Housing Market Index,45
+5/16/14,Housing Starts,1072
+5/16/14,Housing Starts MoM,13.20%
+5/16/14,Building Permits,1080
+5/16/14,U. of Mich. Sentiment,81.8
+5/21/14,MBA Mortgage Applications,0.90%
+5/21/14,FOMC Meeting Minutes,--
+5/22/14,Chicago Fed Nat Activity Index,-0.32
+5/22/14,Initial Jobless Claims,326
+5/22/14,Continuing Claims,2653
+5/22/14,Langer Consumer Comfort,34.1
+5/22/14,Existing Home Sales,4.65
+5/22/14,Existing Home Sales MoM,1.30%
+5/22/14,Leading Index,0.40%
+5/22/14,Kansas City Fed Manf. Activity,10
+5/23/14,New Home Sales,433
+5/23/14,New Home Sales MoM,6.40%
+5/27/14,Durable Goods Orders,0.80%
+5/27/14,Durables Ex Transportation,0.10%
+5/27/14,Cap Goods Orders Nondef Ex Air,-1.20%
+5/27/14,Cap Goods Ship Nondef Ex Air,-0.40%
+5/27/14,FHFA House Price Index MoM,0.70%
+5/27/14,House Price Purchase Index QoQ,1.30%
+5/27/14,Conf. Board Consumer Confidence,83
+5/27/14,Richmond Fed Manufact. Index,7
+5/27/14,Dallas Fed Manf. Activity,8
+5/28/14,MBA Mortgage Applications,-1.20%
+5/29/14,GDP Annualized QoQ,-1.00%
+5/29/14,Personal Consumption,3.10%
+5/29/14,GDP Price Index,1.30%
+5/29/14,Core PCE QoQ,1.20%
+5/29/14,Initial Jobless Claims,300
+5/29/14,Continuing Claims,2631
+5/29/14,Langer Consumer Comfort,33.3
+5/29/14,Pending Home Sales MoM,0.40%
+5/29/14,Pending Home Sales NSA YoY,-9.40%
+5/30/14,Personal Income,0.30%
+5/30/14,Personal Spending,-0.10%
+5/30/14,PCE Deflator MoM,0.20%
+5/30/14,PCE Deflator YoY,1.60%
+5/30/14,PCE Core Deflator MoM,0.20%
+5/30/14,PCE Core Deflator YoY,1.40%
+5/30/14,MNI Chicago PMI,65.5
+5/30/14,U. of Mich. Sentiment,81.9
+6/2/14,ISM Manufacturing,55.4
+6/2/14,ISM Prices Paid,60
+6/2/14,Construction Spending MoM,0.20%
+6/3/14,Factory Orders,0.70%
+6/3/14,Wards Total Vehicle Sales,16.7
+6/4/14,MBA Mortgage Applications,-3.10%
+6/4/14,ADP Employment Change,179
+6/4/14,Trade Balance,($47.20)
+6/4/14,Nonfarm Productivity,-3.20%
+6/4/14,Unit Labor Costs,5.70%
+6/4/14,ISM Services Index,56.3
+6/5/14,Challenger Job Cuts YoY,45.50%
+6/5/14,Initial Jobless Claims,312
+6/5/14,Continuing Claims,2603
+6/5/14,Langer Consumer Comfort,35.1
+6/5/14,Household Change in Net Worth,"$1,490 "
+6/6/14,Change in Nonfarm Payrolls,217
+6/6/14,Two-Month Payroll Net Revision,-6
+6/6/14,Change in Private Payrolls,216
+6/6/14,Change in Manufact. Payrolls,10
+6/6/14,Unemployment Rate,6.30%
+6/6/14,Average Hourly Earnings MoM,0.20%
+6/6/14,Average Hourly Earnings YoY,2.10%
+6/6/14,Average Weekly Hours All Employees,34.5
+6/6/14,Underemployment Rate,12.20%
+6/6/14,Labor Force Participation Rate,62.80%
+6/6/14,Consumer Credit,$26.85 
+6/10/14,NFIB Small Business Optimism,96.6
+6/10/14,JOLTS Job Openings,4455
+6/10/14,Wholesale Inventories MoM,1.10%
+6/10/14,Wholesale Trade Sales MoM,1.30%
+6/11/14,MBA Mortgage Applications,10.30%
+6/11/14,Monthly Budget Statement,($130.00)
+6/12/14,Retail Sales Advance MoM,0.30%
+6/12/14,Retail Sales Ex Auto MoM,0.10%
+6/12/14,Retail Sales Ex Auto and Gas,0.00%
+6/12/14,Retail Sales Control Group,0.00%
+6/12/14,Import Price Index MoM,0.10%
+6/12/14,Import Price Index YoY,0.40%
+6/12/14,Initial Jobless Claims,317
+6/12/14,Continuing Claims,2614
+6/12/14,Langer Consumer Comfort,35.5
+6/12/14,Business Inventories,0.60%
+6/13/14,PPI Final Demand MoM,-0.20%
+6/13/14,PPI Final Demand YoY,2.00%
+6/13/14,U. of Mich. Sentiment,81.2
+6/16/14,Empire Manufacturing,19.3
+6/16/14,Net Long-term TIC Flows,($24.20)
+6/16/14,Total Net TIC Flows,$136.80 
+6/16/14,Industrial Production MoM,0.60%
+6/16/14,Capacity Utilization,79.10%
+6/16/14,Manufacturing (SIC) Production,0.60%
+6/16/14,NAHB Housing Market Index,49
+6/17/14,CPI MoM,0.40%
+6/17/14,CPI Ex Food and Energy MoM,0.30%
+6/17/14,CPI YoY,2.10%
+6/17/14,CPI Ex Food and Energy YoY,2.00%
+6/17/14,CPI Core Index SA,237.776
+6/17/14,CPI Index NSA,237.9
+6/17/14,Housing Starts,1001
+6/17/14,Housing Starts MoM,-6.50%
+6/17/14,Building Permits,991
+6/18/14,MBA Mortgage Applications,-9.20%
+6/18/14,Current Account Balance,($111.20)
+6/18/14,FOMC Rate Decision (Upper Bound),0.25%
+6/19/14,Initial Jobless Claims,312
+6/19/14,Continuing Claims,2561
+6/19/14,Langer Consumer Comfort,37.1
+6/19/14,Philadelphia Fed Business Outlook,17.8
+6/19/14,Leading Index,0.50%
+6/23/14,Chicago Fed Nat Activity Index,0.21
+6/23/14,Existing Home Sales,4.89
+6/23/14,Existing Home Sales MoM,4.90%
+6/24/14,FHFA House Price Index MoM,0.00%
+6/24/14,Conf. Board Consumer Confidence,85.2
+6/24/14,Richmond Fed Manufact. Index,3
+6/24/14,New Home Sales,504
+6/24/14,New Home Sales MoM,18.60%
+6/25/14,MBA Mortgage Applications,-1.00%
+6/25/14,GDP Annualized QoQ,-2.90%
+6/25/14,Personal Consumption,1.00%
+6/25/14,GDP Price Index,1.30%
+6/25/14,Core PCE QoQ,1.20%
+6/25/14,Durable Goods Orders,-1.00%
+6/25/14,Durables Ex Transportation,-0.10%
+6/25/14,Cap Goods Ship Nondef Ex Air,0.40%
+6/25/14,Cap Goods Orders Nondef Ex Air,0.70%
+6/26/14,Initial Jobless Claims,312
+6/26/14,Continuing Claims,2571
+6/26/14,Personal Income,0.40%
+6/26/14,Personal Spending,0.20%
+6/26/14,PCE Deflator MoM,0.20%
+6/26/14,PCE Deflator YoY,1.80%
+6/26/14,PCE Core Deflator MoM,0.20%
+6/26/14,PCE Core Deflator YoY,1.50%
+6/26/14,Langer Consumer Comfort,37.1
+6/26/14,Kansas City Fed Manf. Activity,6
+6/27/14,U. of Mich. Sentiment,82.5
+6/30/14,MNI Chicago PMI,62.6
+6/30/14,Pending Home Sales MoM,6.10%
+6/30/14,Pending Home Sales NSA YoY,-6.90%
+6/30/14,Dallas Fed Manf. Activity,11.4
+7/1/14,ISM Manufacturing,55.3
+7/1/14,ISM Prices Paid,58
+7/1/14,Construction Spending MoM,0.10%
+7/1/14,Wards Total Vehicle Sales,16.92
+7/2/14,MBA Mortgage Applications,-0.20%
+7/2/14,ADP Employment Change,281
+7/2/14,Factory Orders,-0.50%
+7/3/14,Challenger Job Cuts YoY,-20.20%
+7/3/14,Trade Balance,($44.40)
+7/3/14,Change in Nonfarm Payrolls,288
+7/3/14,Two-Month Payroll Net Revision,29
+7/3/14,Change in Private Payrolls,262
+7/3/14,Change in Manufact. Payrolls,16
+7/3/14,Unemployment Rate,6.10%
+7/3/14,Average Hourly Earnings MoM,0.20%
+7/3/14,Average Hourly Earnings YoY,2.00%
+7/3/14,Initial Jobless Claims,315
+7/3/14,Average Weekly Hours All Employees,34.5
+7/3/14,Continuing Claims,2579
+7/3/14,Underemployment Rate,12.10%
+7/3/14,Labor Force Participation Rate,62.80%
+7/3/14,Langer Consumer Comfort,36.4
+7/3/14,ISM Services Index,56
+7/8/14,NFIB Small Business Optimism,95
+7/8/14,JOLTS Job Openings,4635
+7/8/14,Consumer Credit,$19.60 
+7/9/14,MBA Mortgage Applications,1.90%
+7/9/14,FOMC Meeting Minutes,--
+7/10/14,Initial Jobless Claims,304
+7/10/14,Continuing Claims,2584
+7/10/14,Langer Consumer Comfort,37.6
+7/10/14,Wholesale Inventories MoM,0.50%
+7/10/14,Wholesale Trade Sales MoM,0.70%
+7/11/14,Monthly Budget Statement,$70.50 
+7/15/14,Empire Manufacturing,25.6
+7/15/14,Retail Sales Advance MoM,0.20%
+7/15/14,Retail Sales Ex Auto MoM,0.40%
+7/15/14,Retail Sales Ex Auto and Gas,0.40%
+7/15/14,Retail Sales Control Group,0.60%
+7/15/14,Import Price Index MoM,0.10%
+7/15/14,Import Price Index YoY,1.20%
+7/15/14,Business Inventories,0.50%
+7/16/14,MBA Mortgage Applications,-3.60%
+7/16/14,PPI Final Demand MoM,0.40%
+7/16/14,PPI Final Demand YoY,1.90%
+7/16/14,Net Long-term TIC Flows,$19.40 
+7/16/14,Total Net TIC Flows,$35.50 
+7/16/14,Industrial Production MoM,0.20%
+7/16/14,Capacity Utilization,79.10%
+7/16/14,Manufacturing (SIC) Production,0.10%
+7/16/14,NAHB Housing Market Index,53
+7/17/14,Housing Starts,893
+7/17/14,Housing Starts MoM,-9.30%
+7/17/14,Building Permits,963
+7/17/14,Initial Jobless Claims,302
+7/17/14,Continuing Claims,2507
+7/17/14,Langer Consumer Comfort,37.5
+7/17/14,Philadelphia Fed Business Outlook,23.9
+7/18/14,U. of Mich. Sentiment,81.3
+7/18/14,Leading Index,0.30%
+7/21/14,Chicago Fed Nat Activity Index,0.12
+7/22/14,CPI MoM,0.30%
+7/22/14,CPI Ex Food and Energy MoM,0.10%
+7/22/14,CPI YoY,2.10%
+7/22/14,CPI Ex Food and Energy YoY,1.90%
+7/22/14,CPI Core Index SA,238.083
+7/22/14,CPI Index NSA,238.343
+7/22/14,FHFA House Price Index MoM,0.40%
+7/22/14,Richmond Fed Manufact. Index,7
+7/22/14,Existing Home Sales,5.04
+7/22/14,Existing Home Sales MoM,2.60%
+7/23/14,MBA Mortgage Applications,2.40%
+7/24/14,Initial Jobless Claims,284
+7/24/14,Continuing Claims,2500
+7/24/14,Langer Consumer Comfort,37.6
+7/24/14,New Home Sales,406
+7/24/14,New Home Sales MoM,-8.10%
+7/24/14,Kansas City Fed Manf. Activity,9
+7/25/14,Durable Goods Orders,0.70%
+7/25/14,Durables Ex Transportation,0.80%
+7/25/14,Cap Goods Ship Nondef Ex Air,-1.00%
+7/25/14,Cap Goods Orders Nondef Ex Air,1.40%
+7/28/14,Pending Home Sales MoM,-1.10%
+7/28/14,Pending Home Sales NSA YoY,-4.50%
+7/28/14,Dallas Fed Manf. Activity,12.7
+7/29/14,Conf. Board Consumer Confidence,90.9
+7/30/14,MBA Mortgage Applications,-2.20%
+7/30/14,ADP Employment Change,218
+7/30/14,GDP Annualized QoQ,4.00%
+7/30/14,Personal Consumption,2.50%
+7/30/14,GDP Price Index,2.00%
+7/30/14,Core PCE QoQ,2.00%
+7/30/14,FOMC Rate Decision (Upper Bound),0.25%
+7/31/14,Challenger Job Cuts YoY,24.40%
+7/31/14,Employment Cost Index,0.70%
+7/31/14,Initial Jobless Claims,302
+7/31/14,Continuing Claims,2539
+7/31/14,MNI Chicago PMI,52.6
+7/31/14,Langer Consumer Comfort,36.3
+8/1/14,Change in Nonfarm Payrolls,209
+8/1/14,Two-Month Payroll Net Revision,15
+8/1/14,Change in Private Payrolls,198
+8/1/14,Change in Manufact. Payrolls,28
+8/1/14,Unemployment Rate,6.20%
+8/1/14,Underemployment Rate,12.20%
+8/1/14,Average Hourly Earnings MoM,0.00%
+8/1/14,Average Hourly Earnings YoY,2.00%
+8/1/14,Average Weekly Hours All Employees,34.5
+8/1/14,Labor Force Participation Rate,62.90%
+8/1/14,Personal Income,0.40%
+8/1/14,Personal Spending,0.40%
+8/1/14,PCE Deflator MoM,0.20%
+8/1/14,PCE Deflator YoY,1.60%
+8/1/14,PCE Core Deflator MoM,0.10%
+8/1/14,PCE Core Deflator YoY,1.50%
+8/1/14,U. of Mich. Sentiment,81.8
+8/1/14,ISM Manufacturing,57.1
+8/1/14,ISM Prices Paid,59.5
+8/1/14,Construction Spending MoM,-1.80%
+8/1/14,Wards Total Vehicle Sales,16.4
+8/5/14,ISM Services Index,58.7
+8/5/14,Factory Orders,1.10%
+8/6/14,MBA Mortgage Applications,1.60%
+8/6/14,Trade Balance,($41.50)
+8/7/14,Initial Jobless Claims,289
+8/7/14,Continuing Claims,2518
+8/7/14,Langer Consumer Comfort,36.2
+8/7/14,Mortgage Delinquencies,6.04%
+8/7/14,MBA Mortgage Foreclosures,2.49%
+8/7/14,Consumer Credit,$17.26 
+8/8/14,Nonfarm Productivity,2.50%
+8/8/14,Unit Labor Costs,0.60%
+8/8/14,Wholesale Inventories MoM,0.30%
+8/8/14,Wholesale Trade Sales MoM,0.20%
+8/12/14,NFIB Small Business Optimism,95.7
+8/12/14,JOLTS Job Openings,4671
+8/12/14,Monthly Budget Statement,($94.60)
+8/13/14,MBA Mortgage Applications,-2.70%
+8/13/14,Retail Sales Advance MoM,0.00%
+8/13/14,Retail Sales Ex Auto MoM,0.10%
+8/13/14,Retail Sales Ex Auto and Gas,0.10%
+8/13/14,Retail Sales Control Group,0.10%
+8/13/14,Business Inventories,0.40%
+8/14/14,Initial Jobless Claims,311
+8/14/14,Continuing Claims,2544
+8/14/14,Import Price Index MoM,-0.20%
+8/14/14,Import Price Index YoY,0.80%
+8/14/14,Langer Consumer Comfort,36.8
+8/15/14,Empire Manufacturing,14.7
+8/15/14,PPI Final Demand MoM,0.10%
+8/15/14,PPI Final Demand YoY,1.70%
+8/15/14,Net Long-term TIC Flows,($18.70)
+8/15/14,Total Net TIC Flows,($153.50)
+8/15/14,Industrial Production MoM,0.40%
+8/15/14,Capacity Utilization,79.20%
+8/15/14,Manufacturing (SIC) Production,1.00%
+8/15/14,U. of Mich. Sentiment,79.2
+8/18/14,NAHB Housing Market Index,55
+8/19/14,CPI MoM,0.10%
+8/19/14,CPI Ex Food and Energy MoM,0.10%
+8/19/14,CPI YoY,2.00%
+8/19/14,CPI Ex Food and Energy YoY,1.90%
+8/19/14,CPI Core Index SA,238.311
+8/19/14,CPI Index NSA,238.25
+8/19/14,Housing Starts,1093
+8/19/14,Housing Starts MoM,15.70%
+8/19/14,Building Permits,1052
+8/20/14,MBA Mortgage Applications,1.40%
+8/20/14,FOMC Meeting Minutes,--
+8/21/14,Initial Jobless Claims,298
+8/21/14,Continuing Claims,2500
+8/21/14,Langer Consumer Comfort,36.6
+8/21/14,Philadelphia Fed Business Outlook,28
+8/21/14,Existing Home Sales,5.15
+8/21/14,Existing Home Sales MoM,2.40%
+8/21/14,Leading Index,0.90%
+8/25/14,Chicago Fed Nat Activity Index,0.39
+8/25/14,New Home Sales,412
+8/25/14,New Home Sales MoM,-2.40%
+8/25/14,Dallas Fed Manf. Activity,7.1
+8/26/14,Durable Goods Orders,22.60%
+8/26/14,Durables Ex Transportation,-0.80%
+8/26/14,Cap Goods Ship Nondef Ex Air,1.50%
+8/26/14,Cap Goods Orders Nondef Ex Air,-0.50%
+8/26/14,FHFA House Price Index MoM,0.40%
+8/26/14,House Price Purchase Index QoQ,0.80%
+8/26/14,Conf. Board Consumer Confidence,92.4
+8/26/14,Richmond Fed Manufact. Index,12
+8/27/14,MBA Mortgage Applications,2.80%
+8/28/14,Initial Jobless Claims,298
+8/28/14,Continuing Claims,2527
+8/28/14,GDP Annualized QoQ,4.20%
+8/28/14,Personal Consumption,2.50%
+8/28/14,GDP Price Index,2.10%
+8/28/14,Core PCE QoQ,2.00%
+8/28/14,Langer Consumer Comfort,37.3
+8/28/14,Pending Home Sales MoM,3.30%
+8/28/14,Pending Home Sales NSA YoY,-2.70%
+8/28/14,Kansas City Fed Manf. Activity,3
+8/29/14,Personal Income,0.20%
+8/29/14,Personal Spending,-0.10%
+8/29/14,PCE Deflator MoM,0.10%
+8/29/14,PCE Deflator YoY,1.60%
+8/29/14,PCE Core Deflator MoM,0.10%
+8/29/14,PCE Core Deflator YoY,1.50%
+8/29/14,MNI Chicago PMI,64.3
+8/29/14,U. of Mich. Sentiment,82.5
+9/2/14,ISM Manufacturing,59
+9/2/14,ISM Prices Paid,58
+9/2/14,Construction Spending MoM,1.80%
+9/3/14,MBA Mortgage Applications,0.20%
+9/3/14,Factory Orders,10.50%
+9/3/14,Wards Total Vehicle Sales,17.45
+9/4/14,Challenger Job Cuts YoY,-20.70%
+9/4/14,ADP Employment Change,204
+9/4/14,Trade Balance,($40.50)
+9/4/14,Initial Jobless Claims,302
+9/4/14,Continuing Claims,2464
+9/4/14,Nonfarm Productivity,2.30%
+9/4/14,Unit Labor Costs,-0.10%
+9/4/14,Langer Consumer Comfort,37.7
+9/4/14,ISM Services Index,59.6
+9/5/14,Change in Nonfarm Payrolls,142
+9/5/14,Two-Month Payroll Net Revision,-28
+9/5/14,Change in Private Payrolls,134
+9/5/14,Change in Manufact. Payrolls,0
+9/5/14,Unemployment Rate,6.10%
+9/5/14,Underemployment Rate,12.00%
+9/5/14,Average Hourly Earnings MoM,0.20%
+9/5/14,Average Hourly Earnings YoY,2.10%
+9/5/14,Average Weekly Hours All Employees,34.5
+9/5/14,Labor Force Participation Rate,62.80%
+9/8/14,Consumer Credit,$26.01 
+9/9/14,NFIB Small Business Optimism,96.1
+9/9/14,JOLTS Job Openings,4673
+9/10/14,MBA Mortgage Applications,-7.20%
+9/10/14,Wholesale Inventories MoM,0.10%
+9/10/14,Wholesale Trade Sales MoM,0.70%
+9/11/14,Initial Jobless Claims,315
+9/11/14,Continuing Claims,2487
+9/11/14,Langer Consumer Comfort,36.5
+9/11/14,Monthly Budget Statement,($128.70)
+9/12/14,Retail Sales Advance MoM,0.60%
+9/12/14,Retail Sales Ex Auto MoM,0.30%
+9/12/14,Retail Sales Ex Auto and Gas,0.50%
+9/12/14,Retail Sales Control Group,0.40%
+9/12/14,Import Price Index MoM,-0.90%
+9/12/14,Import Price Index YoY,-0.40%
+9/12/14,U. of Mich. Sentiment,84.6
+9/12/14,Business Inventories,0.40%
+9/15/14,Empire Manufacturing,27.5
+9/15/14,Industrial Production MoM,-0.10%
+9/15/14,Capacity Utilization,78.80%
+9/15/14,Manufacturing (SIC) Production,-0.40%
+9/16/14,PPI Final Demand MoM,0.00%
+9/16/14,PPI Final Demand YoY,1.80%
+9/16/14,Net Long-term TIC Flows,($18.60)
+9/16/14,Total Net TIC Flows,$57.70 
+9/17/14,MBA Mortgage Applications,7.90%
+9/17/14,CPI MoM,-0.20%
+9/17/14,CPI Ex Food and Energy MoM,0.00%
+9/17/14,CPI YoY,1.70%
+9/17/14,CPI Ex Food and Energy YoY,1.70%
+9/17/14,CPI Core Index SA,238.345
+9/17/14,CPI Index NSA,237.852
+9/17/14,Current Account Balance,($98.50)
+9/17/14,NAHB Housing Market Index,59
+9/17/14,FOMC Rate Decision (Upper Bound),0.25%
+9/18/14,Initial Jobless Claims,280
+9/18/14,Continuing Claims,2429
+9/18/14,Housing Starts,956
+9/18/14,Housing Starts MoM,-14.40%
+9/18/14,Building Permits,998
+9/18/14,Langer Consumer Comfort,37.2
+9/18/14,Philadelphia Fed Business Outlook,22.5
+9/18/14,Household Change in Net Worth,"$1,390 "
+9/19/14,Leading Index,0.20%
+9/22/14,Chicago Fed Nat Activity Index,-0.21
+9/22/14,Existing Home Sales,5.05
+9/22/14,Existing Home Sales MoM,-1.80%
+9/23/14,FHFA House Price Index MoM,0.10%
+9/23/14,Richmond Fed Manufact. Index,14
+9/24/14,MBA Mortgage Applications,-4.10%
+9/24/14,New Home Sales,504
+9/24/14,New Home Sales MoM,18.00%
+9/25/14,Initial Jobless Claims,293
+9/25/14,Continuing Claims,2439
+9/25/14,Durable Goods Orders,-18.20%
+9/25/14,Durables Ex Transportation,0.70%
+9/25/14,Cap Goods Ship Nondef Ex Air,0.10%
+9/25/14,Cap Goods Orders Nondef Ex Air,0.60%
+9/25/14,Langer Consumer Comfort,35.5
+9/25/14,Kansas City Fed Manf. Activity,6
+9/26/14,GDP Annualized QoQ,4.60%
+9/26/14,Personal Consumption,2.50%
+9/26/14,GDP Price Index,2.10%
+9/26/14,Core PCE QoQ,2.00%
+9/26/14,U. of Mich. Sentiment,84.6
+9/29/14,Personal Income,0.30%
+9/29/14,Personal Spending,0.50%
+9/29/14,PCE Deflator MoM,0.00%
+9/29/14,PCE Deflator YoY,1.50%
+9/29/14,PCE Core Deflator MoM,0.10%
+9/29/14,PCE Core Deflator YoY,1.50%
+9/29/14,Pending Home Sales MoM,-1.00%
+9/29/14,Pending Home Sales NSA YoY,-4.10%
+9/29/14,Dallas Fed Manf. Activity,10.8
+9/30/14,MNI Chicago PMI,60.5
+9/30/14,Conf. Board Consumer Confidence,86
+10/1/14,MBA Mortgage Applications,-0.20%
+10/1/14,ADP Employment Change,213
+10/1/14,ISM Manufacturing,56.6
+10/1/14,ISM Prices Paid,59.5
+10/1/14,Construction Spending MoM,-0.80%
+10/1/14,Wards Total Vehicle Sales,16.34
+10/2/14,Challenger Job Cuts YoY,-24.40%
+10/2/14,Initial Jobless Claims,287
+10/2/14,Continuing Claims,2398
+10/2/14,Langer Consumer Comfort,34.8
+10/2/14,Factory Orders,-10.10%
+10/3/14,Trade Balance,($40.10)
+10/3/14,Change in Nonfarm Payrolls,248
+10/3/14,Two-Month Payroll Net Revision,69
+10/3/14,Change in Private Payrolls,236
+10/3/14,Change in Manufact. Payrolls,4
+10/3/14,Unemployment Rate,5.90%
+10/3/14,Underemployment Rate,11.80%
+10/3/14,Average Hourly Earnings MoM,0.00%
+10/3/14,Average Hourly Earnings YoY,2.00%
+10/3/14,Average Weekly Hours All Employees,34.6
+10/3/14,Labor Force Participation Rate,62.70%
+10/3/14,ISM Services Index,58.6
+10/7/14,JOLTS Job Openings,4835
+10/7/14,Consumer Credit,$13.53 
+10/8/14,MBA Mortgage Applications,3.80%
+10/8/14,FOMC Meeting Minutes,--
+10/9/14,Initial Jobless Claims,287
+10/9/14,Continuing Claims,2381
+10/9/14,Langer Consumer Comfort,36.8
+10/9/14,Wholesale Inventories MoM,0.70%
+10/9/14,Wholesale Trade Sales MoM,-0.70%
+10/10/14,Import Price Index MoM,-0.50%
+10/10/14,Import Price Index YoY,-0.90%
+10/14/14,NFIB Small Business Optimism,95.3
+10/15/14,MBA Mortgage Applications,5.60%
+10/15/14,Empire Manufacturing,6.2
+10/15/14,Retail Sales Advance MoM,-0.30%
+10/15/14,Retail Sales Ex Auto MoM,-0.20%
+10/15/14,Retail Sales Ex Auto and Gas,-0.10%
+10/15/14,Retail Sales Control Group,-0.20%
+10/15/14,PPI Final Demand MoM,-0.10%
+10/15/14,PPI Final Demand YoY,1.60%
+10/15/14,Business Inventories,0.20%
+10/15/14,Monthly Budget Statement,$105.80 
+10/16/14,Initial Jobless Claims,264
+10/16/14,Continuing Claims,2389
+10/16/14,Industrial Production MoM,1.00%
+10/16/14,Capacity Utilization,79.30%
+10/16/14,Manufacturing (SIC) Production,0.50%
+10/16/14,Langer Consumer Comfort,36.2
+10/16/14,Philadelphia Fed Business Outlook,20.7
+10/16/14,NAHB Housing Market Index,54
+10/16/14,Net Long-term TIC Flows,$52.10 
+10/16/14,Total Net TIC Flows,$74.50 
+10/17/14,Housing Starts,1017
+10/17/14,Housing Starts MoM,6.30%
+10/17/14,Building Permits,1018
+10/17/14,U. of Mich. Sentiment,86.4
+10/21/14,Existing Home Sales,5.17
+10/21/14,Existing Home Sales MoM,2.40%
+10/22/14,MBA Mortgage Applications,11.60%
+10/22/14,CPI MoM,0.10%
+10/22/14,CPI YoY,1.70%
+10/22/14,CPI Index NSA,238.031
+10/22/14,CPI Ex Food and Energy MoM,0.10%
+10/22/14,CPI Ex Food and Energy YoY,1.70%
+10/22/14,CPI Core Index SA,238.677
+10/23/14,Chicago Fed Nat Activity Index,0.47
+10/23/14,Initial Jobless Claims,283
+10/23/14,Continuing Claims,2351
+10/23/14,FHFA House Price Index MoM,0.50%
+10/23/14,Langer Consumer Comfort,37.7
+10/23/14,Leading Index,0.80%
+10/23/14,Kansas City Fed Manf. Activity,4
+10/24/14,New Home Sales,467
+10/24/14,New Home Sales MoM,0.20%
+10/27/14,Pending Home Sales MoM,0.30%
+10/27/14,Pending Home Sales NSA YoY,3.00%
+10/27/14,Dallas Fed Manf. Activity,10.5
+10/28/14,Durable Goods Orders,-1.30%
+10/28/14,Durables Ex Transportation,-0.20%
+10/28/14,Cap Goods Ship Nondef Ex Air,-0.20%
+10/28/14,Cap Goods Orders Nondef Ex Air,-1.70%
+10/28/14,Conf. Board Consumer Confidence,94.5
+10/28/14,Richmond Fed Manufact. Index,20
+10/29/14,MBA Mortgage Applications,-6.60%
+10/29/14,FOMC Rate Decision (Upper Bound),0.25%
+10/29/14,FOMC Rate Decision (Lower Bound),0.00%
+10/30/14,Initial Jobless Claims,287
+10/30/14,Continuing Claims,2384
+10/30/14,GDP Annualized QoQ,3.50%
+10/30/14,Personal Consumption,1.80%
+10/30/14,GDP Price Index,1.30%
+10/30/14,Core PCE QoQ,1.40%
+10/30/14,Langer Consumer Comfort,37.2
+10/31/14,Employment Cost Index,0.70%
+10/31/14,Personal Income,0.20%
+10/31/14,Personal Spending,-0.20%
+10/31/14,PCE Deflator MoM,0.10%
+10/31/14,PCE Deflator YoY,1.40%
+10/31/14,PCE Core Deflator MoM,0.10%
+10/31/14,PCE Core Deflator YoY,1.50%
+10/31/14,MNI Chicago PMI,66.2
+10/31/14,U. of Mich. Sentiment,86.9
+11/3/14,ISM Manufacturing,59
+11/3/14,ISM Prices Paid,53.5
+11/3/14,Construction Spending MoM,-0.40%
+11/3/14,Wards Total Vehicle Sales,16.35
+11/4/14,Trade Balance,($43.00)
+11/4/14,Factory Orders,-0.60%
+11/5/14,MBA Mortgage Applications,-2.60%
+11/5/14,ADP Employment Change,230
+11/5/14,ISM Services Index,57.1
+11/6/14,Challenger Job Cuts YoY,11.90%
+11/6/14,Initial Jobless Claims,278
+11/6/14,Continuing Claims,2348
+11/6/14,Nonfarm Productivity,2.00%
+11/6/14,Unit Labor Costs,0.30%
+11/6/14,Langer Consumer Comfort,38.1
+11/7/14,Change in Nonfarm Payrolls,214
+11/7/14,Two-Month Payroll Net Revision,31
+11/7/14,Change in Private Payrolls,209
+11/7/14,Change in Manufact. Payrolls,15
+11/7/14,Unemployment Rate,5.80%
+11/7/14,Underemployment Rate,11.50%
+11/7/14,Average Hourly Earnings MoM,0.10%
+11/7/14,Average Hourly Earnings YoY,2.00%
+11/7/14,Average Weekly Hours All Employees,34.6
+11/7/14,Labor Force Participation Rate,62.80%
+11/7/14,Consumer Credit,$15.92 
+11/11/14,NFIB Small Business Optimism,96.1
+11/12/14,MBA Mortgage Applications,-0.90%
+11/12/14,Wholesale Inventories MoM,0.30%
+11/12/14,Wholesale Trade Sales MoM,0.20%
+11/13/14,Initial Jobless Claims,290
+11/13/14,Continuing Claims,2392
+11/13/14,Langer Consumer Comfort,38.2
+11/13/14,JOLTS Job Openings,4735
+11/13/14,Monthly Budget Statement,($121.70)
+11/14/14,Retail Sales Advance MoM,0.30%
+11/14/14,Retail Sales Ex Auto MoM,0.30%
+11/14/14,Retail Sales Ex Auto and Gas,0.60%
+11/14/14,Retail Sales Control Group,0.50%
+11/14/14,Import Price Index MoM,-1.30%
+11/14/14,Import Price Index YoY,-1.80%
+11/14/14,U. of Mich. Sentiment,89.4
+11/14/14,Business Inventories,0.30%
+11/14/14,Mortgage Delinquencies,5.85%
+11/14/14,MBA Mortgage Foreclosures,2.39%
+11/17/14,Empire Manufacturing,10.2
+11/17/14,Industrial Production MoM,-0.10%
+11/17/14,Capacity Utilization,78.90%
+11/17/14,Manufacturing (SIC) Production,0.20%
+11/18/14,PPI Final Demand MoM,0.20%
+11/18/14,PPI Final Demand YoY,1.50%
+11/18/14,NAHB Housing Market Index,58
+11/18/14,Net Long-term TIC Flows,$164.30 
+11/18/14,Total Net TIC Flows,($55.60)
+11/19/14,MBA Mortgage Applications,4.90%
+11/19/14,Housing Starts,1009
+11/19/14,Housing Starts MoM,-2.80%
+11/19/14,Building Permits,1080
+11/19/14,FOMC Meeting Minutes,--
+11/20/14,CPI MoM,0.00%
+11/20/14,CPI Ex Food and Energy MoM,0.20%
+11/20/14,CPI YoY,1.70%
+11/20/14,CPI Ex Food and Energy YoY,1.80%
+11/20/14,CPI Core Index SA,239.162
+11/20/14,CPI Index NSA,237.433
+11/20/14,Initial Jobless Claims,291
+11/20/14,Continuing Claims,2330
+11/20/14,Langer Consumer Comfort,38.5
+11/20/14,Philadelphia Fed Business Outlook,40.8
+11/20/14,Existing Home Sales,5.26
+11/20/14,Existing Home Sales MoM,1.50%
+11/20/14,Leading Index,0.90%
+11/21/14,Kansas City Fed Manf. Activity,7
+11/24/14,Chicago Fed Nat Activity Index,0.14
+11/24/14,Dallas Fed Manf. Activity,10.5
+11/25/14,GDP Annualized QoQ,3.90%
+11/25/14,Personal Consumption,2.20%
+11/25/14,GDP Price Index,1.40%
+11/25/14,Core PCE QoQ,1.40%
+11/25/14,FHFA House Price Index MoM,0.00%
+11/25/14,House Price Purchase Index QoQ,0.90%
+11/25/14,Conf. Board Consumer Confidence,88.7
+11/25/14,Richmond Fed Manufact. Index,4
+11/26/14,MBA Mortgage Applications,-4.30%
+11/26/14,Durable Goods Orders,0.40%
+11/26/14,Durables Ex Transportation,-0.90%
+11/26/14,Cap Goods Orders Nondef Ex Air,-1.30%
+11/26/14,Cap Goods Ship Nondef Ex Air,-0.40%
+11/26/14,Initial Jobless Claims,313
+11/26/14,Continuing Claims,2316
+11/26/14,Personal Income,0.20%
+11/26/14,Personal Spending,0.20%
+11/26/14,PCE Deflator MoM,0.10%
+11/26/14,PCE Deflator YoY,1.40%
+11/26/14,PCE Core Deflator MoM,0.20%
+11/26/14,PCE Core Deflator YoY,1.60%
+11/26/14,MNI Chicago PMI,60.8
+11/26/14,Langer Consumer Comfort,40.7
+11/26/14,U. of Mich. Sentiment,88.8
+11/26/14,Pending Home Sales MoM,-1.10%
+11/26/14,Pending Home Sales NSA YoY,2.20%
+11/26/14,New Home Sales,458
+11/26/14,New Home Sales MoM,0.70%
+12/1/14,ISM Manufacturing,58.7
+12/1/14,ISM Prices Paid,44.5
+12/2/14,Construction Spending MoM,1.10%
+12/2/14,Wards Total Vehicle Sales,17.08
+12/3/14,MBA Mortgage Applications,-7.30%
+12/3/14,ADP Employment Change,208
+12/3/14,Nonfarm Productivity,2.30%
+12/3/14,Unit Labor Costs,-1.00%
+12/3/14,ISM Services Index,59.3
+12/4/14,Challenger Job Cuts YoY,-20.70%
+12/4/14,Initial Jobless Claims,297
+12/4/14,Continuing Claims,2362
+12/4/14,Langer Consumer Comfort,39.8
+12/5/14,Change in Nonfarm Payrolls,321
+12/5/14,Two-Month Payroll Net Revision,44
+12/5/14,Change in Private Payrolls,314
+12/5/14,Change in Manufact. Payrolls,28
+12/5/14,Unemployment Rate,5.80%
+12/5/14,Average Hourly Earnings MoM,0.40%
+12/5/14,Average Hourly Earnings YoY,2.10%
+12/5/14,Average Weekly Hours All Employees,34.6
+12/5/14,Underemployment Rate,11.40%
+12/5/14,Labor Force Participation Rate,62.80%
+12/5/14,Trade Balance,($43.40)
+12/5/14,Factory Orders,-0.70%
+12/5/14,Consumer Credit,$13.23 
+12/9/14,NFIB Small Business Optimism,98.1
+12/9/14,JOLTS Job Openings,4834
+12/9/14,Wholesale Inventories MoM,0.40%
+12/9/14,Wholesale Trade Sales MoM,0.20%
+12/10/14,MBA Mortgage Applications,7.30%
+12/10/14,Monthly Budget Statement,($56.80)
+12/11/14,Retail Sales Advance MoM,0.70%
+12/11/14,Retail Sales Ex Auto MoM,0.50%
+12/11/14,Retail Sales Ex Auto and Gas,0.60%
+12/11/14,Retail Sales Control Group,0.60%
+12/11/14,Import Price Index MoM,-1.50%
+12/11/14,Import Price Index YoY,-2.30%
+12/11/14,Initial Jobless Claims,294
+12/11/14,Continuing Claims,2514
+12/11/14,Langer Consumer Comfort,41.3
+12/11/14,Business Inventories,0.20%
+12/11/14,Household Change in Net Worth,($141)
+12/12/14,PPI Final Demand MoM,-0.20%
+12/12/14,"PPI Ex Food, Energy, Trade MoM",0.00%
+12/12/14,PPI Final Demand YoY,1.40%
+12/12/14,"PPI Ex Food, Energy, Trade YoY",1.50%
+12/12/14,U. of Mich. Sentiment,93.8
+12/15/14,Empire Manufacturing,-3.6
+12/15/14,Industrial Production MoM,1.30%
+12/15/14,Capacity Utilization,80.10%
+12/15/14,Manufacturing (SIC) Production,1.10%
+12/15/14,NAHB Housing Market Index,57
+12/15/14,Net Long-term TIC Flows,($1.40)
+12/15/14,Total Net TIC Flows,$178.40 
+12/16/14,Housing Starts,1028
+12/16/14,Housing Starts MoM,-1.60%
+12/16/14,Building Permits,1035
+12/17/14,MBA Mortgage Applications,-3.30%
+12/17/14,CPI MoM,-0.30%
+12/17/14,CPI Ex Food and Energy MoM,0.10%
+12/17/14,CPI YoY,1.30%
+12/17/14,CPI Ex Food and Energy YoY,1.70%
+12/17/14,CPI Core Index SA,239.332
+12/17/14,CPI Index NSA,236.151
+12/17/14,Current Account Balance,($100.30)
+12/17/14,FOMC Rate Decision (Upper Bound),0.25%
+12/17/14,FOMC Rate Decision (Lower Bound),0.00%
+12/18/14,Initial Jobless Claims,289
+12/18/14,Continuing Claims,2373
+12/18/14,Langer Consumer Comfort,41.7
+12/18/14,Philadelphia Fed Business Outlook,24.5
+12/18/14,Leading Index,0.60%
+12/19/14,Kansas City Fed Manf. Activity,8
+12/22/14,Chicago Fed Nat Activity Index,0.73
+12/22/14,Existing Home Sales,4.93
+12/22/14,Existing Home Sales MoM,-6.10%
+12/23/14,Durable Goods Orders,-0.70%
+12/23/14,Durables Ex Transportation,-0.40%
+12/23/14,Cap Goods Orders Nondef Ex Air,0.00%
+12/23/14,Cap Goods Ship Nondef Ex Air,0.20%
+12/23/14,GDP Annualized QoQ,5.00%
+12/23/14,Personal Consumption,3.20%
+12/23/14,GDP Price Index,1.40%
+12/23/14,Core PCE QoQ,1.40%
+12/23/14,FHFA House Price Index MoM,0.60%
+12/23/14,U. of Mich. Sentiment,93.6
+12/23/14,Richmond Fed Manufact. Index,7
+12/23/14,New Home Sales,438
+12/23/14,New Home Sales MoM,-1.60%
+12/23/14,Personal Income,0.40%
+12/23/14,Personal Spending,0.60%
+12/23/14,PCE Deflator MoM,-0.20%
+12/23/14,PCE Deflator YoY,1.20%
+12/23/14,PCE Core Deflator MoM,0.00%
+12/23/14,PCE Core Deflator YoY,1.40%
+12/24/14,MBA Mortgage Applications,0.90%
+12/24/14,Initial Jobless Claims,280
+12/24/14,Continuing Claims,2403
+12/24/14,Langer Consumer Comfort,43.1
+12/29/14,Dallas Fed Manf. Activity,4.1
+12/30/14,Conf. Board Consumer Confidence,92.6
+12/31/14,Initial Jobless Claims,298
+12/31/14,Continuing Claims,2353
+12/31/14,MNI Chicago PMI,58.3
+12/31/14,Langer Consumer Comfort,42.7
+12/31/14,Pending Home Sales MoM,0.80%
+12/31/14,Pending Home Sales NSA YoY,1.70%
+1/2/15,Construction Spending MoM,-0.30%
+1/2/15,ISM Manufacturing,55.5
+1/2/15,ISM Prices Paid,38.5
+1/5/15,Wards Total Vehicle Sales,16.8
+1/6/15,Factory Orders,-0.70%
+1/6/15,ISM Services Index,56.2
+1/7/15,MBA Mortgage Applications,11.10%
+1/7/15,ADP Employment Change,241
+1/7/15,Trade Balance,($39.00)
+1/7/15,FOMC Meeting Minutes,--
+1/8/15,Challenger Job Cuts YoY,6.60%
+1/8/15,Initial Jobless Claims,294
+1/8/15,Continuing Claims,2452
+1/8/15,Langer Consumer Comfort,43.6
+1/8/15,Consumer Credit,$14.08 
+1/9/15,Change in Nonfarm Payrolls,252
+1/9/15,Two-Month Payroll Net Revision,50
+1/9/15,Change in Private Payrolls,240
+1/9/15,Change in Manufact. Payrolls,17
+1/9/15,Unemployment Rate,5.60%
+1/9/15,Average Hourly Earnings MoM,-0.20%
+1/9/15,Average Hourly Earnings YoY,1.70%
+1/9/15,Average Weekly Hours All Employees,34.6
+1/9/15,Underemployment Rate,11.20%
+1/9/15,Labor Force Participation Rate,62.70%
+1/9/15,Wholesale Inventories MoM,0.80%
+1/9/15,Wholesale Trade Sales MoM,-0.30%
+1/13/15,NFIB Small Business Optimism,100.4
+1/13/15,JOLTS Job Openings,4972
+1/13/15,Monthly Budget Statement,$1.90 
+1/14/15,MBA Mortgage Applications,49.10%
+1/14/15,Retail Sales Advance MoM,-0.90%
+1/14/15,Retail Sales Ex Auto MoM,-1.00%
+1/14/15,Retail Sales Ex Auto and Gas,-0.30%
+1/14/15,Retail Sales Control Group,-0.40%
+1/14/15,Import Price Index MoM,-2.50%
+1/14/15,Import Price Index YoY,-5.50%
+1/14/15,Business Inventories,0.20%
+1/15/15,Empire Manufacturing,10
+1/15/15,PPI Final Demand MoM,-0.30%
+1/15/15,PPI Final Demand YoY,1.10%
+1/15/15,"PPI Ex Food, Energy, Trade YoY",1.30%
+1/15/15,Initial Jobless Claims,316
+1/15/15,Continuing Claims,2424
+1/15/15,Langer Consumer Comfort,45.4
+1/15/15,Philadelphia Fed Business Outlook,6.3
+1/16/15,CPI MoM,-0.40%
+1/16/15,CPI Ex Food and Energy MoM,0.00%
+1/16/15,CPI YoY,0.80%
+1/16/15,CPI Ex Food and Energy YoY,1.60%
+1/16/15,CPI Core Index SA,239.339
+1/16/15,CPI Index NSA,234.812
+1/16/15,Industrial Production MoM,-0.10%
+1/16/15,Capacity Utilization,79.70%
+1/16/15,Manufacturing (SIC) Production,0.30%
+1/16/15,U. of Mich. Sentiment,98.2
+1/16/15,U. of Mich. Current Conditions,108.3
+1/16/15,U. of Mich. Expectations,91.6
+1/16/15,U. of Mich. 1 Yr Inflation,2.40%
+1/16/15,U. of Mich. 5-10 Yr Inflation,2.80%
+1/16/15,Total Net TIC Flows,($6.30)
+1/16/15,Net Long-term TIC Flows,$33.50 
+1/20/15,NAHB Housing Market Index,57
+1/21/15,MBA Mortgage Applications,14.20%
+1/21/15,Housing Starts,1089
+1/21/15,Housing Starts MoM,4.40%
+1/21/15,Building Permits,1032
+1/22/15,Initial Jobless Claims,307
+1/22/15,Continuing Claims,2443
+1/22/15,FHFA House Price Index MoM,0.80%
+1/22/15,Langer Consumer Comfort,44.7
+1/22/15,Kansas City Fed Manf. Activity,3
+1/23/15,Chicago Fed Nat Activity Index,-0.05
+1/23/15,Existing Home Sales,5.04
+1/23/15,Existing Home Sales MoM,2.40%
+1/23/15,Leading Index,0.50%
+1/26/15,Dallas Fed Manf. Activity,-4.4
+1/27/15,Durable Goods Orders,-3.40%
+1/27/15,Durables Ex Transportation,-0.80%
+1/27/15,Cap Goods Orders Nondef Ex Air,-0.60%
+1/27/15,Cap Goods Ship Nondef Ex Air,-0.20%
+1/27/15,New Home Sales,481
+1/27/15,New Home Sales MoM,11.60%
+1/27/15,Conf. Board Consumer Confidence,102.9
+1/27/15,Richmond Fed Manufact. Index,6
+1/28/15,MBA Mortgage Applications,-3.20%
+1/28/15,FOMC Rate Decision (Upper Bound),0.25%
+1/28/15,FOMC Rate Decision (Lower Bound),0.00%
+1/29/15,Initial Jobless Claims,265
+1/29/15,Continuing Claims,2385
+1/29/15,Langer Consumer Comfort,47.3
+1/29/15,Pending Home Sales MoM,-3.70%
+1/29/15,Pending Home Sales NSA YoY,8.50%
+1/30/15,Employment Cost Index,0.60%
+1/30/15,GDP Annualized QoQ,2.60%
+1/30/15,Personal Consumption,4.30%
+1/30/15,GDP Price Index,0.00%
+1/30/15,Core PCE QoQ,1.10%
+1/30/15,MNI Chicago PMI,59.4
+1/30/15,U. of Mich. Sentiment,98.1
+1/30/15,U. of Mich. Current Conditions,109.3
+1/30/15,U. of Mich. Expectations,91
+1/30/15,U. of Mich. 1 Yr Inflation,2.50%
+1/30/15,U. of Mich. 5-10 Yr Inflation,2.80%
+2/2/15,Personal Income,0.30%
+2/2/15,Personal Spending,-0.30%
+2/2/15,PCE Deflator MoM,-0.20%
+2/2/15,PCE Deflator YoY,0.70%
+2/2/15,PCE Core Deflator MoM,0.00%
+2/2/15,PCE Core Deflator YoY,1.30%
+2/2/15,Construction Spending MoM,0.40%
+2/2/15,ISM Manufacturing,53.5
+2/2/15,ISM Prices Paid,35
+2/3/15,Factory Orders,-3.40%
+2/3/15,Wards Total Vehicle Sales,16.56
+2/4/15,MBA Mortgage Applications,1.30%
+2/4/15,ADP Employment Change,213
+2/4/15,ISM Services Index,56.7
+2/5/15,Challenger Job Cuts YoY,17.60%
+2/5/15,Nonfarm Productivity,-1.80%
+2/5/15,Unit Labor Costs,2.70%
+2/5/15,Initial Jobless Claims,278
+2/5/15,Continuing Claims,2400
+2/5/15,Trade Balance,($46.60)
+2/5/15,Langer Consumer Comfort,45.5
+2/6/15,Change in Nonfarm Payrolls,257
+2/6/15,Two-Month Payroll Net Revision,147
+2/6/15,Change in Private Payrolls,267
+2/6/15,Change in Manufact. Payrolls,22
+2/6/15,Unemployment Rate,5.70%
+2/6/15,Average Hourly Earnings MoM,0.50%
+2/6/15,Average Hourly Earnings YoY,2.20%
+2/6/15,Average Weekly Hours All Employees,34.6
+2/6/15,Underemployment Rate,11.30%
+2/6/15,Labor Force Participation Rate,62.90%
+2/6/15,Consumer Credit,$14.76 
+2/10/15,NFIB Small Business Optimism,97.9
+2/10/15,Wholesale Inventories MoM,0.10%
+2/10/15,Wholesale Trade Sales MoM,-0.40%
+2/10/15,JOLTS Job Openings,5028
+2/11/15,MBA Mortgage Applications,-9.00%
+2/11/15,Monthly Budget Statement,($17.50)
+2/12/15,Retail Sales Advance MoM,-0.80%
+2/12/15,Retail Sales Ex Auto MoM,-0.90%
+2/12/15,Retail Sales Ex Auto and Gas,0.20%
+2/12/15,Retail Sales Control Group,0.10%
+2/12/15,Initial Jobless Claims,304
+2/12/15,Continuing Claims,2354
+2/12/15,Langer Consumer Comfort,44.3
+2/12/15,Business Inventories,0.10%
+2/13/15,Import Price Index MoM,-2.80%
+2/13/15,Import Price Index YoY,-8.00%
+2/13/15,U. of Mich. Sentiment,93.6
+2/13/15,U. of Mich. Current Conditions,103.1
+2/13/15,U. of Mich. Expectations,87.5
+2/13/15,U. of Mich. 1 Yr Inflation,2.80%
+2/13/15,U. of Mich. 5-10 Yr Inflation,2.70%
+2/17/15,Empire Manufacturing,7.8
+2/17/15,NAHB Housing Market Index,55
+2/18/15,MBA Mortgage Applications,-13.20%
+2/18/15,Housing Starts,1065
+2/18/15,Housing Starts MoM,-2.00%
+2/18/15,Building Permits,1053
+2/18/15,PPI Final Demand MoM,-0.80%
+2/18/15,"PPI Ex Food, Energy, Trade MoM",-0.30%
+2/18/15,PPI Final Demand YoY,0.00%
+2/18/15,"PPI Ex Food, Energy, Trade YoY",0.90%
+2/18/15,Industrial Production MoM,0.20%
+2/18/15,Capacity Utilization,79.40%
+2/18/15,Manufacturing (SIC) Production,0.20%
+2/18/15,FOMC Meeting Minutes,--
+2/18/15,Net Long-term TIC Flows,$35.40 
+2/18/15,Total Net TIC Flows,($174.80)
+2/19/15,Initial Jobless Claims,283
+2/19/15,Continuing Claims,2425
+2/19/15,Langer Consumer Comfort,44.6
+2/19/15,Philadelphia Fed Business Outlook,5.2
+2/19/15,Leading Index,0.20%
+2/23/15,Chicago Fed Nat Activity Index,0.13
+2/23/15,Existing Home Sales,4.82
+2/23/15,Existing Home Sales MoM,-4.90%
+2/23/15,Dallas Fed Manf. Activity,-11.2
+2/24/15,Conf. Board Consumer Confidence,96.4
+2/24/15,Richmond Fed Manufact. Index,0
+2/25/15,MBA Mortgage Applications,-3.50%
+2/25/15,MBA Mortgage Foreclosures,2.27%
+2/25/15,Mortgage Delinquencies,5.68%
+2/25/15,New Home Sales,481
+2/25/15,New Home Sales MoM,-0.20%
+2/26/15,CPI MoM,-0.70%
+2/26/15,CPI Ex Food and Energy MoM,0.20%
+2/26/15,CPI YoY,-0.10%
+2/26/15,CPI Ex Food and Energy YoY,1.60%
+2/26/15,CPI Index NSA,233.707
+2/26/15,CPI Core Index SA,239.871
+2/26/15,Durable Goods Orders,2.80%
+2/26/15,Durables Ex Transportation,0.30%
+2/26/15,Cap Goods Orders Nondef Ex Air,0.60%
+2/26/15,Cap Goods Ship Nondef Ex Air,-0.30%
+2/26/15,Initial Jobless Claims,313
+2/26/15,Continuing Claims,2401
+2/26/15,FHFA House Price Index MoM,0.80%
+2/26/15,House Price Purchase Index QoQ,1.40%
+2/26/15,Langer Consumer Comfort,42.7
+2/26/15,Kansas City Fed Manf. Activity,1
+2/27/15,GDP Annualized QoQ,2.20%
+2/27/15,Personal Consumption,4.20%
+2/27/15,GDP Price Index,0.10%
+2/27/15,Core PCE QoQ,1.10%
+2/27/15,MNI Chicago PMI,45.8
+2/27/15,Pending Home Sales MoM,1.70%
+2/27/15,Pending Home Sales NSA YoY,6.50%
+2/27/15,U. of Mich. Sentiment,95.4
+2/27/15,U. of Mich. Current Conditions,106.9
+2/27/15,U. of Mich. Expectations,88
+2/27/15,U. of Mich. 1 Yr Inflation,2.80%
+2/27/15,U. of Mich. 5-10 Yr Inflation,2.70%
+3/2/15,Personal Income,0.30%
+3/2/15,Personal Spending,-0.20%
+3/2/15,PCE Deflator MoM,-0.50%
+3/2/15,PCE Deflator YoY,0.20%
+3/2/15,PCE Core Deflator MoM,0.10%
+3/2/15,PCE Core Deflator YoY,1.30%
+3/2/15,Construction Spending MoM,-1.10%
+3/2/15,ISM Manufacturing,52.9
+3/2/15,ISM Prices Paid,35
+3/3/15,Wards Total Vehicle Sales,16.16
+3/4/15,MBA Mortgage Applications,0.10%
+3/4/15,ADP Employment Change,212
+3/4/15,ISM Services Index,56.9
+3/5/15,Challenger Job Cuts YoY,20.90%
+3/5/15,Nonfarm Productivity,-2.20%
+3/5/15,Unit Labor Costs,4.10%
+3/5/15,Initial Jobless Claims,320
+3/5/15,Continuing Claims,2421
+3/5/15,Langer Consumer Comfort,43.5
+3/5/15,Factory Orders,-0.20%
+3/6/15,Change in Nonfarm Payrolls,295
+3/6/15,Two-Month Payroll Net Revision,-18
+3/6/15,Change in Private Payrolls,288
+3/6/15,Change in Manufact. Payrolls,8
+3/6/15,Unemployment Rate,5.50%
+3/6/15,Average Hourly Earnings MoM,0.10%
+3/6/15,Average Hourly Earnings YoY,2.00%
+3/6/15,Average Weekly Hours All Employees,34.6
+3/6/15,Underemployment Rate,11.00%
+3/6/15,Labor Force Participation Rate,62.80%
+3/6/15,Trade Balance,($41.80)
+3/6/15,Consumer Credit,$11.56 
+3/10/15,NFIB Small Business Optimism,98
+3/10/15,Wholesale Inventories MoM,0.30%
+3/10/15,Wholesale Trade Sales MoM,-3.10%
+3/10/15,JOLTS Job Openings,4998
+3/11/15,MBA Mortgage Applications,-1.30%
+3/12/15,Retail Sales Advance MoM,-0.60%
+3/12/15,Retail Sales Ex Auto MoM,-0.10%
+3/12/15,Retail Sales Ex Auto and Gas,-0.20%
+3/12/15,Retail Sales Control Group,0.00%
+3/12/15,Initial Jobless Claims,289
+3/12/15,Continuing Claims,2418
+3/12/15,Import Price Index MoM,0.40%
+3/12/15,Import Price Index YoY,-9.40%
+3/12/15,Langer Consumer Comfort,43.3
+3/12/15,Business Inventories,0.00%
+3/12/15,Household Change in Net Worth,"$1,517 "
+3/12/15,Monthly Budget Statement,($192.30)
+3/13/15,PPI Final Demand MoM,-0.50%
+3/13/15,"PPI Ex Food, Energy, Trade MoM",0.00%
+3/13/15,PPI Final Demand YoY,-0.60%
+3/13/15,"PPI Ex Food, Energy, Trade YoY",0.70%
+3/13/15,U. of Mich. Sentiment,91.2
+3/13/15,U. of Mich. Current Conditions,103
+3/13/15,U. of Mich. Expectations,83.7
+3/13/15,U. of Mich. 1 Yr Inflation,3.00%
+3/13/15,U. of Mich. 5-10 Yr Inflation,2.80%
+3/16/15,Empire Manufacturing,6.9
+3/16/15,Industrial Production MoM,0.10%
+3/16/15,Capacity Utilization,78.90%
+3/16/15,Manufacturing (SIC) Production,-0.20%
+3/16/15,NAHB Housing Market Index,53
+3/16/15,Net Long-term TIC Flows,($27.20)
+3/16/15,Total Net TIC Flows,$88.30 
+3/17/15,Housing Starts,897
+3/17/15,Housing Starts MoM,-17.00%
+3/17/15,Building Permits,1092
+3/18/15,MBA Mortgage Applications,-3.90%
+3/18/15,FOMC Rate Decision (Upper Bound),0.25%
+3/18/15,FOMC Rate Decision (Lower Bound),0.00%
+3/19/15,Current Account Balance,($113.50)
+3/19/15,Initial Jobless Claims,291
+3/19/15,Continuing Claims,2417
+3/19/15,Langer Consumer Comfort,44.2
+3/19/15,Philadelphia Fed Business Outlook,5
+3/19/15,Leading Index,0.20%
+3/23/15,Chicago Fed Nat Activity Index,-0.11
+3/23/15,Existing Home Sales,4.88
+3/23/15,Existing Home Sales MoM,1.20%
+3/24/15,Real Avg Weekly Earnings YoY,2.60%
+3/24/15,CPI MoM,0.20%
+3/24/15,CPI Ex Food and Energy MoM,0.20%
+3/24/15,CPI YoY,0.00%
+3/24/15,CPI Ex Food and Energy YoY,1.70%
+3/24/15,CPI Index NSA,234.722
+3/24/15,CPI Core Index SA,240.247
+3/24/15,FHFA House Price Index MoM,0.30%
+3/24/15,New Home Sales,539
+3/24/15,New Home Sales MoM,7.80%
+3/24/15,Richmond Fed Manufact. Index,-8
+3/25/15,MBA Mortgage Applications,9.50%
+3/25/15,Durable Goods Orders,-1.40%
+3/25/15,Durables Ex Transportation,-0.40%
+3/25/15,Cap Goods Orders Nondef Ex Air,-1.40%
+3/25/15,Cap Goods Ship Nondef Ex Air,0.20%
+3/26/15,Initial Jobless Claims,282
+3/26/15,Continuing Claims,2416
+3/26/15,Langer Consumer Comfort,45.5
+3/26/15,Kansas City Fed Manf. Activity,-4
+3/27/15,GDP Annualized QoQ,2.20%
+3/27/15,Personal Consumption,4.40%
+3/27/15,GDP Price Index,0.10%
+3/27/15,Core PCE QoQ,1.10%
+3/27/15,U. of Mich. Sentiment,93
+3/27/15,U. of Mich. Current Conditions,105
+3/27/15,U. of Mich. Expectations,85.3
+3/27/15,U. of Mich. 1 Yr Inflation,3.00%
+3/27/15,U. of Mich. 5-10 Yr Inflation,2.80%
+3/30/15,Personal Income,0.40%
+3/30/15,Personal Spending,0.10%
+3/30/15,Real Personal Spending,-0.10%
+3/30/15,PCE Deflator MoM,0.20%
+3/30/15,PCE Deflator YoY,0.30%
+3/30/15,PCE Core Deflator MoM,0.10%
+3/30/15,PCE Core Deflator YoY,1.40%
+3/30/15,Pending Home Sales MoM,3.10%
+3/30/15,Pending Home Sales NSA YoY,12.00%
+3/30/15,Dallas Fed Manf. Activity,-17.4
+3/31/15,MNI Chicago PMI,46.3
+3/31/15,Conf. Board Consumer Confidence,101.3
+4/1/15,MBA Mortgage Applications,4.60%
+4/1/15,ADP Employment Change,189
+4/1/15,Construction Spending MoM,-0.10%
+4/1/15,ISM Manufacturing,51.5
+4/1/15,ISM Prices Paid,39
+4/1/15,Wards Total Vehicle Sales,17.05
+4/2/15,Challenger Job Cuts YoY,6.40%
+4/2/15,Initial Jobless Claims,268
+4/2/15,Continuing Claims,2325
+4/2/15,Trade Balance,($35.40)
+4/2/15,Langer Consumer Comfort,46.2
+4/2/15,Factory Orders,0.20%
+4/3/15,Change in Nonfarm Payrolls,126
+4/3/15,Two-Month Payroll Net Revision,-69
+4/3/15,Change in Private Payrolls,129
+4/3/15,Change in Manufact. Payrolls,-1
+4/3/15,Unemployment Rate,5.50%
+4/3/15,Average Hourly Earnings MoM,0.30%
+4/3/15,Average Hourly Earnings YoY,2.10%
+4/3/15,Average Weekly Hours All Employees,34.5
+4/3/15,Underemployment Rate,10.90%
+4/3/15,Labor Force Participation Rate,62.70%
+4/6/15,ISM Services Index,56.5
+4/7/15,JOLTS Job Openings,5133
+4/7/15,Consumer Credit,$15.52 
+4/8/15,MBA Mortgage Applications,0.40%
+4/8/15,FOMC Meeting Minutes,--
+4/9/15,Initial Jobless Claims,281
+4/9/15,Continuing Claims,2304
+4/9/15,Langer Consumer Comfort,47.9
+4/9/15,Wholesale Inventories MoM,0.30%
+4/9/15,Wholesale Trade Sales MoM,-0.20%
+4/10/15,Import Price Index MoM,-0.30%
+4/10/15,Import Price Index YoY,-10.50%
+4/13/15,Monthly Budget Statement,($52.90)
+4/14/15,Retail Sales Advance MoM,0.90%
+4/14/15,Retail Sales Ex Auto MoM,0.40%
+4/14/15,Retail Sales Ex Auto and Gas,0.50%
+4/14/15,Retail Sales Control Group,0.30%
+4/14/15,PPI Final Demand MoM,0.20%
+4/14/15,"PPI Ex Food, Energy, Trade MoM",0.20%
+4/14/15,PPI Final Demand YoY,-0.80%
+4/14/15,"PPI Ex Food, Energy, Trade YoY",0.80%
+4/14/15,NFIB Small Business Optimism,95.2
+4/14/15,Business Inventories,0.30%
+4/15/15,MBA Mortgage Applications,-2.30%
+4/15/15,Empire Manufacturing,-1.2
+4/15/15,Industrial Production MoM,-0.60%
+4/15/15,Capacity Utilization,78.40%
+4/15/15,Manufacturing (SIC) Production,0.10%
+4/15/15,NAHB Housing Market Index,56
+4/15/15,Net Long-term TIC Flows,$9.80 
+4/15/15,Total Net TIC Flows,$4.10 
+4/16/15,Housing Starts,926
+4/16/15,Housing Starts MoM,2.00%
+4/16/15,Building Permits,1039
+4/16/15,Initial Jobless Claims,294
+4/16/15,Continuing Claims,2268
+4/16/15,Langer Consumer Comfort,46.6
+4/16/15,Philadelphia Fed Business Outlook,7.5
+4/17/15,CPI MoM,0.20%
+4/17/15,CPI Ex Food and Energy MoM,0.20%
+4/17/15,CPI YoY,-0.10%
+4/17/15,CPI Ex Food and Energy YoY,1.80%
+4/17/15,CPI Index NSA,236.119
+4/17/15,CPI Core Index SA,240.793
+4/17/15,Real Avg Weekly Earnings YoY,2.20%
+4/17/15,U. of Mich. Sentiment,95.9
+4/17/15,U. of Mich. Current Conditions,108.2
+4/17/15,U. of Mich. Expectations,88
+4/17/15,U. of Mich. 1 Yr Inflation,2.50%
+4/17/15,U. of Mich. 5-10 Yr Inflation,2.60%
+4/17/15,Leading Index,0.20%
+4/20/15,Chicago Fed Nat Activity Index,-0.42
+4/22/15,MBA Mortgage Applications,2.30%
+4/22/15,FHFA House Price Index MoM,0.70%
+4/22/15,Existing Home Sales,5.19
+4/22/15,Existing Home Sales MoM,6.10%
